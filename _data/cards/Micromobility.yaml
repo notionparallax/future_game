@@ -1,0 +1,18 @@
+live: true
+body:
+    paragraphs:
+        - Micromobility is the use of any vehicle under 500kg. This encompases everything from rollerskates to golf buggies, but generally is used to think about the range between kick scooters and ebikes.
+        - It's often described as part of a city wide mobility strategy. If a city has a lot of electric scooters, then a 1km scoot to a bus stop isn't so bad.
+        - Most dockless schemes are private, and have met with very little success (bikes or scooters). Docked systems are usually run by cities and are less chaotic, but also less useful (the bikes aren't where you need them to be).
+card_type: social
+consider:
+    - If you don't need to dive a car on a road, how would it change that road?
+    - Will we ever stop putting dockless scooters into trees?
+    - How far would you scoot to join an Uber Pool trip?
+footnotes: {}
+image:
+    caption: ""
+    citation: Micromobility is The Future of Vehicles
+    link: https://medium.datadriveninvestor.com/micromobility-is-the-future-of-vehicles-220c2c0c9b0
+    source: micromobility.jpg
+title: Micromobility

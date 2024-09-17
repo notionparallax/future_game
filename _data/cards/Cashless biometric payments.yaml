@@ -1,0 +1,23 @@
+live: true
+body:
+    paragraphs:
+        - Since NFC payments&mdash;tap and go&mdash;became the norm, it has become increasingly unusual to actually make contact when you pay (i.e. insert or swipe). As this capacity has moved to phones people carry their wallets even less.
+        - "You know how iPhone\u2019s Face ID can trigger Apple Pay\u2019s contactless payments? Now imagine[^contactless] this technology being available in many retail settings, and in various implementations outside of the Apple ecosystem."
+card_type: technology
+consider:
+    - If you don't need your wallet to pay now because it's on your phone, then if you don't need anything, will people leave the house without their phones? Or is there too much other value wrapped up in the phone to let it go?
+    - This will need some very broad scale facial/fingerprint/iris recognition, will society value convenience over privacy again, or will this be the step too far?
+footnotes:
+    "contactless": "https://info.trendwatching.com/21-trends-for-2021"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
+meta:
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: Cashless biometric payments

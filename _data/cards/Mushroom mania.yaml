@@ -1,0 +1,20 @@
+live: false
+body:
+    paragraphs: Rising vegetarianism and the advancement of home cooking in the pandemic are two drivers for the rising excitement[^mushroomMania] around these versatile fungi. (My firm Nemesis wrote a trend report last year called The Umami Theory of Value[^utov], so I am not surprised about this trend!)
+card_type: trend
+consider: []
+footnotes:
+    "mushroomMania": "https://thepaper24-7.com/Content/Home/Home/Article/Kroger-s-Top-10-for-2020-and-2021/-2/-2/75062"
+    "utov": "https://nemesis.global/memos/umami"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
+meta:
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: Mushroom mania

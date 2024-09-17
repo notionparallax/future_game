@@ -1,0 +1,21 @@
+live: false
+body:
+    paragraphs:
+        - More widespread adoption of blockchain technologies will affect the way people portray identities online. Protest movements will demand transparency[^blockchainTransparency] from power, which will drive adoption of blockchain technologies with their public accounting systems. Historically speculative products like NFTs[^NFTs] (non-fungible tokens) which create unique digital identities for items like digital artworks or gaming items, will go mainstream.
+card_type: technology
+consider: []
+footnotes:
+    "blockchainTransparency": "https://intelligence.wundermanthompson.com/trend-reports/the-future-100-2021/"
+    "NFTs": "https://news.bitcoin.com/could-nfts-become-2021s-biggest-crypto-trend/"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
+meta:
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: Blockchain

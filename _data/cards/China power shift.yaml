@@ -1,0 +1,23 @@
+live: true
+body:
+    paragraphs:
+        - "China\u2019s status as an economic, political and cultural center will continue its meteoric rise. The US will continue its downward spiral. Chinese consumption patterns will set the tone[^chinaPDF] for the world."
+card_type: social
+consider:
+    - Is it inevitable that China will take the USA's place as the leading global power?
+    - Is there only room for one, or can China, the USA and Russia exist peacefully as equals?
+    - China's culture is quite different to the USA's, what will that culture look like when it's overlaid onto the 'Americanised west'?
+footnotes:
+    "chinaPDF": "https://www.mckinsey.com/~/media/mckinsey/featured%20insights/china/china%20still%20the%20worlds%20growth%20engine%20after%20covid%2019/mckinsey%20china%20consumer%20report%202021.pdf"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
+meta:
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: China power shift

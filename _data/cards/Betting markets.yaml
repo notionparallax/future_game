@@ -1,0 +1,29 @@
+live: true
+body:
+    paragraphs:
+        - On _Who Wants To Be A Millionaire_, the _Ask the audience_ option is almost always
+          accurate. The problem is that if you don't really know, then there's no incentive
+          to keep your mouth shut!
+        - Classical economists like markets because of their information aggregating capacity.
+          People who know something are incentivised to share that information with the
+          world through the market.
+        - "Betting markets, or Prediction markets are the same, but for ideas and questions.
+          E.g. there was a question: _Will Greece declare a new national currency in 2015?_[^48]
+          The PredictIt market said that there was only a 14% chance that it would happen;
+          it didn't."
+        - These sorts of markets are generally very accurate, but have had negative press
+          because they can be seen as "betting on terrorism" etc.
+card_type: social
+consider:
+    - Will being a knowledge aggregator become a profession?
+    - Will a track record of accuracy be a mark of social status? A hiring criteria?
+    - Are there things that are unacceptable to bet on?
+    - Does this create perverse incentives to manipulate the world to win bets?
+footnotes:
+    "48": "[See an example prediction market](https://www.predictit.org/?marketId=1294#data1) "
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image1.png
+title: Betting markets

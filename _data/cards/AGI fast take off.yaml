@@ -1,0 +1,28 @@
+live: true
+body:
+    paragraphs:
+        - Specific&mdash;or weak&mdash;AI is useful for things like image recognition, or
+          playing chess. Artificial General Intelligence (AGI) is different because it can
+          solve general problems.
+        - One of the problems that it is likely to want to solve is making itself more capable.
+          In an AGI fast take off scenario, the AI will put all its effort into improving
+          its ability. It may well start at dog level intelligence, and maybe over the next
+          week or two it'll get to chimp level intelligence. Within another day or so it'll
+          get to a stupid human, and within a minute or two will have become far smarter
+          than the most intelligent human ever to live.
+        - This card gives you the choice of whether you want to assume that the AGI will
+          try to kill us all, or if it'll think of itself as a loving parent to us.
+card_type: technology
+consider:
+    - Who "owns" a greater-than-human intelligence?
+    - Is it unethical to turn it off?
+    - What impacts would AI/AGI have on a future city or workforce?
+    - What if the AI's motivations don't align with ours? It's much smarter than us, should
+      we treat it as a god?
+footnotes: {}
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image50.png
+title: AGI fast take off

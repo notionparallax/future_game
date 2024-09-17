@@ -1,0 +1,27 @@
+live: true
+body:
+    paragraphs:
+        - Climate crises will increasingly force huge populations[^populationMigration] to relocate, causing strain over resource allocation, border issues, culture[^migrationCulture] and the overall safety of millions.
+        - Climate change in the past caused the collapse and migration of the Greenland colony, and was one of the reasons that the Germanic tribes moved on Rome, contributing to its collapse. In other words, this is not a new problem, and it's happened a lot before.
+        - The moden world has much more structured mechanisms for dealing with refugees, but was overwhelmed by a relatively small crisis in Syria. If all the pacific islands become uninhabitable, or North Africa gets too hot, there will be a movement on a scale that will overwhelm the current system.
+card_type: social
+consider:
+    - How do we define crisis? Are people moving because "the weather is better here" or because there's a genuine need to get away from their origin?
+    - If the climate is causing migration, people will be moving from uninhabitable to almost-uninhabitable areas. Will this trigger a cascade failure?
+    - Can we get around this with technology? Texas's cold weather infrastructure totally failed in February 2021, what would happen if there was a major power cut in Dubai?
+footnotes:
+    "populationMigration": "https://intelligence.wundermanthompson.com/trend-reports/the-future-100-2021/"
+    "migrationCulture": "https://www.accenture.com/us-en/insights/interactive/fjord-trends"
+
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
+meta:
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: Climate migration

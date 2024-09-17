@@ -1,0 +1,26 @@
+live: true
+body:
+    paragraphs:
+        - The ability to store energy and then release it later has been a constant human
+          obsession. Mill ponds are there to turn water wheels when it isn't raining and
+          clocks run on weights and springs that release their energy slowly.
+        - Chemical batteries make that energy portable in a way that was previously inconceivable[^21].
+        - Tesla's PowerWall batteries allow solar power to be used at night, and the same
+          batteries that are inside the power wall are used in cars. These allow the power
+          providers to load balance/peak shave so that they don't need to turn on more power
+          stations to handle peak loads.
+card_type: technology
+consider:
+    - Peak loads cost power suppliers a lot of money, who else stands to gain from batteries
+      apart from consumers?
+    - Will consumers prefer ever thinner phones or longer battery lives. What would life
+      be like if you only charged a phone once a month?
+    - Will the distribution of metals that make up batteries change global trade/power?
+footnotes:
+    "21": "Watch springs are the obvious precedent, but their energy density is tiny in comparison."
+image:
+    caption: "battery statistics"
+    citation: "battery university"
+    link: http://batteryuniversity.com/learn/article/battery_statistics
+    source: image21.gif
+title: Battery density

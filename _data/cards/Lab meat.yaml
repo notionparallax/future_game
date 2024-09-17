@@ -1,0 +1,20 @@
+live: true
+body:
+    paragraphs:
+        - Ruminants, like cows and sheep, emit a lot of greenhouse gasses. They are also
+          sentient beings. Those are two pretty compelling reasons not to eat them. However,
+          meat is a dense source of calories, protein and vitamins. If we can culture meat
+          in a lab, then we can have all the upsides without any of the downsides.
+card_type: technology
+consider:
+    - Will we start to design meats that aren't copies of animals?
+    - Will lab meat ever overcome the yuk factor?
+    - What will happen to the meat industry? What about the animals that are already alive?
+    - What will we do with all the spare land that is freed up?
+footnotes: {}
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: labmeat.jfif
+title: Lab meat

@@ -1,0 +1,28 @@
+live: true
+body:
+    paragraphs:
+        - The NSW _Department of Infrastructure Planning and Natural Resources_ estimates
+          that 60% of the world's population will be living within cities by the year 2030
+          and about 91.1% of the Australian population will live in cities. They expected
+          the population in the Sydney Region alone to grow by a net increase of 40,500
+          per year.
+        - The forecast demand for new residential development to support Sydney's current
+          population is 25,000 dwellings per year over the next ten years, with 25% of that
+          growth  located in Greenfield sites on the urban periphery and Greater Metropolitan
+          Region corridors.
+        - With the enlarging population and increasing urbanisation the demands on resources
+          will contribute to further degradation of the Australian environment and Sydney's
+          ever expanding urban sprawl.
+card_type: trend
+consider:
+    - Is it inevitable that the urbanisation trend will continue?
+    - Can we bring traditionally rural activities into cities too?
+    - What benefits could come from even greater urban density?
+    - What mistakes are cities making right now that we might not make in the future?
+footnotes: {}
+image:
+    caption: Populations and urbanisation percentages
+    citation: by Hannah Ritchie and Max Roser, Our World in Data
+    link: https://ourworldindata.org/urbanization
+    source: image6.jpg
+title: Urbanisation

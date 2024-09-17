@@ -1,0 +1,18 @@
+live: true
+title: Psychedelia
+body:
+    paragraphs:
+        - Shrooms are the new weed, commercially speaking, as new firms and funds scramble to monetize[^psilocybin] psilocybin in advance of its extended clinical applications. Psychedelics as a class of drugs continue to be destigmatized, relative to other drugs. Forecasts see this reaching a new level of mainstream saturation in coming years.
+card_type: trend
+consider: []
+footnotes:
+    "psilocybin": "https://www.benzinga.com/markets/cannabis/21/01/19329903/7-psychedelic-trend-predictions-for-2021"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
+meta:
+    sources:
+        - source_comment: This article has a list of trends, and the first pass is to just import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate

@@ -1,0 +1,23 @@
+live: true
+body:
+    paragraphs:
+        - The relationship between enormous corporations whose resources increasingly dwarf actual countries and small countries in need of debt relief will lead to unusually baroque tax-evasion schemes and complex international monopoly issues[^monopolyIssues].
+        - Philip K Dick predicted this in Autofac[^autofac], and there's precedent with the British and Dutch East India Companies, and Unilever in Nigeria[^unilever_nigeria].
+card_type: social
+consider:
+    - Given how much more powerful global corps are than states, will we start to see them taking control of nations soon? Why would they get involved at that level?
+    - The nation is a relatively new concept; should we treat it as a permanent one? What other models could superscede it?
+footnotes:
+    "autofac": '["Autofac" is a 1955 science fiction short story by American writer Philip K. Dick that features one of the earliest treatments of self-replicating machines](https://en.wikipedia.org/wiki/Autofac)'
+    "unilever_nigeria": "[How Nigeria transformed from a business into a country](https://www.pulse.ng/news/local/unilever-royal-niger-company-and-how-nigeria-transformed-from-a-business-into-a/15tym8p)"
+    "monopolyIssues": "https://www.home.saxo/insights/news-and-research/thought-leadership/outrageous-predictions"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: autofac.png
+meta:
+    sources:
+        - source_comment: This article has a list of trends, and the first pass is to just import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: Amazon Nations

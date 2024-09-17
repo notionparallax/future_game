@@ -1,0 +1,17 @@
+live: true
+body:
+    paragraphs:
+        - Algorithms like alpha go have been displaying signs of non-human creativity, i.e. they're doing things that their creators think are beyond the scope of their training.
+        - Other algorithms, like style transfer GANs, look creative, but are quite predictable. However they produce art-like outcomes which&mdash;it could be argued&mdash;is what most "creative" human "artists" do.
+card_type: technology
+consider:
+    - What is creativity? Can it be defined in a way that doesn't involve humans?
+    - Can a machine think? If you take a pragmatist view, does that matter?
+footnotes: {}
+image:
+    caption: "Artificial intelligence: Google's AlphaGo beats Go master Lee Se-dol
+Published12 March 2016"
+    citation: BBC
+    link: https://www.bbc.com/news/technology-35785875
+    source: alpha_go.jpg
+title: AI creativity

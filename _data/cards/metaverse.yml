@@ -1,0 +1,19 @@
+live: false
+body:
+    paragraphs:
+        - What is the metaverse?[^meta]
+card_type: technology
+consider: []
+footnotes:
+    "meta": "todo"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
+meta:
+    sources:
+        - source_comment:
+              commentCommentCommentComment
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: The Metaverse

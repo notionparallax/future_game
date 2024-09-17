@@ -1,0 +1,23 @@
+live: true
+body:
+    paragraphs:
+        - "Anything you can do or own yourself can probably be provided as a service[^service_xyz]
+          to you. Gmail is the most obvious example: email as a service. People tend not
+          to have a well at their house, they get water as a service."
+        - You can get computing and storage as a service from AWS. X as a service also applies
+          in the physical world. Uber and GoGet are examples of transport as a service.
+card_type: trend
+consider:
+    - What advantages are there for rolling your own? (This mean not using x as a service,
+      but making a version of that service for yourself.)
+    - What can't be turned into a service and why?
+    - What will people do when they have a service for everything?
+    - What do you own/do that could be provided as a service?
+footnotes:
+    "service_xyz": "[The World Of Everything-As-A-Service](http://techcrunch.com/2014/08/09/everything-as-a-service/), Tom Blomfield, Techcrunch"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image47.png
+title: XYZ as a service

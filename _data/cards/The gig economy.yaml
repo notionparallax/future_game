@@ -1,0 +1,29 @@
+live: true
+body:
+    paragraphs:
+        - Most people tend to work for one employer, and then they will move from project
+          to project for the same employer.  The Hollywood model means that you complete
+          a project and then go back into the market for employment.
+        - Its a bit like being a freelancer or consultant. People in this system get regular
+          price signals about their economic value. 'Stars' will be paid a lot, but if you
+          aren't really in demand you may struggle to get a job.
+        - These sorts of jobs offer very accessible employment, at the cost of long term
+          precarity, i.e. very little stability in their financial situation.
+        - This may erode certain employment benefits that have traditionally existed. It
+          also allows really talented people to maximally realise their value.
+card_type: social
+consider:
+    - Can humans be trusted to manage their own retirement funds, holiday allowance, etc?
+    - Would you be able to process the price signals well enough to get the best out of
+      life?
+    - What will it mean for companies?[^55]
+    - How does everyone employed as an individual 'contractor' improve or affect our economy,
+      society, built environment?
+footnotes:
+    "55": "a16z Podcast: [Companies, Networks, Crowds](https://a16z.com/2017/06/28/machine-platform-crowd/) "
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image26.jpg
+title: The gig economy

@@ -1,0 +1,25 @@
+live: true
+body:
+    paragraphs:
+        - Design Technology has long promised a world of increased productivity. BIM is
+          supposed to decrease the amount of work that design teams do to get given outcome.
+        - However, scope of work is going up; soon teams may need to deliver an _as built_
+          model to the client's facility managers. How do these trends balance?
+card_type: social
+consider:
+    - What were Architectural teams like in the past?
+    - How have Architectural teams of past the coordinated with builder, client and consultants?
+    - What is the Architectural team now?
+    - What is the Architectural team size of the future?
+    - What does the future Design Team look like?
+    - What are the implications of a Design Team who are all from the same company?
+    - What happens if there is no design team?
+    - What if resourcing within the Design Team was a matrix of availability on a weekly/daily/hourly
+      basis? (based on task, skill, expertise, training)
+footnotes:
+image:
+    caption: "Life as an intern, Paris, 1935"
+    citation: "(via Fondation le Corbusier)"
+    link: ""
+    source: image39.jpg
+title: Architectural team size

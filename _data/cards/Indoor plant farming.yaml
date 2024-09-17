@@ -1,0 +1,23 @@
+live: true
+body:
+    paragraphs:
+        - Plants are green because they reflect the green part of the visual light spectrum;
+          it turns out that plants need mainly pink light to photosynthesise. 1m of solar
+          panels can generate more than 1m of pink light, so it's very resource efficient.
+        - The plants are grown in racks, in a sealed warehouse. Each rack has lighting and
+          a water supply with nutrients in it. Because the building is sealed, there's no
+          need for pesticides because there are no pests. Because the plants are in racks,
+          each square metre on the floor can produce tens of square metres of plants.
+card_type: technology
+consider:
+    - If we do this, what will happen to the farming industry?
+    - What would happen to all the land that is currently used to grow plants?
+    - Not all plants can be grown like this. Plants that are tall are particularly unsuited,
+      e.g. fruit and corn. How will our diets shift to reflect the price differences?
+footnotes: {}
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: indoorplant.jfif
+title: Indoor plant farming

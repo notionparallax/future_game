@@ -1,0 +1,28 @@
+live: true
+body:
+    paragraphs:
+        - In the last quarter of a century the internet has changed the way the world operates.
+          Access to the internet isn't ubiquitous. A large part of the world can't access
+          what we take for granted. Projects like Facebook's internet.org[^ic31] and Google's
+          Project Loon[^ic32] were trying to change that but their parent company's deemed
+          them unprofitable.
+        - Those unconnected people stand to gain from internet access and are also a giant
+          market. The countries at the bottom of this graph have little in the way of fixed
+          infrastructure, so may leapfrog the countries at the top of the graph if satellite
+          internet becomes the norm.
+card_type: social
+consider:
+    - What could a society do if the penetration was 100%? Online democracy? Compete in
+      a global job market?
+    - What is preventing the last few % from being connected? Is it choice or something
+      else?
+footnotes:
+    "ic30": "https://bit.ly/3Hxlzl3"
+    "ic31": "[internet.org](https://internet.org/) was planning to make internet access available through solar powered planes."
+    "ic32": "[Loon](http://www.google.com/loon/) was planning to make internet access available through weather balloons."
+image:
+    caption: "[^ic30]"
+    citation: "Data from"
+    link: "https://goo.gl/L3TER1"
+    source: image38.png
+title: Internet coverage

@@ -1,0 +1,23 @@
+live: true
+body:
+    paragraphs:
+        - We are in the first flush of the wearable technology boom[^41]. The quantified
+          self[^qsm] that knowing your steps and heart rate allows for means that people can make more informed choices about their behaviour.
+        - "We are currently in a very naïve period of this trend. The things we measure  aren't the important things, they are the things that are easy to measure. The  feedback we get is distracting and doesn't allow us to be more present in our  lives. In the next generation of wearable, or even implantable, technology,  we'll be able to use it to maximise our health and wellbeing, and to be far more present than we currently are."
+        - "In vet science, there are sensors that sit in a cow's stomach that can relay back to the farmer the health of each cow. Humans have pacemakers, but non-therapeutic implantables are almost unheard of[^miow]."
+card_type: technology
+consider:
+    - What else could you measure and what would be the best way to do it?
+    - What would you do with that data?
+    - Who else would like to know that information about you? What information would you worry about if it was leaked?
+    # - Are you keen to become a cyborg?
+footnotes:
+    "41": Fifth, if you count clothes, shoes, spectacles and wrist watches as the first four."
+    qsm: "[The Quantified Self](https://quantifiedself.com/) movement was founded by Kevin Kelly, and whilst niche at the time is now so mainstream that it's basically not talked about any more."
+    miow: "See the [case of Meow-Ludo](https://www.abc.net.au/news/2018-03-16/opal-card-implant-man-pleads-guilty-transport-offences/9555608) who implanted an transport card into his hand"
+image:
+    caption: Apple watches have FDA approved ECG capabilities, but its usefulness is disputed
+    citation: 9 to 5 mac
+    link: https://9to5mac.com/2019/07/30/apple-watch-ecg-2/
+    source: Apple-Watch-ECG.jpg
+title: Wearable/implantable technology

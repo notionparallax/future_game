@@ -1,0 +1,31 @@
+live: true
+body:
+    paragraphs:
+        - Medicine has developed to a point where it is incredibly good at treating an imaginary,
+          statistically normal person. Each variable that could be part of your health has
+          a statistical range that is 'normal', perhaps subdivided by age, or sex, or race
+          if you are lucky.
+        - Genetic medicine is focused on treating each patient as an individual[^47]. Those
+          ranges would be hugely more specific. Based on your genetic markers you may need
+          to keep your potassium levels between X1 and X2. This leads to much more preventative
+          medicine being possible. This ultimately reduces the spending needed to achieve
+          a given level of health and also makes it possible to increase general health
+          for everyone.
+        - All that statistical specificity unlocks a dystopian side. Health insurers can
+          make much more accurate predictions about the true cost of insuring a person.
+          This means that people at risk of the worst diseases will also find it the hardest
+          to get health insurance.
+card_type: technology
+consider:
+    - Will this make us healthier?
+    - Will we choose mates who are genetically different to us, or to try to reduce the
+      likelihood of complications?
+    - Will it lead to people being denied healthcare/insurance?
+footnotes:
+    "47": "I'm mainly talking about [personalised medicine](https://en.wikipedia.org/wiki/Personalized_medicine) here:. Medicine that affects genes is another topic, big enough to justify its own card. "
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image34.jpg
+title: Genetic medicine

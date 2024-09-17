@@ -1,0 +1,24 @@
+live: true
+body:
+    paragraphs:
+        - "Like nutrition facts on food, listing carbon expenditures[^co2expenditure] related to various products on their packaging or in marketing materials will become a norm. This could be used to justify higher prices[^fasionpricing] for certain more \u201Ccarbon-responsible\u201D items."
+card_type: social
+consider:
+    - Is there space on the packaging? Packaging itself has a CO<sub>2</sub> cost.
+    - Does the public have the topic-literacy to understand carbon labelling? What other comms would need to accompany this?
+    - How would it account for varying CO<sub>2</sub> quantities by season and location of end consumer? E.g. a Summer cheese would make less CO<sub>2</sub> because the cows don't need heating and eat grass, but if it was flown from France to Australia it would have a high CO<sub>2</sub> quantity. Where would the labelling be done?
+footnotes:
+    "co2expenditure": "https://info.trendwatching.com/21-trends-for-2021"
+    "fasionpricing": "https://www.mckinsey.com/industries/retail/our-insights/state-of-fashion"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
+meta:
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: Carbon labelling for consumer goods

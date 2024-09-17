@@ -1,0 +1,26 @@
+live: true
+body:
+    paragraphs:
+        - "Perhaps unsurprisingly, global uncertainty has led to a boom in escapism[^escapismBoom], and all signs point to this continuing strongly into the next decade. Fantasy can and will take various forms, including long-form immersive gaming experiences, ketamine\u2019s recreational popularity and new acceptance as a clinical treatment, and increasing commercial emphasis on the worlds of young adult literature and its spin offs across media."
+        - There has been an increase in people shutting themselves away, in Japanese, Hikikomori[^Hikikomori], but at the same time the traditionally reclusive activity of gaming has become increasingly social, with streaming and multiplayer worlds.
+card_type: trend
+consider:
+    - Virtual worlds could easily get interesting and immersive enough that people wouldn't want to go out into the world. Is that a bad thing?
+    - What would you need to inject into virtual words to keep their inhabitants function members of the outside society? Is that necessary?
+    - Virtual worlds don't need to be geographically bounded; would it ultimately break down the nation state?
+    - what things need to be done in the real world?
+footnotes:
+    "escapismBoom": "https://www.foresightfactory.co/trends-report/"
+    "Hikikomori": "https://en.wikipedia.org/wiki/Hikikomori"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
+meta:
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: Escape into fantasy worlds

@@ -1,0 +1,15 @@
+live: false
+body:
+    paragraphs:
+        - .
+card_type: technology
+consider:
+    - Just as dogs become well loved members of military teams, robots do too. As robots become more capable, will humans value their "lives" more?
+    - Can we imagine an end game where robot armies fight on an island, to settle disputes?
+footnotes: {}
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image54.png
+title: Military robots

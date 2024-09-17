@@ -1,0 +1,29 @@
+live: true
+body:
+    paragraphs:
+        - As the pandemic has interrupted schooling[^schooling]
+          for millions, new relationships to online learning will continue to flourish,
+          in addition to trends like unschooling, which will penetrate new demographics
+          (beyond the fringe). The weight of student debt and continued class conflict will
+          also draw people away from the traditional path of college education.
+card_type: social
+consider:
+    - What is the value proposition of universities? Why not just move somewhere
+      extremely cheap and do MOOCs for 3 years?
+    - Is education about getting smarter, or about conforming, and signalling that conformance?
+    - As we live longer what is happening to the proportion of our lives we spend in education?
+    - Why do we generally educate in one block? Is that better than, for example, 2 years a decade?
+footnotes:
+    "schooling": "https://www.mintel.com/global-consumer-trends"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
+meta:
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: Breakdown of traditional education paths

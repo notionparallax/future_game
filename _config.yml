@@ -1,0 +1,48 @@
+title: A Game About The Future
+email: ben@notionparallax.co.uk
+description: > # this means to ignore newlines until "baseurl:"
+    This is where I write things down. It's the way I make space in my
+    head for new ideas. The ideas here were what I thought at the time,
+    but there is a very good chance that I no longer think that!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://notionparallax.co.uk" # the base hostname & protocol for your site
+author:
+    display_name: Ben
+    first_name: Ben
+    last_name: Doherty
+publisher: Notionparallax
+twitter_username: notionparallax
+github_username: notionparallax
+author-facebook: ben.doherty1
+pocket_publisher_token: 6a78034617208ee2ad4fa78c829687
+
+# Build settings
+markdown: kramdown
+kramdown:
+    input: GFM
+
+permalink: "/:year/:title"
+
+kramdown:
+    parse_block_html: true
+
+#manifest
+short_name: "NP"
+name: "Notion Parallax"
+default_locale: "en"
+start_url: "/?utm_source=homescreen"
+manifest_description: "Ben Doherty's blog"
+background_color: "#FCFCFC"
+theme_color: "#1f597a"
+display: fullscreen
+
+#add collections
+collections:
+    diary-entries:
+        output: true
+    tpf:
+        output: true
+    CODE1161:
+        output: true
+    s: #static pages
+        output: true

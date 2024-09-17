@@ -1,0 +1,24 @@
+live: true
+body:
+    paragraphs:
+        - On the surface, drone delivery is about pandering to rich people's whims. "I want a \[insert thing here\] now! Minimalism has been described as a thing that only the rich can afford&mdash;everyone else needs to have backups![^min] That could change if drone delivery takes off  in a big way. You needn't actually own anything because it could be delivered to you within a few minutes.
+        - The resources needed for everyone to own a ukulele could be put into making a few really good ones with energy left over to make other things.
+        - Drones could also be used to deliver medicine and other essentials to places that don't have fixed infrastructure like roads or power for refrigeration. E.g. taking a shepherd's insulin to her on the side of a hill.
+card_type: technology
+consider:
+    - How many of your belongings could you live without if just-in-time delivery was
+      possible?
+    - Can medical assistance be 'delivered'?
+    - What things of yours would and wouldn't you share if a drone would pick it up and
+      drop it off for you?
+    - What other infrastructure does this make obsolete?
+    - Could deliveries be made to apartment windows on high levels? How would the window
+      need to change?
+footnotes:
+    min: '[Minimalism: another boring product wealthy  people can buy](https://www.theguardian.com/lifeandstyle/2017/mar/04/minimalism-conspicuous-consumption-class)  \"Minimalism is just another form of conspicuous consumption, a way of saying  to the world: "Look at me! Look at all of the things I have refused  to buy!\" '
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image10.jpg
+title: Drone delivery

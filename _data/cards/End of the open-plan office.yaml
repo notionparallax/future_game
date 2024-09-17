@@ -1,0 +1,20 @@
+live: true
+body:
+    paragraphs:
+        - Besides being notoriously difficult for concentration and privacy, an airborne pandemic has lessened the appeal[^officeAppeal] of cramming big groups of people shoulder to shoulder in a single room.
+card_type: social
+consider: []
+footnotes:
+    "officeAppeal": "https://www.fastcompany.com/90588717/top-tech-trends-2021-post-pandemic-predictions-ai-fintech-health"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
+meta:
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: End of the open-plan office

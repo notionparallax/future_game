@@ -1,0 +1,14 @@
+---
+layout: null
+---
+
+[
+    {% for post in site.posts %}{
+    	"author":"{{ post.author.display_name }}",
+        "title":"{{ post.title | escape_once }}",
+        "url":  "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
+        "pretty_date":"{{ post.date | date: '%b %-d, %Y' }}",
+        "date": "{{ post.date | date_to_xmlschema }}"{% if post.description %},
+        "description": "{{ post.description | truncate: 250 | escape_once}}"{% endif %}
+    }{% if forloop.last == false %},{% endif %}{% endfor %}
+]

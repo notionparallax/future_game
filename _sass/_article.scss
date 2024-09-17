@@ -1,0 +1,234 @@
+.wrapper.post {
+    max-width: 40em;
+}
+
+article.post {
+    font-family: $body-font-family;
+
+    p {
+        @include media-query($on-palm) {
+            font-size: 1rem;
+        }
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5 {
+        font-family: $heading-font-family;
+    }
+
+    h1 {
+        font-size: 2.9rem;
+        line-height: 1;
+
+        @include media-query($on-palm) {
+            font-size: 2.2rem;
+        }
+    }
+
+    h2 {
+        font-size: 2.3rem;
+
+        @include media-query($on-palm) {
+            font-size: 2rem;
+        }
+    }
+
+    h3 {
+        font-size: 2rem;
+
+        @include media-query($on-palm) {
+            font-size: 1.8rem;
+        }
+    }
+
+    h4 {
+        font-size: 1.6rem;
+
+        @include media-query($on-palm) {
+            font-size: 1.4rem;
+        }
+    }
+
+    h5 {
+        font-size: 1.2rem;
+
+        @include media-query($on-palm) {
+            font-size: 1.2rem;
+        }
+    }
+
+    dt,
+    dd {
+        display: inline-block;
+        vertical-align: text-top;
+
+        @include media-query($on-palm) {
+            display: block;
+        }
+    }
+    dt {
+        width: 30%;
+        text-align: right;
+        padding-right: 0.5em;
+
+        @include media-query($on-palm) {
+            width: initial;
+            text-align: initial;
+            padding-right: initial;
+            font-weight: bold;
+        }
+    }
+    dt::after {
+        content: ":";
+
+        @include media-query($on-palm) {
+            content: none;
+        }
+    }
+    dd {
+        width: 69%;
+
+        @include media-query($on-palm) {
+            width: initial;
+        }
+    }
+    .new-topic {
+        font-weight: bold;
+
+        @include media-query($on-palm) {
+            margin-left: -0.7em;
+            margin-top: 0.6em;
+            font-size: 110%;
+        }
+    }
+
+    li {
+        margin-bottom: 1em;
+
+        p {
+            margin-top: 0.5em;
+        }
+    }
+
+    table {
+        display: block;
+        overflow-x: auto;
+    }
+
+    .small-caps {
+        font-style: initial;
+        font-variant: all-small-caps;
+    }
+
+    .underline {
+        font-style: initial;
+        text-decoration: underline;
+    }
+
+    q {
+        opacity: 0.9;
+    }
+
+    blockquote {
+        font-size: 120%;
+        width: 80%;
+
+        @include media-query($on-palm) {
+            border: 0;
+            font-size: 100%;
+        }
+
+        em {
+            font-style: normal;
+            margin-left: 0.1em;
+        }
+    }
+
+    .site-title {
+        opacity: 0.1;
+    }
+    .two-side-by-side {
+        img {
+            @include span-columns(6);
+        }
+    }
+    .half-width {
+        @include span-columns(6);
+        @include omega();
+        padding-top: 1em;
+
+        @include media-query($tiny) {
+            float: initial;
+            width: 100%;
+        }
+
+        &.small-pop {
+            @include media-query($on-palm) {
+                float: none;
+                width: initial;
+            }
+        }
+    }
+
+    .right {
+        float: right;
+        margin-left: 1em;
+    }
+
+    .left {
+        float: left;
+        margin-right: 1em;
+    }
+
+    figure {
+        @include media-query($on-palm) {
+            background-color: rgba($brand-color, 0.05);
+            margin-left: 0.5em;
+            margin-top: 0;
+            margin-right: -1em;
+            margin-bottom: 1em;
+            padding: 1em;
+            width: 100vw;
+
+            &:not(.half-width) {
+                margin-left: 0;
+
+                > p {
+                    margin: 0 -1em;
+                }
+            }
+        }
+
+        img {
+            width: 100%;
+        }
+
+        iframe {
+            border: 0;
+            height: 40vh;
+            width: 100%;
+        }
+
+        //blockquote {}
+
+        figcaption {
+            font-size: 85%;
+            font-weight: lighter;
+            padding: 0.5em 1em;
+
+            //cite {}
+
+            @include media-query($on-palm) {
+                font-size: 75%;
+                padding: initial;
+            }
+        }
+    }
+
+    sup {
+        font-size: 75%;
+    }
+}

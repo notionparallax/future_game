@@ -1,0 +1,28 @@
+live: true
+body:
+    paragraphs:
+        - Let's define drones as a class of robots that are able to do a human's bidding
+          with _some_ level of autonomy. That might just be the ability to hover level,
+          or it might be full autonomy over an assassination mission.
+        - There are drones deployed in military situations, drones do the vacuuming, drones
+          do aerial filming. The list of things that drones can do is only limited by how
+          far we can imagine at the moment.
+        - Most drones only have limited autonomy, but that is changing in military applications
+          and will change in commercial and domestic ones too.
+        - We can send drones to dangerous or inaccessible places. Wriggling into pipes to
+          look for leaks, or flying over cliffs to count sea birds.
+        - Drones were used to attack the Saudi Aramco oil refinery; this was consumer tech,
+          used in a military context.
+card_type: technology
+consider:
+    - What if drones get so small that we can't see them?
+    - Could warfare become entirely autonomous?
+    - What new types of jobs or applications might emerge for drones?
+    - Will drones displace a significant part of the labour force?
+footnotes: {}
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image25.jpg
+title: Drones

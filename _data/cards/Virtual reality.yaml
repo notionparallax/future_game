@@ -1,0 +1,23 @@
+live: true
+body:
+    paragraphs:
+        - Current virtual reality gives us a glimpse of how we'll experience it in the future.
+          There's a lot between us and fully believable, totally immersive virtual environments.
+          As we solve more and more of those problems, VR will become more useful. Breaking
+          out of gaming to be the standard method for video conferences, for virtual site
+          tours and for shopping.
+card_type: technology
+consider:
+    - If VR was perfect, would people still prefer the "authentic experience"[^50]
+    - Do crimes committed in VR have moral status? Killing? Rape? [^51]
+    - What could VR never simulate? Are you sure?
+    - Is VR just a step on the road to AR, or do they have different applications?
+footnotes:
+    "50": "[What Sort Of People Should There Be?](https://notionparallax.github.io/people/)"
+    "51": "[The Nether](https://en.wikipedia.org/wiki/The_Nether)"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image52.jpg
+title: Virtual reality

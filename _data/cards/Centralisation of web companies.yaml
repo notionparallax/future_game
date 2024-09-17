@@ -1,0 +1,27 @@
+live: true
+body:
+    paragraphs:
+        - Amazon is now bigger than Walmart. The internet allows companies to centralise
+          services. This is a long running trend; in 1850 your village  would have a singer
+          and someone who played an instrument for entertainment, but with the introduction
+          of music recording the wealth from entertainment was concentrated into the very
+          best entertainers. The same is happening to education and news providers.
+        - This has also enabled the "long tail", catering to ever more specific groups of
+          people, but the bulk of everyone's needs can be fulfilled by Amazon.
+        - With increasing globalisation, more and more services will be provided by a centralised
+          organisation, even if that organisation is coordinating others (e.g. Uber and
+          AirBnB).
+card_type: trend
+consider:
+    - Companies like Amazon and Ebay provide marketplace services to smaller companies;
+      connecting them to consumers. What are the impacts of this?
+    - Do we have all our eggs in one basket?
+    - Do we (consumers) stand to gain from an arms race?
+    - Politicians talk about "breaking up big tech". What effect would this have?
+footnotes:
+image:
+    caption: "Amazon is now bigger than Walmart"
+    citation: "Quartz"
+    link: "http://qz.com/462605/amazon-is-now-bigger-than-walmart/"
+    source: image11.png
+title: Centralisation of web companies

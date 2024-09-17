@@ -1,0 +1,31 @@
+live: true
+body:
+    paragraphs:
+        - Broadband internet unlocks so much of our urban economy in the developed world
+          but that is a small part of the earth's surface.
+        - What would access to broadband do for rural African farmers, or for Antarctic
+          explorers?
+        - Google had project Loon, Facebook tried giant autonomous planes that act as repeater
+          stations to the ground. SpaceX _is_ putting a network of toaster-sized internet-satellites
+          into orbit and .
+        - If everyone in the world has access to the same markets it would have a huge levelling
+          effect. It might raise the incomes of the poorest, but it might well lower the
+          incomes of the most well-off.
+card_type: trend
+consider:
+    - What can you do with fast internet that you can't with slow internet?
+    - Could the world's best robotic surgeons operate on the cases that most needed their
+      help, regardless of how close they were to a big hospital?
+    - Could low income Indian children get educated by the best teachers?
+    - Could Ethiopian graphic designers sell their expertise to Chilean wine producers?
+    - What are the exponential potentials with this card?
+    - If broadband is ubiquitous (e.g. available in national parks), will it be possible
+      to get away from it? Is this a good thing? Is it a technology problem or a social
+      problem?
+footnotes: {}
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image15.jpg
+title: Ubiquitous broadband

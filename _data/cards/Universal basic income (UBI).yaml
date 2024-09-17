@@ -1,0 +1,26 @@
+live: true
+body:
+    paragraphs:
+        - UBI is the idea that everyone in a society gets paid a stipend by the state. For
+          example everyone gets $1000 every month, and any money you make on top of that
+          (after tax) is yours.
+        - "There is a lot of discussion about what _universal_, _basic_ and  _income_ actually
+          mean in this context. Is _universal_: everyone inside the state's boundary, all
+          citizens, all citizens over a certain age, all male landowning citizens? Is _basic_
+          enough to not starve, enough to have a living wage?"
+        - It's popular across the political spectrum, for different reasons. Small government
+          advocates like it because it'll reduce reliance on the welfare state, big government
+          advocates like it because it's a universal safety net.
+card_type: social
+consider:
+    - What would you consider universal to mean? Basic? Income?
+    - If you need more than the basic amount (e.g. disability allowance) will society
+      look after you?
+    - Would getting "free money" encourage people to not work?
+footnotes: {}
+image:
+    caption: Simple graph showing what Universal Basic Income is doing for society
+    citation: u/canadaduane
+    link: https://www.reddit.com/r/BasicIncome/comments/6z728w/simple_graph_showing_what_universal_basic_income/
+    source: ubi.png
+title: Universal basic income (UBI)

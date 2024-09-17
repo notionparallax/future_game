@@ -1,0 +1,23 @@
+live: false
+title: The Circular Economy
+body:
+    paragraphs:
+        - What is it?
+card_type: technology
+consider:
+    - what shoudl we think about?
+footnotes:
+    IDENTIFIER: the footnote, with a [link](http://rickroll.com)
+image:
+    caption: An example of DfMA design refinement to improve assembly ease.
+    citation: "Boothroyd, Geoffrey, Peter Dewhurst, and Winston A. Knight. Product Design for Manufacture and Assembly. 3rd ed. Manufacturing Engineering and Materials Processing 74. Boca Raton, FL: CRC Press, 2011. p.83."
+    link: https://www.routledge.com/Product-Design-for-Manufacture-and-Assembly/Boothroyd-Dewhurst-Knight/p/book/9781420089271
+    source: dmfa.jpg
+meta:
+    sources:
+        - source_comment: Your name, and why you thought this was an interesting topic
+          source_link: A link to something that prompted this update
+          update_date: 2022-22-2 #an iso date, yyyy-mm-dd
+        - source_comment: Your name, and why you thought this card needed an update
+          source_link: A link to something that prompted this update
+          update_date: 2022-22-2 #an iso date, yyyy-mm-dd

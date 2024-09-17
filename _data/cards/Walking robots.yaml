@@ -1,0 +1,23 @@
+live: true
+body:
+    paragraphs:
+        - Legs have lots of advantages over wheels. 2, 4 and more, legged robots are able
+          to go places that wheeled and tracked vehicles can't[^40]. That means that we
+          can send robots to map remote places, or to navigate places designed for humans.
+          (Or other legged things!)
+        - Most of the current crop of robots have military origins, but they are also ideal
+          of other types of hostile environments, like firefighting, rescue or space!
+card_type: technology
+consider:
+    - What other sectors could these robots be used in?
+    - Wheels need smooth surfaces, legs don't. Will we need fewer roads?
+    - Does this have an outsized effect on humans' exceptional talent of mobility in difficult
+      spaces? Will it affect employment?
+footnotes:
+    "40": " Or can't without causing substantial damage."
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image14.jpg
+title: Walking robots

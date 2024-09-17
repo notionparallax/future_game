@@ -1,0 +1,20 @@
+live: true
+body:
+    paragraphs:
+        - "Spotify\u2019s move toward mood-driven instead of genre-driven playlists has been successful to the point of suggesting that musical genres themselves will be increasingly outmoded[^outmodedGenres] in the coming years \u2013 or at least completely illegible."
+card_type: social
+consider: []
+footnotes:
+    "outmodedGenres": "https://victrola.com/blogs/articles/music-industry-trends-to-look-for-in-2021"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
+meta:
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: Death of music genres

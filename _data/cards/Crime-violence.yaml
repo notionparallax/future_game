@@ -1,0 +1,24 @@
+live: true
+body:
+    paragraphs:
+        - Generally, crime and violence seems to be declining overall[^24] [^25]. This may
+          be because of better policing, or more surveillance. It could just be that we
+          are generally richer, and therefore we feel less compelled to risk committing
+          crimes to obtain what we don't have.
+card_type: trend
+consider:
+    - How much crime went unreported in the past? Has this amount increased or decreased?
+    - Has the Overton window moved to include new acts within the definition of _violence_?
+    - Are we less violent because we have 'advanced' as a society, or because we are more
+      afraid of getting caught?
+footnotes:
+    "22": "From Wikipedia: [Crime in the United States](https://en.wikipedia.org/wiki/Crime_in_the_United_States)"
+    "23": http://violentdeathproject.com/countries/australia
+    "24": "[The Better Angels of Our Nature](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature)"
+    "25": "[for a nice interactive view of this phenomenon this article is good](http://www.theatlantic.com/politics/archive/2015/02/the-many-causes-of-americas-decline-in-crime/385364/)"
+image:
+    caption: Australia is blue[^23], USA is red.[^22]
+    citation: ""
+    link: ""
+    source: image18.png
+title: Crime/violence

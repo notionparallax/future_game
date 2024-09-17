@@ -1,0 +1,25 @@
+live: true
+body:
+    paragraphs:
+        - Single use plastic items are low capital cost, but have a significant environmental
+          impact as they don't break down for centuries. This has had a particular effect
+          on marine wildlife.
+        - Some jurisdictions have banned single use bags and drinking straws. Others have
+          banned _all_ plastic, single use items.
+card_type: social
+consider:
+    - Will this lead to people carrying more with them (steel straw, etc.), or will people
+      move to eating-in more?
+    - Does this trend affect anyone negatively? If there are no straws available, will
+      disabled people be further disadvantaged? How do you feel about this?
+    - How much further should this be taken? What else should be banned? What should _not_
+      be banned?
+    - If plastic from one country damages the ocean wildlife from another country, what
+      should the wronged country do?
+footnotes: {}
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: pollutedbyplastic.jpeg
+title: Single use plastic ban

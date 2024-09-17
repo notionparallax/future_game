@@ -1,0 +1,22 @@
+---
+title: Smart homes & internet of things
+image:
+    source: image37.png
+    caption: This is an image of an xxx
+    citation: by YYY
+    link: http://idisrupted.com/disrupted-electronics-internet-things-may-create-moores-law-steroids/
+live: true
+body:
+    paragraphs:
+        - Legislation is already in place that all white goods will have wireless communication built in. That means that a central controller in your house will be able to tell your air conditioning to ease off a couple of degrees to  reduce peak electricity loading.
+        - The dream of smart refrigerators ordering more milk as you run out is getting closer. There are lots of other issues that are less obvious and less friendly about every aspect of your life being instrumented. E.g. there have been lots of examples of smart home devices being hacked and used as spy cameras. Less frightening, but still annoying, a lot of smart devices stop working altogether if the parent company shuts down.
+footnotes:
+consider:
+    - Would you let a power company decide when you boil the kettle if it saved you money?
+    - Who would have access to data about your house? Who should?
+    - Would you like to be able to turn off your iron if you left it on at home? How about your lights?
+    - What if your smart lock company goes broke and you can't get into your house?
+    - How does this impact the built environment?
+card_type: technology
+non_visible_comments:
+    - What's the name of that Legislation? Can it be referenced?

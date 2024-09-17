@@ -1,0 +1,15 @@
+h1,
+h2 {
+  font-family: $heading-font-family;
+  font-weight: 700;
+}
+
+p {
+  font-family: $body-font-family;
+}
+
+.emoji {
+  height: 1em;
+  transform: translateY(-.2em);
+  width: 1em;
+}

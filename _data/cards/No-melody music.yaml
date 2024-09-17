@@ -1,0 +1,20 @@
+live: false
+body:
+    paragraphs:
+        - Stripped-down rap with no melody[^rap] is perfect for soundtracking viral TikTok videos; the trend of stripping out elements may expand widely into various categories of music and media.
+card_type: social
+consider: []
+footnotes:
+    "rap": "https://www.highsnobiety.com/p/tik-tok-renegade-no-melody-rap/"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
+meta:
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: No-melody music

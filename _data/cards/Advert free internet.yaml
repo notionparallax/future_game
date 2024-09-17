@@ -1,0 +1,28 @@
+live: true
+body:
+    paragraphs:
+        - The dominant business model of the internet is making a service that people
+          use, and then serving adverts to those people while they're there. If you
+          could opt out of those adverts there would need to be some other kind of
+          value transfer to make the service worth running.
+        - Each time an ad is served (an impression), it costs the advertiser a tiny
+          amount of money, more if it's clicked. These sums would be dwarfed by
+          transaction fees as an impression is in the order of $0.012 per impression
+          and a transaction fee is somewhere between $0.03 and $0.30. So the payments
+          would need to be aggregated by another party before being passed to the banks.
+        - Companies like Blendle[^blendle]
+card_type: technology
+consider:
+    - Would you pay money to avoid adverts?
+    - Adverts make you aware of products and services that potentially make your life better. Would you suffer without them?
+    - How would graphic design trends change if there was less to put on the page?
+    - If the wealthy paid not to see ads, would ads change? Wealthy customers are worth more to advertise to, would people need to pay a % of their wealth to avoid adverts?
+
+footnotes:
+    "blendle": "[Blendle is a Dutch online news platform that aggregates articles from a variety of newspapers and magazines and sells them on a pay-per-article basis. The key differences to similar websites are the participation by otherwise commercially unrelated news services in a single platform and the ability for registered users to easily pay a small price per article.](https://en.wikipedia.org/wiki/Blendle)"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: adblock.jpg
+title: Advert free internet

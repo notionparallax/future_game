@@ -1,0 +1,33 @@
+live: true
+body:
+    paragraphs:
+        - "The number of transistors on a microchip has doubled every 18 months or so since
+          transistors were invented. This was first spotted by Gordon Moore, and the phenomenon
+          is named after him: Moore's Law[^9]. More transistors means more calculations
+          can be done in a given time. That means that computers can do more of what we
+          want, feel smoother and more responsive."
+        - Not only is each computer more powerful, but there are also more computers in
+          the world. We all have computers in our pockets. There are giant data centres
+          anywhere that a source of electricity or cooling can be found[^10]. Put simply,
+          there is a massive amount of raw computing power in the world, and the rate of
+          its increase is increasing[^11].
+card_type: trend
+consider:
+    # - "![](/assets/20/game/images/image3.png)"
+    - Does more power unlock answers to new kinds of problem? Google search wouldn't be
+      possible without a certain level of computer power. What new kinds of activity will
+      be unlocked by more power?
+    - More compute power needs more electrical power. Where will this electricity come
+      from?
+    - Does everyone have equal access to this compute power?
+    - Will we ever have _enough_ computer power?
+footnotes:
+    "9": "[Wikipedia: Moore's law](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Moore%2527s_law&amp;sa=D&amp;ust=1582431437877000)"
+    "10": "Which is why there are so many data centres in Iceland."
+    "11": "Note that the graph has a log scale, that means that each line is an increase of 10 times, not of one unit!"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image20.png
+title: Compute power

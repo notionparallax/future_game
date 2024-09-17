@@ -1,0 +1,21 @@
+live: true
+body:
+    paragraphs:
+        - You have one of the lucky-longshot cards!
+        - There's a lot of scope with this card.
+card_type: nature
+consider:
+    - What would it mean to encounter an extra-terrestrial life form?
+    - Would it be sentient? Would it just be bacterial?
+    - Would it be friendly, aggressive, or maybe even just unconcerned about humans and
+      other earth life?
+    - Would they give us new technology?
+    - Are there other ways to be alive? Think about slime moulds, trees, bees, the earth
+      computer from Hitchhiker's Guide&hellip;
+footnotes: {}
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image44.jpg
+title: Discovery of extra-terrestrial beings

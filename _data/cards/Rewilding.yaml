@@ -1,0 +1,23 @@
+live: true
+body:
+    paragraphs:
+        - Cities and suburbs are looking for places to downshift development and add urban greenery[^urbanGreenery] to compensate for rising CO<sub>2</sub> emissions. Especially if carbon sequestration is eventually monetized, this could have an impact on land use overall, since owning undeveloped forest land would be profitable. This permaculture land ownership.
+        - Progress in ancient DNA recovery is leading some to suggest rewilding with currently extinct fauna[^plPark].
+card_type: nature
+consider:
+    - Will this lead to a sharper distinction between urban and wild?
+    - How will we interact with the apex predators (bears, wolves, etc.) that are needed for a functional ecosystem?
+    - Will governments need to compulsory purchase the land from farmers, or will there be another way to incentivise rewilding? Maybe an emissions scheme, or fallow payments?
+footnotes:
+    "urbanGreenery": "https://www.mintel.com/global-consumer-trends"
+    "plPark": "https://www.theatlantic.com/magazine/archive/2017/04/pleistocene-park/517779/"
+image:
+    caption: "Depiction of some mammals common in northern Eurasia during the late Pleistocene, by Mauricio Antón. From left to right: wild horse, woolly mammoth, reindeer, cave lion and woolly rhinoceros."
+    citation: Pleistocene Park
+    link: https://en.wikipedia.org/wiki/Pleistocene_Park
+    source: Ice_age_fauna_of_northern_Spain.jpg
+meta:
+    sources:
+        - source_comment: This article has a list of trends, and the first pass is to just import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: Rewilding

@@ -1,0 +1,24 @@
+live: true
+body:
+    paragraphs:
+        - Quantum computers are able to solve a particular type of problem incredibly fast.
+          Unfortunately, that particular type of problem is the one that the world's encryption
+          systems are based on.
+        - Quantum computers are currently a research curiosity, if they become a real world
+          technology then all internet transactions will fail. (Unless credit card companies
+          and banks take action before then to upgrade to quantum encryption.)
+        - From a more optimistic angle, once computer scientists work out how to phrase
+          their problems in the way that quantum computers like, lots of
+        - very hard problems become quite easy!
+card_type: technology
+consider:
+    - How much disruption would it cause if electronic money, and other encryption methods,
+      stopped working?
+    - If protein folding was solved, what would it mean for the pharma industry?
+footnotes: {}
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image40.jpg
+title: Quantum computers

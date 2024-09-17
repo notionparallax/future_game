@@ -1,0 +1,30 @@
+title: Private space exploration and asteroid mining
+image:
+    source: image53.jpg
+    caption:
+    citation:
+    link:
+live: true
+body:
+    paragraphs:
+        - Asteroids are mainly made of nickel iron or frozen water. They also contain a
+          lot of platinum group metals. They are easy to mine because they don't have big
+          gravity wells that need to be overcome.
+        - Water is important to space travel because humans need to drink it, but unmanned
+          missions need water too because it can be split into rocket fuel. Launching things
+          into space is really expensive, so if it's possible to build spacecraft from things
+          already in space it's much cheaper.
+        - The availability of precious metals in asteroids could upset the world economy
+          in the same way that the influx of silver from South America caused massive inflation
+          in the 15<sup>th</sup>&ndash;17<sup>th</sup> century[^silver].
+footnotes:
+    silver: "[Wikipedia Price revolution](en.wikipedia.org/wiki/Price_revolution)"
+consider:
+    - If you hollow out an asteroid what could you do with it?
+    - Platinum is used as a catalyst in chemical reactions. Making it a lot cheaper would
+      make a lot of these applications more viable. What sorts of things could we do if
+      the cost of platinum went down?
+    - What could you do with a million tonnes of water in space?
+    - Getting raw materials into space is expensive. What could you use the iron in an
+      asteroid for?
+card_type: technology

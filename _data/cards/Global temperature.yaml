@@ -1,0 +1,28 @@
+live: true
+body:
+    paragraphs:
+        - This graph from NASA[^gt33] shows global temperature variation
+        - '> "The paleoclimate record combined with global models shows past ice ages as
+          well as periods even warmer than today. But the paleoclimate record also reveals
+          that the current climatic warming is occurring much more rapidly than past warming
+          events."'
+        - Future temperature rises differ by the model used to predict them[^34] and by
+          the way we act in the future[^35]. These will lead to sea level rise. Partially
+          from melting ice, but also from the water in the oceans getting bigger from thermal
+          expansion.
+card_type: trend
+consider:
+    - Who will warming be bad for?
+    - Who will it be good for?
+    - What will temperature increases trigger? And then what will those things trigger?
+      and what will those things trigger? And so on.
+footnotes:
+    "gt33": "[How is Today's Warming Different from the Past?](http://earthobservatory.nasa.gov/Features/GlobalWarming/page3.php)"
+    "gt34": "TODO: Not sure what this footnote was supposed to point to"
+    "gt35": "TODO: Not sure what this footnote was supposed to point to"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image16.png
+title: Global temperature

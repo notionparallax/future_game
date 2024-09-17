@@ -1,0 +1,22 @@
+live: true
+body:
+    paragraphs:
+        - Some event might lead to broad unemployment. In the great depression around 20%
+          of people were unemployed for about 10 years. This was in an age of much lower
+          female labour force participation so the real figure would have been much higher.
+        - If this were to happen today we would be in much more trouble. We are far less
+          able to grow our own food, and to make our own clothes.
+card_type: social
+consider:
+    - In the GFC the economy bounced back, but employment levels didn't. Would another
+      recession be the way-in that full robot automation needs?
+    - Our logistics systems, and homes are much more _just in time_. If you had no money
+      coming in and no other support, how long could you survive on what you already have
+      at home? Then what?
+footnotes: {}
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image19.jpg
+title: Economic crash

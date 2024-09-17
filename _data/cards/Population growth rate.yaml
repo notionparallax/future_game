@@ -1,0 +1,28 @@
+live: true
+body:
+    paragraphs:
+        - The world population is growing by 200,000 daily. Population increases are expected
+          to level out globally between 2030 and 2100[^2], but that's an aggregate value.
+          Some countries will still be growing fast whilst others will be shrinking (looking
+          at you Japan).
+        - There are a lot of factors to population growth. Better sanitation means fewer
+          children die. Better access to education for women means that fewer children are
+          born. People living longer means that people hang about for longer. Wars push
+          people out of countries, prosperity pulls them in.
+card_type: trend
+consider:
+    - What job will all these new people do?
+    - What will they eat?
+    - Where will they live?
+    - What factors will drive migration?
+    - What limiting factors are there on Australian population growth? What could we do
+      to remove those limitations?
+footnotes:
+    "1": "ABS data, high scenario."
+    "2": "Wikipedia: [World population](https://en.wikipedia.org/wiki/World_population)"
+image:
+    caption: "[^1]"
+    citation: ""
+    link: ""
+    source: image35.png
+title: Population growth rate

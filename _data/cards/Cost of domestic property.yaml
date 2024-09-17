@@ -1,0 +1,23 @@
+live: true
+body:
+    paragraphs:
+        - Housing is more expensive (in real terms) than ever. As a proportion of the money that people have to spend, we are spending more of it on housing.
+        - This might be because there isn't enough supply of housing where people want to live. It might be because housing is a safe asset class.
+        - Low interest rates make it easier for those with wealth to buy more houses, and house values go up much faster than most other asset classes. Are we in a bubble?
+        - If owning stops being attractive, wealth concentration will increase, but maybe a new _safe as x_ asset class will emerge for renters to spend their money on.
+card_type: trend
+consider:
+    - How did we get to the position that we're in now?
+    - What other explanations could there be for these trends that aren't the obvious
+      ones?
+    - What would reduce the pressure on the market?
+    - Is expensive housing desirable?
+    - Is the current model of how we live going to survive the rise in price?
+footnotes:
+    "15": "All these graphs are from: [The history of Australian property values](http://www.macrobusiness.com.au/2013/02/the-history-of-australian-property-values/) "
+image:
+    caption: "[^15]"
+    citation: ""
+    link: ""
+    source: image28.gif
+title: Cost of domestic property

@@ -1,0 +1,26 @@
+live: true
+body:
+    paragraphs:
+        - The Horsepower was a measure of the work that one horse could do. The horse was
+          the engine of most economies until the internal combustion engine displaced it.
+          This was one of the first real examples of large scale disruption[^14].
+        - Horses were no longer a requirement, and people quickly moved over to engines
+          to provide motive force. Horses stayed for recreational use, but in tiny numbers
+          compared to their previous penetration.
+        - This is interesting, but it's also a metaphor for a change from one entrenched
+          technology to another. The disruption to the world can be huge.
+card_type: trend
+consider:
+    - Why did people prefer engines to horses?
+    - What was the core function that the horse performed?
+    - If you think of this as a pattern, what might replace the car?
+    - What other historical technological revolutions fit the same pattern? What current
+      technologies are vulnerable to it?
+footnotes:
+    "14": "With the printing press displacing scribes as the other that I can think of. "
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image24.png
+title: Horse population

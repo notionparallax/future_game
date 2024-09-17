@@ -1,0 +1,21 @@
+live: true
+body:
+    paragraphs:
+        - Big data analytics is the process of examining large data sets containing a variety of data types.
+        - "> BIG DATA: to uncover hidden patterns, unknown correlations, market trends,
+          customer preferences and other useful business information. The analytical findings can lead to more effective marketing, new revenue opportunities, better customer service, improved operational efficiency, competitive advantages over rival organizations and other business benefits.[^bigdata]"
+        - "[^bigdata]: [definition from here](https://crossing-technologies.com/big-data-analytics/)"
+        - The goal of analysis is for companies to make more informed decisions. They could use Web server logs and Internet clickstream data, social media content and social network activity reports, text from customer emails and survey responses, mobile-phone call detail records and machine data captured by sensors connected to the Internet of Things.
+card_type: trend
+consider:
+    - How could this scale of information and its availability influence not just business
+      but also society?
+    - Are there negatives to a society driven by 'big data' metrics?
+footnotes:
+    bigdata: "[definition from here](https://crossing-technologies.com/big-data-analytics/) "
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image13.png
+title: Big data analysis

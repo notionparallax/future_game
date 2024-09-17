@@ -1,0 +1,19 @@
+<style type="text/css">
+    /* Plugin looks for elements with class named "balance-text" */
+    .balance-text {
+        text-wrap: balanced; /* Apply (proposed) CSS style */
+    }
+</style>
+
+<script
+    src="https://cdnjs.cloudflare.com/ajax/libs/balance-text/3.3.0/balancetext.min.js"
+    type="text/javascript"
+></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        document
+            .querySelectorAll(".post-header h1")
+            .forEach((el) => balanceText(el));
+    });
+</script>

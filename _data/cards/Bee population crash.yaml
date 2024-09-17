@@ -1,0 +1,21 @@
+live: true
+body:
+    paragraphs:
+        - Bee populations are declining.
+        - In recent winters, in Europe alone, bee losses up to 53% became a reality.
+        - Plants rely on insects like bees to reproduce. Plant reproduction is vital for
+          our food supply. If the bees die, then we die too!
+        - This dramatic decline in bee populations is the result of multiple factors such
+          as diseases and parasites, climate change and wider industrial agricultural practices.
+card_type: nature
+consider:
+    - What would we need to do to support bee populations?
+    - Could we come up with a technology solution to replace bees? What would the risks
+      be?
+footnotes: {}
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image45.jpg
+title: Bee population crash

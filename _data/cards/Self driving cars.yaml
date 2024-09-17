@@ -1,0 +1,33 @@
+live: true
+body:
+    paragraphs:
+        - From a long shot dream in 2004[^37] driverless cars are now more of a _when_ than
+          an if.
+        - Humans need a lot of tolerance to account for their imperfect driving skills.
+          That means that the lanes need to be wider, cars need more impact protection,
+          cars need to drive further apart.
+        - Cars also represent freedom for a lot of people. Owning a car means that for a
+          large proportion of the day each car is idle. When cars drive themselves it's
+          unlikely that anyone will own a car. Cars will provide mobility. That means that
+          parking will be eliminated, freeing up almost half of the current road network
+          and many structures currently dedicated to parking.
+        - While not driving, people will be free to do other things. They could sleep, have
+          meetings, eat, relax, etc.
+        - '> "To generations of Americans, owning a car represented freedom. To the next
+          generation, not owning a car will represent freedom."[^38]'
+card_type: technology
+consider:
+    - Will this replace mass transit?
+    - Current cars are styled to face forwards, and to be a little bit like racing cars.
+      What will future cars be like?
+    - What will this do to ownership models? Will it be transport as a service?
+    - What effect will this have on moral standards (drink driving) or sexual freedom?
+footnotes:
+    "37": https://en.wikipedia.org/wiki/DARPA_Grand_Challenge
+    "38": http://breakingsmart.com/a-new-soft-technology
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image48.jpg
+title: Self driving cars

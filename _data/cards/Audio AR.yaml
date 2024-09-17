@@ -1,0 +1,19 @@
+live: true
+body:
+    paragraphs:
+        - Most Augmented Reality (AR) is thought of as visual, but there are significant technical hurdles in image processing and rendering to overcome before it has widespread adoption. Audio AR is already available; if you use google maps' walking directions through your headphones without looking at your phone then you've already tried it. (Many sports apps use audio cues to prompt performance too.)
+        - For it to be audio, only the output needs to be audio, the input can be anything, GPS, accelerometers, microphones, even cameras.
+        - \"Hey Siri, who's that guy over there? Do I know him?\"
+        - See the Ender's Game series for an audio AR, AI character.
+card_type: technology
+consider:
+    - if you have an audio assistant that's able to understand the world, what would they need to be able to do for you to make it worthwhile?
+    - Historical characters like Jiminy Cricket or the angel and demon on your shoulders are prototypes for audio AR. What sorts of things could this system help you with?
+    - would it all be voice prompts? How else could you sonify the interaction?
+footnotes: {}
+image:
+    caption: ""
+    citation: zombies, run!
+    link: https://zombiesrungame.com/
+    source: zombiesRun.jpg
+title: Audio AR

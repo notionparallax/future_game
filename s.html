@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+  <style>
+  span.post-date {
+      display: none;
+  }
+  </style>
+
+  <ul class="post-list">
+    {% for post in site.s  %}
+      {% include index_li.html %}
+    {% endfor %}
+  </ul>
+
+
+<div class="home">

@@ -1,0 +1,20 @@
+live: true
+body:
+    paragraphs:
+        - "Microsoft is introducing a \u201Cvirtual commute\u201D feature[^virtualCommute] intended \u201Cto create mental bookends for the remote workday\u201D. It is also partnering with the meditation app Headspace to add a new \u201Cemotional check-in feature\u201D."
+card_type: social
+consider: []
+footnotes:
+    "virtualCommute": "https://info.trendwatching.com/21-trends-for-2021"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
+meta:
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: Digital commutes and forced mindfulness

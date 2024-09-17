@@ -1,0 +1,32 @@
+live: true
+body:
+    paragraphs:
+        - Life expectancy continues to increase[^4] in contrast to Hobbes' idea of life,
+          which was "Nasty brutish and short". We are comfortably on track to hit an average
+          life expectancy of 100. There is a lot of variation in global life expectancy.
+          That average of 100 means that there will be a global reduction in lifespan inequality,
+          or that some nations will see huge lifespan increases. It's not uncommon to see
+          claims that some children alive today will live to be 150[^5] or 200[^6]!
+        - Life expectancy is measured at different ages. These days, in 'developed' countries
+          the difference between life expectancy at birth and at five years isn't substantially
+          different. Some believe that prehistoric humans could expect to live into their
+          mid fifties[^7] if they made it through childhood.
+card_type: trend
+consider:
+    - Will life expectancy rise equally all over the world?
+    - Will people work for longer in their life?
+    - Will people maintain a single career? Does their degree from 1990 have any validity
+      in 2050?
+    - Will there be a modern equivalent to coopers and farriers needing to find new careers
+      during their lifetimes?
+footnotes:
+    "4": https://goo.gl/0omR22
+    "5": http://goo.gl/CCBPuv
+    "6": http://ktwop.com/2012/12/27/the-first-200-year-old-human-has-already-been-born/
+    "7": "Hillard Kaplan, Kim Hill, Jane Lancaster, and A. Magdalena Hurtado (2000). [_A Theory of Human Life History Evolution: Diet, Intelligence and Longevity_ (PDF). Evolutionary Anthropology 9 (4): 156&ndash;185.](http://www.unm.edu/~hkaplan/KaplanHillLancasterHurtado_2000_LHEvolution.pdf)"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image43.png
+title: life expectancy

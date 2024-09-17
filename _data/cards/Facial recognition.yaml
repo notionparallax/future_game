@@ -1,0 +1,25 @@
+live: true
+body:
+    paragraphs:
+        - Computers can now recognise faces almost as well as humans can. They are more
+          susceptible to tricks like face paint or sunglasses than we are, but that's probably
+          not going to take long to solve.
+        - Strong facial recognition will mean that security agencies can track you wherever
+          you appear on a CCTV feed. It means that advertisers can personalise billboards
+          to your particular buying habits.
+card_type: technology
+consider:
+    - How might these ideas of surveillance influence other systems to become more intuitive?
+    - Will fashion embrace it or resist facial recognition[^49]?
+    - "![](/assets/20/game/images/image46.png)"
+    - What, other than faces, can be "recognised"?
+    - Will the bans on facial recognition get more severe, or will they be lifted? Is
+      there a middle ground?
+footnotes:
+    "49": '[Accessorize to a Crime](http://prostheticknowledge.tumblr.com/post/152518403686/accessorize-to-a-crime-research-from-carnegie)  "Research from Carnegie Mellon University can generate visual patterns onto  glasses to either avoid facial recognition or ''impersonate'' as someone else" '
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image12.jpg
+title: Facial recognition

@@ -1,0 +1,18 @@
+live: true
+body:
+    paragraphs:
+        - Dark kitchens create meals exclusively for the online delivery market[^dk]. In the early pandemic many regular restaurants went dark only.
+        - Dark kitchens have lower overheads, and can share a premises more easily, but they are at the whim of the delivery service for speed of delivery and the whim of the customer for presentation. This means that there will often be a significant overhead in packaging that can offset the savings from rent on the dining room.
+card_type: trend
+consider:
+    - How much of eating out is about the convenience of not having to cook? Wash up?
+    - This increases demand for chefs, but decreases demand for waiting staff, what will those people do?
+    - Eating out is often a safe space for first dates, if the restaurant industry collapsed (or the low-mid price range did) what would that do to dating?
+footnotes:
+    dk: "Dark kitchens create meals exclusively for the online delivery market - [ABC](https://www.abc.net.au/news/2018-04-13/the-dark-kitchens-of-food-delivery-apps/9642460)"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: dk.jfif
+title: Dark kitchens

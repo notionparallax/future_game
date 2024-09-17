@@ -1,0 +1,15 @@
+live: false
+body:
+    paragraphs:
+        - .
+
+card_type: technology
+consider:
+    - .
+footnotes: {}
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image54.png
+title: Consumer ML/AI

@@ -1,0 +1,23 @@
+live: true
+body:
+    paragraphs:
+        - Each increase in G increases connectivity speed, and changes the types of
+          things that you can do while connected to that network. 3G allowed full
+          webpages rather than just WAP[^wap].
+        - 5G untethers broadband speeds from the geographical constraints of
+          fibre optic or copper networks. Once there's a 5G network in place,
+          high tech applications can be set up with no digging, it also allows
+          for easy reconfiguration of data rich robotics in warehouses.
+        - Conspiracy theorists think it's a mind control mechanism.
+card_type: technology
+consider:
+    - In the 2030s 6G will bring even faster connections, what will that allow
+    - If you don't need to re-cable, what will this mean for factories? For offices?
+footnotes:
+    "wap": "Not the song, but [Wireless Application Protocol](https://en.wikipedia.org/wiki/Wireless_Application_Protocol)"
+image:
+    caption: Wildly optimistic speeds, but in the rough orders of magnitude.
+    citation: Do Yourself A Favour – Don’t Get A 5G Phone Just Yet
+    link: https://whatphone.com.au/guide/dont-get-a-5G-phone-just-yet
+    source: 5gspeed.png
+title: 5G/𝒩G

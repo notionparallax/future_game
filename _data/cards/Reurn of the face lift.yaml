@@ -1,0 +1,24 @@
+live: true
+body:
+    paragraphs:
+        - "More invasive procedures such as surgical facelifts will regain popularity \u2013  people are tired of paying over and over for fillers[^faceFillers], which is more like a subscription model.  Superusers say a surgical facelift is cheaper in the long run, and forecasts  seem to be aligned with them, as the plastic surgery sector will continue to  boom overall."
+card_type: trend
+consider:
+    - beauty standards are variable, is doing something permanent a risk?
+    - has the facelift got too much of a bad reputation from 80s stars who look bad in their old age?
+    - How would this trend generalise to other things? The permanence is embraced in tattoos already?
+    - how does this sit with trends towards body positivity?
+footnotes:
+    "faceFillers": "https://www.newbeauty.com/aesthetic-trends-2021"
+image:
+    caption: ""
+    citation: Brazil
+    link: https://en.wikipedia.org/wiki/Brazil_(1985_film)
+    source: brazil-facelift.jpg
+meta:
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: Return of the face lift

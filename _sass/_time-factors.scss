@@ -1,0 +1,38 @@
+.time-factors{
+  h2 {
+    clear: both;
+  }
+  iframe {
+    width: 100% ;
+    height: 40vh;
+  }
+  .scruffy {
+    width: 45% ;
+    margin: 0.5em 1em;
+  }
+  .reading-stats {
+    width: 18em;
+    float: right;
+    line-height: 87% ;
+    padding: 1em;
+    border-radius: 0.5em;
+    border: 1px solid silver;
+    margin-left: 2em;
+  }
+  .reading-stats span.thing {
+    display: inline-block;
+    width: 43% ;
+  }
+  .three-col {
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+  }
+  .fuse{
+    float: right;
+    width: 25%;
+    margin-left: 3em;
+  }
+
+
+}

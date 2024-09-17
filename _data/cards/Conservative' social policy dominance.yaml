@@ -1,0 +1,17 @@
+live: true
+body:
+    paragraphs:
+        - Many countries have a system of government that is split between right and left wing factions. It's increasingly difficult to say what these factions generally represent, but they are often captured on the political compass.
+        - Right wing parties are usually characterised as being pro-business, and/or upholding traditional, often religious, values.
+card_type: social
+consider:
+    - What if Fox News became the only source of news?
+    - Most people take a view on what traditional values are good and should be kept, and are bad and should be thrown out. How do you draw this line yourself? Why do you think you hold these views?
+    - What is the correct pace of progress? Should we be radical or conservative with our choices? Do you apply that to all issues?
+footnotes: {}
+image:
+    caption: What if parties on the right had control?
+    citation: Wikipedia
+    link: https://en.wikipedia.org/wiki/The_Political_Compass
+    source: 220px-Political_Compass_purple_LibRight.svg.png
+title: '"Conservative" policy dominance'

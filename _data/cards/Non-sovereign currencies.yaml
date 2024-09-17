@@ -1,0 +1,35 @@
+live: true
+body:
+    paragraphs:
+        - Money developed as a special case of any unit of exchange. That could be sheep,
+          cows and camels, or silver and gold. At some point someone made an object that
+          stood in for the direct value of those objects and that became the money that
+          we recognise today.
+        - Most money these days is backed by a national bank. Non-sovereign currency means
+          that it isn't backed that way by a government. This could be Linden Dollars[^43]
+          that are spent inside the game Second Life, but the first thing that most people
+          think of is Bitcoin. Bitcoin is the most famous of a whole class of cryptocurrencies.
+          Cryptocurrencies are 'mined' through cryptographic algorithms that control the
+          production rate of the 'coins'.
+        - If currency is decoupled from national borders and from governments it takes away
+          one of the most powerful levers that governments have to affect their country.
+          It results in a much 'purer' expression of market forces. The positive or negative
+          effects of this are unknown.
+card_type: social
+consider:
+    - If nations don't control money, how will they generate trust?
+    - What will it mean for taxation?
+    - What does this mean for markets?
+    - What will it mean for crime? Black and grey economies often operate on a cash only
+      basis[^44].
+    - How will we manage the volatility?
+footnotes:
+    "42": "Worth checking this out! [Frog: Mobile Money in Afghanistan](http://mobilemandate.frogdesign.com/programs/mobile-money-in-afghanistan.html)"
+    "43": There is an article about [the economy of second life](https://en.wikipedia.org/wiki/Economy_of_Second_Life) and this is [an exchange that only deals in virtual currencies](https://www.virwox.com). Both are shut down now, but there were some wild stories from that era!
+    "44": "Something like 80% of &euro;500 notes are believed to be used in money laundering! [The End of Money: Counterfeiters, Preachers, Techies, Dreamers--and the Coming Cashless Society](http://www.amazon.com/The-End-Money-Counterfeiters-Dreamers/dp/0306821478&amp;sa=D&amp;ust=1582431437884000)"
+image:
+    caption: "[^42]"
+    citation: ""
+    link: ""
+    source: image9.png
+title: Non-sovereign currencies

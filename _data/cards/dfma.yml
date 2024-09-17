@@ -1,0 +1,25 @@
+live: true
+title: Design for Manufacture and Assembly (DfMA)
+body:
+    paragraphs:
+        - "Design for Manufacture and Assembly (DfMA) is a product design approach that was developed in the manufacturing industries as a way of linking the design and production processes of product development. DfMA captures production data and makes it accessible to the design team in the form of design principles and guides, and metrics for design evaluation and improvement. The aim is to create designs that are efficient, fast, and cost effective to produce. DfMA advocates: modularity and standardisation of parts and processes; simplicity in design; connection interfaces that cannot be assembled incorrectly; part count reduction (as fewer parts as possible); and an emphasis on maintaining good visual and physical access to all connection points (think IKEA!)."
+        - "In the last decade, the construction industry has turned its attention to DfMA as a potential solution to its productivity crisis. Although some of the DfMA design rules (and most of the DfMA metrics) used in manufacturing are not completely appropriate for use in the design of buildings, DfMA as a philosophy certainly is, especially when paired with prefabrication. The development of a construction-specific DfMA represents a shift towards data-informed design. The construction industry will need to increase the sophistication of its data collection methods during building production/construction phases so that an appropriate set of design guides and evaluation metrics can be developed."
+card_type: technology
+consider:
+    - What kind of production data (in factories, in transit, on site) will be important to capture to inform design, and how might we do this?
+    - How much standardisation (product and/or process) is it possible to achieve in the construction industry?
+    - What does part count reduction mean at the scale of a building?
+    - If buildings can be assembled as easily as IKEA furniture, what does that mean for the construction workforce?
+    - If buildings can be assembled easily, they might also lend themselves to easy disassembly. How might this change the way we source new materials/components and design new buildings in the future?
+footnotes:
+    FL: "CRC Press, 2011. Stoll, Henry W. “Design for Manufacture: An Overview.” Applied Mechanics Reviews 39, no. 9 (1986): 1356–64."
+image:
+    caption: An example of DfMA design refinement to improve assembly ease.
+    citation: "Boothroyd, Geoffrey, Peter Dewhurst, and Winston A. Knight. Product Design for Manufacture and Assembly. 3rd ed. Manufacturing Engineering and Materials Processing 74. Boca Raton, FL: CRC Press, 2011. p.83."
+    link: https://www.routledge.com/Product-Design-for-Manufacture-and-Assembly/Boothroyd-Dewhurst-Knight/p/book/9781420089271
+    source: dfma.jpg
+meta:
+    sources:
+        - source_comment: Dr Ivana Kuzmanovska
+          source_link: Ivana.Kuzmanovska@monash.edu
+          update_date: 2022-22-2 #an iso date, yyyy-mm-dd

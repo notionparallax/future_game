@@ -1,0 +1,28 @@
+live: true
+body:
+    paragraphs:
+        - Until the world wide web (www) became the dominant part of the internet there
+          were lots of different ways that content could be shared. (Most of these still
+          exist, but have comparable very small traffic.)
+        - The internet is built out of open standards[^45]. The idea of a private internet
+          is that a company with enough power will develop a rival information network with
+          closed standards. The most likely candidates are Apple, Google and Facebook. For
+          example, imagine that Apple developed a fast data-transfer protocol that you could
+          only access from an apple device. They would go on to create a walled garden of
+          content that only apple users could see.
+        - This would impede the flow of information that the internet allows, but it may
+          create a better experience for a subset of the population[^46].
+card_type: social
+consider:
+    - Who would gain from a private internet?
+    - What would be bad about companies developing private protocols?
+    - Would it be safer and more secure?
+footnotes:
+    "45": "[This talk is a really good source to understand the threats to the open internet](https://www.wired.com/2015/08/the-end-of-the-internet-dream/)"
+    "46": "TODO: find what this footnote pointed to"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image31.png
+title: Private internet

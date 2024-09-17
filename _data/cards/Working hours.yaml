@@ -1,0 +1,26 @@
+live: true
+body:
+    paragraphs:
+        - Managers and professionals showed strong reductions in hours worked between 1996
+          and 2010 according to the ABS _Trends in Hours Worked_ report[^wh27].
+        - Although it might not feel like it to us, the trends seem pretty clear, assuming
+          that some other force doesn't come into play in the future.
+        - This doesn't cover people who work multiple jobs and/or work for themselves (which
+          could be entrepreneurs, or it could be Uber drivers).
+card_type: social
+consider:
+    - John Maynard Keynes thought that we'd be working a 15 hour week by now[^wh28]. Will
+      that come in the future? Will this downward trend continue?
+    - What else will affect working hours?
+    - Working hours only capture work in paid employment. What other kinds of work are
+      there and how much of them are we doing? (volunteering, housework, etc.)
+footnotes:
+    "wh26": "from [How Did Work-Life Balance in the U.S. Get So Awful?](https://www.theatlantic.com/business/archive/2013/06/how-did-work-life-balance-in-the-us-get-so-awful/276336/).  If we assume a 50 week year, Greece has gone from 54 hour weeks to 41; the Netherlands  from 46 to 28!"
+    "wh27": "https://www.abs.gov.au/articles/insights-hours-worked"
+    "wh28": "[When John Maynard Keynes Predicted a 15-Hour Workweek “in a Hundred Year’s Time” (1930)](https://www.openculture.com/2020/06/when-john-maynard-keynes-predicted-a-15-hour-workweek-in-a-hundred-years-time-1930.html)"
+image:
+    caption: "[^wh26]"
+    citation: ""
+    link: ""
+    source: image29.png
+title: Working hours

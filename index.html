@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <!-- <h1 class="page-heading">Posts</h1> -->
+
+  <ul class="post-list">
+    {% for post in site.posts limit:15 %}
+      {% include index_li.html %}
+    {% endfor %}
+  </ul>
+</div>
+
+<script       src="{{'/js/generallyUseful.js' | prepend: site.baseurl }}"      type="text/javascript"></script>
+<script async src="{{'/js/loadRemainingContent.js' | prepend: site.baseurl }}" type="text/javascript"></script>
+

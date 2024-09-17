@@ -1,0 +1,23 @@
+live: true
+body:
+    paragraphs:
+        - A lot of countries are getting richer. A few are getting poorer. A big slab of
+          countries are staying the same.
+        - Also, wealth distribution inside countries is changing.
+card_type: trend
+consider:
+    - What causes there to be three groups?
+    - What do the countries in the three groups have in common? What do UAE, Brunei and
+      Libya have in common?
+    - What leverage are the countries that are getting richer able to use that the countries
+      that are static don't have access to?
+    - Is GDP even a useful measure? What would the world be like if we measured something
+      else, or a range of things?
+footnotes:
+    "19": "[GDP per capita](https://goo.gl/xsYeYC) (constant 2000 US$)"
+image:
+    caption: "[^19]"
+    citation: ""
+    link: ""
+    source: image36.png
+title: GDP

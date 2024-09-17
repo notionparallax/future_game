@@ -1,0 +1,24 @@
+live: true
+title: Mass Timber Construction
+body:
+    paragraphs:
+        - "Mass timber construction refers to the use of engineered timber products such as cross-laminated timber (CLT) and glue-laminated timber (glulam) in the structure of a building. Engineered timber products are made by gluing layers of raw timber boards together into planar elements (CLT, used in floors and walls) or linear elements (glulam, used in columns and beams). This production method means that large timber building parts can be produced without cutting down old growth forest. Additionally, the properties of the building elements can be enhanced by using different types of timber (and even other materials) in the composition of layers."
+        - "Mass timber construction offers many benefits over typical concrete construction. First, timber sequesters carbon, meaning that the building becomes a carbon sink for the duration of its lifetime (as opposed to emitting carbon, as concrete manufacture does). Second, mass timber is much lighter than concrete, so it needs smaller foundations, and can often be used to add new floors to existing buildings. Third, mass timber changes the nature of the construction site, eliminating the need for formwork and wet trades, and significantly increasing the speed of construction (Brock Commons, an 18-storey mass timber project in Canada achieved a floor cycle time of 3 days). Some issues to consider when building with mass timber, include: forest certification, carbon miles in delivery (if CLT or glulam is not being manufactured locally), performance of the building under fire conditions, chainsaw attack!"
+        - In 2009 the first "tall" mass timber building—the 9-storey Stadthaus Murray Grove in London—triggered a global fascination with pushing mass timber to its limits. Since then, several buildings have held the record for tallest, only to inevitably have the title taken away. The current tallest, Mjøstårnet in Norway, sits at 85m, however a Japanese company has proposed a 350m tall structure for Tokyo, and is currently conducting research towards making this happen in the very near future.
+card_type: technology
+consider:
+    - "Often with technological change, initial roll-outs tend to mimic what has come before: the first cars looked like horse-less carriages, early steel skyscrapers were adorned with the fluting and ornaments of earlier 19th century buildings. Mass timber construction is a relatively new building typology, and as such, expectations are not yet set. Many current mass timber building designs adopt the language of contemporary reinforced concrete and steel construction, however an emphasis on sustainability is emerging. What innovative architectural typology might mass timber evolve into in the future?"
+    - If mass timber becomes the predominant construction technique in our cities, how will we sustainably manage the demand for raw timber?
+    - Engineered timber products have not been around that long (glulam around 100 years, CLT around 35 years). We do not know how the products will degrade in 200, 300, 600 years' time. What kinds of monitoring/intervention mechanisms should be introduced to ensure the safety of inhabitants living in cities full of 350m tall timber skyscrapers?
+footnotes:
+    FL: "CRC Press, 2011. Stoll, Henry W. “Design for Manufacture: An Overview.” Applied Mechanics Reviews 39, no. 9 (1986): 1356–64."
+image:
+    caption: A 350m tall timber tower proposed for Tokyo.
+    citation: Sumitomo Forestry
+    link: https://www.dezeen.com/2018/02/19/sumitomo-forestry-w350-worlds-tallest-wooden-skyscraper-conceptual-architecture-tokyo-japan/
+    source: massTimber.png
+meta:
+    sources:
+        - source_comment: Dr Ivana Kuzmanovska
+          source_link: Ivana.Kuzmanovska@monash.edu
+          update_date: 2022-22-2 #an iso date, yyyy-mm-dd

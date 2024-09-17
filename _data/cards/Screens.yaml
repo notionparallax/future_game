@@ -1,0 +1,25 @@
+live: true
+body:
+    paragraphs:
+        - Screens have become bigger and denser. 'Retina' screens mean that we can get up
+          close and not see pixels. "Don't get too close or you'll get square eyes" doesn't
+          apply anymore.
+        - Being able to get close to a screen means that we can change the relationship
+          with them. Touch screens mean that we can interact directly with images.
+        - "We're seeing flexible screens making a tentative step onto the market. Soon
+          we might see screens that feel like they have a texture (buttons, roughness, etc.).
+          We're also seeing screens in more places: on watches, as car dashboards, as billboards,
+          inside VR headsets."
+card_type: technology
+consider:
+    - What other interface methods might supplant screens?
+    - Will screens continue to get bigger and denser?
+    - What will happen if screens stop being personal and are about shared experiences?
+    - where else could we have screens?
+footnotes: {}
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: image49.png
+title: Screens

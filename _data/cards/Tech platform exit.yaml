@@ -1,0 +1,25 @@
+live: true
+body:
+    paragraphs:
+        - Consumer backlash against big tech has been heralded for years, but its widespread implementation finally seems likely. Mainstream awareness of the data power imbalance with big companies will make consumers happy to pay for things like search[^techOut], email and VPN instead of having companies use their data. Increasing attention to the power imbalances of this model will lead to the adoption of more niche services and platforms.
+        - Twitter is investigating making itself somewhat obsolete by moving their platform across to a distributed protocol (like email is). This might become the future, but it's uncertain how it could be monetised with platforms running as businesses, rather than as utilities.
+card_type: social
+consider:
+    - Could you live without Facebook? Even Events and Messenger? What about Google?
+    - Could the fragmentation caused by exiting the platforms be overcome? Would it be a modern day Babel experience?
+    - what would fill the vacuum, how would it be different?
+    - Google and Facebook have threatened to pull out of countries with policies that are opposed to their operational policies, e.g. Australia and China. Do we see an unevenly connected world?
+footnotes:
+    "techOut": "https://www.fastcompany.com/90588717/top-tech-trends-2021-post-pandemic-predictions-ai-fintech-health"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
+meta:
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: Tech platform exit

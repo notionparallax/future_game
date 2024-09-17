@@ -1,0 +1,20 @@
+live: true
+body:
+    paragraphs:
+        - Immersive, photo realistic imagery in the form of Instagram-style filter layers will become widespread beyond just phones when applied via increasingly mature augmented reality systems[^filters], forcing people to question the relationship between the visual and the real, and potentially fragmenting consensus reality even further.
+card_type: technology
+consider: []
+footnotes:
+    "filters": "https://www.frogdesign.com/designmind/trends-2021?utm_campaign=USA_Trends%202021&amp;utm_source=email&amp;utm_medium=trends%202021%20email&amp;utm_term=trends%202021%20email&amp;utm_content=trends%202021%20email"
+image:
+    caption: ""
+    citation: ""
+    link: ""
+    source: ""
+meta:
+    sources:
+        - source_comment:
+              This article has a list of trends, and the first pass is to just
+              import them without modification
+          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+title: Full-filter reality
