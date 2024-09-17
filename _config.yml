@@ -4,8 +4,8 @@ description: > # this means to ignore newlines until "baseurl:"
     This is where I write things down. It's the way I make space in my
     head for new ideas. The ideas here were what I thought at the time,
     but there is a very good chance that I no longer think that!
-baseurl: future_game # the subpath of your site, e.g. /blog
-url: "https://notionparallax.co.uk" # the base hostname & protocol for your site
+baseurl: /future_game # the subpath of your site, e.g. /blog
+url: "https://notionparallax.github.io/future_game/" # the base hostname & protocol for your site
 author:
     display_name: Ben
     first_name: Ben
