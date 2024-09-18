@@ -50,7 +50,7 @@
         <a
             itemprop="mainEntityOfPage"
             class="post-link"
-            href="{{ post.url }}"
+            href="{{ post.url | prepend: site.baseurl }}"
             >{{ post.title }}</a
         >
     </h2>
