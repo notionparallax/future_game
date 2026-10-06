@@ -1,17 +1,35 @@
 title: Post-capitalism
-live: false
-card_type: technology
+live: true
+card_type: social
+image:
+    source: commons-basic-income-performance-in-bern-oct-2013.jpg
+    caption: Activists in Bern dump eight million coins to promote a basic income, 2013
+    citation: Stefan Bohrer, Public domain, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Basic_Income_Performance_in_Bern,_Oct_2013.jpg
 body:
     paragraphs:
-        - This is a catch all idea for all forms of organisation of society that might emerge
-            after capitalism.
+        - 'A catch-all for the many ways of organising society that might come after capitalism:
+            some by design, some by drift.'
+        - 'Some versions keep markets but change who owns them: worker cooperatives, platform
+            co-ops, public ownership of utilities. Others start with a basic income, or a shared
+            commons, or with automation so cheap that most things cost almost nothing. Some
+            critics see a darker route, in which a few tech owners collect rent from everyone
+            else: ''technofeudalism''[^tf].'
+        - 'Capitalism has changed form many times already: merchant, industrial, welfare-state,
+            financial. Whether it ends or just changes again is the real question.'
 consider:
     - How might capitalism be replaced? Out-competed by something more mimetically virulent,
         or torn down in a revolution?
+    - Which of the worldview cards would write the rules of a post-capitalist economy? What
+        would they argue about?
+    - Who would own the robots?
+    - What do you think the next change in capitalism will be?
 footnotes:
-    blockchainTransparency: https://intelligence.wundermanthompson.com/trend-reports/the-future-100-2021/
-    NFTs: https://news.bitcoin.com/could-nfts-become-2021s-biggest-crypto-trend/
+    tf: '[Wikipedia: Technofeudalism](https://en.wikipedia.org/wiki/Technofeudalism)'
 meta:
     sources:
         -   source_comment: ''
             source_link: https://www.theguardian.com/
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

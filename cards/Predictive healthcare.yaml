@@ -1,11 +1,35 @@
 title: Predictive healthcare
-live: false
+live: true
 card_type: technology
 image:
-    source: image54.png
+    source: commons-mammography-trailer-at-lysekil-hospital-2.jpg
+    caption: A mobile mammography screening unit at a hospital in Lysekil, Sweden
+    citation: W.carter, CC BY 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Mammography_trailer_at_Lysekil_hospital_2.jpg
 body:
     paragraphs:
-        - .
+        - Health care has mostly waited for you to get sick. Predictive health tries to spot
+            disease before it shows up, using wearables, blood tests, genetics, and AI that
+            reads scans.
+        - In a large Swedish trial, AI-supported breast screening found 29% more cancers and
+            cut radiologists' reading workload by 44%[^masai]. Polygenic risk scores estimate
+            your chance of heart disease or diabetes from your DNA, and smartwatches can flag
+            an irregular heartbeat.
+        - But a prediction is not a diagnosis. Predictions can lead to over-treatment, anxiety
+            and insurance discrimination, and they work best for the people who already have
+            data and doctors.
 consider:
-    - .
-    - .
+    - Would you want to know your risk of a disease that can't be treated?
+    - 'Who should be allowed to see a prediction about your health: you, your doctor, your employer,
+        your insurer?'
+    - If a score says you will be ill, should you pay more for insurance?
+    - What happens to a health system if the sick are found earlier but there aren't enough
+        doctors?
+footnotes:
+    masai: '[Applied Radiology: MASAI trial demonstrates AI-assisted mammography screening increases
+        cancer detection, decreases radiologist workload](https://appliedradiology.com/articles/masai-trial-demonstrates-ai-assisted-mammography-screening-increases-cancer-detection-decreases-radiologist-workload)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

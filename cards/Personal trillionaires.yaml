@@ -1,7 +1,32 @@
 title: Personal trillionaires
-live: false
+live: true
 card_type: social
+image:
+    source: commons-spacex-starship-sn8-launch-as-viewed-from-south-padre-island.jpg
+    caption: A SpaceX Starship prototype launching from Texas in 2020
+    citation: Forest Katsch, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:SpaceX_Starship_SN8_launch_as_viewed_from_South_Padre_Island.jpg
 body:
     paragraphs:
-        - .
-consider: []
+        - Forbes put Elon Musk's wealth at about $839 billion in its 2026 list, and reports
+            in June 2026 said that the SpaceX share sale had taken him past $1 trillion, making
+            him the first trillionaire[^musk].
+        - Wealth at this scale is mostly shares in companies the person controls, so it is partly
+            a paper number. But it buys influence over media, technology, space and elections
+            that very few people have ever had.
+        - Supporters say these people got there by building things that millions of people use.
+            Critics say that no one should hold that much power, and that taxes and markets
+            should prevent it. Several European countries have dropped their wealth taxes.
+consider:
+    - Is there a level of wealth that no one should be allowed to reach? What is it?
+    - If one person owns the rockets, the satellites and a social network, who regulates them?
+    - One person is worth a trillion dollars while hundreds of millions live in extreme poverty.
+        Does that matter?
+    - How would you tax wealth that is held as shares?
+footnotes:
+    musk: '[SCMP: Elon Musk on course to become the world''s first trillionaire as wealth soars](https://www.scmp.com/news/world/united-states-canada/article/3346162/elon-musk-course-become-worlds-first-trillionaire-wealth-soars)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

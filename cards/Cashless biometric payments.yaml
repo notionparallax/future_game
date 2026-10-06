@@ -1,6 +1,11 @@
 title: Cashless biometric payments
 live: true
 card_type: technology
+image:
+    source: commons-amazon-one-terminal-at-whole-foods-market-in-ann-arbor-michi.jpg
+    caption: Amazon One palm scanner at a Whole Foods checkout in Michigan
+    citation: DontCallMeLateForDinner, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Amazon_One_terminal_at_Whole_Foods_Market_in_Ann_Arbor,_Michigan.jpg
 body:
     paragraphs:
         - Since NFC payments&mdash;tap and go&mdash;became the norm, it has become increasingly

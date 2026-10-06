@@ -1,11 +1,28 @@
-title: '"Progressive" social policy dominance'
-live: false
+title: '"Progressive" policy dominance'
+live: true
 card_type: social
 image:
     source: democrat.gif
+    caption: What if parties on the left had control?
 body:
     paragraphs:
-        - .
+        - Many countries have a system of government that is split between right and left wing
+            factions. It's increasingly difficult to say what these factions generally represent,
+            but they are often captured on the political compass. (This card is the mirror of
+            the Conservative one.)
+        - Left wing parties are usually characterised as favouring public services, redistribution
+            and expanding rights and protections, and as sceptical of tradition for its own
+            sake.
 consider:
-    - .
-    - .
+    - What if the ABC and the Guardian became the only sources of news?
+    - Most people take a view on what changes should be made and which have gone too far. How
+        do you draw this line yourself? Why do you think you hold these views?
+    - What is the correct pace of progress? Should we be radical or conservative with our choices?
+        Do you apply that to all issues?
+    - If everything that you wanted passed tomorrow, who would be unhappy, and what would they
+        do?
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

@@ -1,6 +1,11 @@
 title: Carbon labelling for consumer goods
 live: true
 card_type: social
+image:
+    source: commons-health-canada-food-warning-labels.jpg
+    caption: A front-of-pack warning label on a food box in Canada
+    citation: Gogerr, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Health_Canada_Food_Warning_Labels.jpg
 body:
     paragraphs:
         - Like nutrition facts on food, listing carbon expenditures[^co2expenditure] related

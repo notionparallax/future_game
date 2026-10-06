@@ -1,7 +1,28 @@
 title: Van life
-live: false
+live: true
 card_type: social
+image:
+    source: commons-digital-nomad-workstation-in-the-back-of-a-campervan.jpg
+    caption: A laptop on a fold-out table inside a converted campervan
+    citation: CruiseAmerica, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Digital_Nomad_workstation_in_the_back_of_a_Campervan.jpg
 body:
     paragraphs:
-        - null
-consider: []
+        - 'Living in a converted van, once a niche dream of freedom and travel, took off on
+            social media as #vanlife. It boomed in the pandemic, when people could work from
+            anywhere and wanted to get out of the city.'
+        - It is also a symptom of housing costs. Living in a vehicle is a choice for some and
+            the last option for others, and cities have responded with overnight parking bans
+            and, in a few places, safe parking sites.
+        - It has created a market in conversions, vehicle-friendly campsites and remote-work
+            gear, and has put pressure on popular beauty spots.
+consider:
+    - What would you give up, and gain, if your whole home was eight square metres?
+    - Should it be legal to sleep in your vehicle on a public street? Who is it a problem for?
+    - If you can work from anywhere, why would you stay in an expensive city?
+    - What would a van designed for living in, rather than holidays, look like?
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

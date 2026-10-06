@@ -1,7 +1,35 @@
 title: Influencers
-live: false
+live: true
 card_type: social
+image:
+    source: commons-influencers-promoting-jewelry-in-yebisu-garden-place.jpg
+    caption: Social media posters filming products at a purpose-built table in Tokyo
+    citation: Syced, CC0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Influencers_promoting_jewelry_in_Yebisu_Garden_Place.jpg
 body:
     paragraphs:
-        - .
-consider: []
+        - Making content for an audience has become a job that millions of people want. Influencers
+            are paid to sell, to entertain, or just to be liked, and a few earn more than film
+            stars.
+        - Children are part of it, as stars and as audience. Ryan Kaji, who started making toy
+            videos as a small child, was the highest-paid YouTuber in 2020, at about $30 million[^ryan].
+            Some US states now have laws, like those for child actors, to protect the earnings
+            of child influencers. Since December 2025 Australia has banned under-16s from holding
+            accounts on platforms such as YouTube, TikTok and Instagram[^ausban].
+        - 'Trust is the currency: followers believe someone who seems like them, and then they
+            are sold things by that person.'
+consider:
+    - Is it fair for parents to earn money from videos of their children? What will those children
+        think at 18?
+    - Would you trust a product recommendation from someone you follow more than an advertisement?
+        Why?
+    - Is a ban for under-16s the right answer, or will it push young people somewhere less safe?
+    - What happens to influencers when AI can make perfect virtual ones?
+footnotes:
+    ryan: '[Wikipedia: Ryan Kaji](https://en.wikipedia.org/wiki/Ryan_Kaji)'
+    ausban: '[Kennedys: Australia''s social media ban for under-16s](https://www.kennedyslaw.com/en/thought-leadership/article/2026/australia-s-social-media-ban-for-under-16s)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

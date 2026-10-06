@@ -1,0 +1,32 @@
+title: Meme stocks (r/WallStreetBets)
+live: true
+card_type: social
+image:
+    source: commons-gamestop-ume.jpg
+    caption: A GameStop video-game shop with sale signs in Umeå, Sweden
+    citation: Oxiq, CC0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:GameStop,_Ume%C3%A5.JPG
+body:
+    paragraphs:
+        - In January 2021 members of Reddit's r/WallStreetBets pushed the share price of GameStop,
+            a struggling video-game shop, from under $20 to above $400 in a few weeks, squeezing
+            hedge funds that had bet against it. The trading app Robinhood restricted purchases
+            at the peak, and a political row followed[^gme].
+        - 'Retail traders have returned in waves since: AMC, Bed Bath & Beyond, and the meme
+            stocks of 2025. It is investing as a game and a community, with jokes, options,
+            and risks that can hurt people.'
+        - It showed that a crowd coordinated online can move a market, and how much the market's
+            rules favour insiders. Regulators have looked at how brokers are paid for order
+            flow, and at short-selling disclosure.
+consider:
+    - Is a crowd buying a stock to hurt a hedge fund investing, gambling or protesting?
+    - Who should be allowed to trade, and who should be protected from it?
+    - If a message board can move a billion dollars, what else could it move?
+    - Would a market run entirely by retail traders work?
+footnotes:
+    gme: '[Wikipedia: GameStop short squeeze](https://en.wikipedia.org/wiki/GameStop_short_squeeze)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

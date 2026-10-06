@@ -1,7 +1,35 @@
 title: Pandemics
-live: false
+live: true
 card_type: nature
+image:
+    source: commons-protective-masks-during-the-covid-19-pandemic-in-a-clovis-ho.jpg
+    caption: Face shield and masks used during the COVID-19 pandemic
+    citation: NeoBatfreak, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Protective_masks_during_the_COVID-19_pandemic_in_a_Clovis_home.jpg
 body:
     paragraphs:
-        - .
-consider: []
+        - 'COVID-19 killed, directly or indirectly, an estimated 14.9 million more people than
+            would normally have died in 2020 and 2021 alone, by the World Health Organization''s
+            count[^who]. It wasn''t a freak: new diseases keep jumping from animals to people,
+            and the more we farm, travel and push into wild places, the more often it will happen.'
+        - 'The world learned fast in some ways: effective mRNA vaccines were ready in under
+            a year. It forgot fast in others. The WHO adopted its first Pandemic Agreement in
+            May 2025[^pa], after a long fight, and some countries, including the United States,
+            are outside it. Avian flu (H5N1) is now in cattle and wild animals across the world.'
+        - Pandemics are social as well as medical. This one changed how we work, learn, shop
+            and trust governments, and the cards on Universal work from home, Dark kitchens
+            and Zoom fashion are all pandemic cards.
+consider:
+    - What did the pandemic change in your life that hasn't gone back?
+    - Who should decide when to close borders or schools, and who should pay?
+    - If a vaccine can be made in months, who should get it first?
+    - How would a disease that is more infectious than COVID-19 change cities, work and travel?
+footnotes:
+    who: '[PAHO: 14.9 million excess deaths associated with the COVID-19 pandemic in 2020 and
+        2021](https://www.paho.org/en/news/5-5-2022-149-million-excess-deaths-associated-covid-19-pandemic-2020-and-2021)'
+    pa: '[WHO: World Health Assembly adopts historic Pandemic Agreement](https://www.who.int/news/item/20-05-2025-world-health-assembly-adopts-historic-pandemic-agreement-to-make-the-world-more-equitable-and-safer-from-future-pandemics)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

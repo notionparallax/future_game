@@ -1,6 +1,11 @@
 title: Breakdown of traditional education paths
 live: true
 card_type: social
+image:
+    source: commons-belajar-online-saat-pandemi.jpg
+    caption: Children learning online at a solar-powered outdoor shelter in Indonesia
+    citation: M Joko Apriyo Putro, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Belajar_Online_Saat_Pandemi.jpg
 body:
     paragraphs:
         - As the pandemic has interrupted schooling[^schooling] for millions, new relationships

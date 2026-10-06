@@ -1,6 +1,12 @@
 title: Deep-sea mining
 live: true
 card_type: technology
+image:
+    source: commons-observation-lors-de-la-campagne-eden-des-traces-du-pr-l-veme.jpg
+    caption: Seafloor tracks left by a nodule collector robot during the EDEN campaign
+    citation: Florian Besson (Ifremer Centre Bretagne, REM-GEOOCEAN-ANTIPOD - ZI de la Pointe
+        , CC BY 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Observation_lors_de_la_campagne_EDEN_des_traces_du_pr%C3%A9l%C3%A8vement_de_nodules_polym%C3%A9taliques_par_le_robot_Patania_en_2021_(Ifremer_00956-106832_-_54946).jpg
 body:
     paragraphs:
         - 'Fist-sized nodules lying on the sea floor in the Clarion-Clipperton Zone of the Pacific

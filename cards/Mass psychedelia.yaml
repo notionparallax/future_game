@@ -1,6 +1,11 @@
 title: Psychedelia
 live: true
 card_type: trend
+image:
+    source: commons-psilocybe-cubensis-imire-psilocybe-cubensis-zimbabwe-9.jpg
+    caption: Psilocybe cubensis mushrooms growing in Zimbabwe
+    citation: Robert van der Horst, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Psilocybe_Cubensis_Imire_(Psilocybe_Cubensis_Zimbabwe)_9.jpg
 body:
     paragraphs:
         - Shrooms are the new weed, commercially speaking, as new firms and funds scramble to

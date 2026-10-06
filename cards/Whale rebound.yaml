@@ -1,6 +1,11 @@
 title: Whale rebound
 live: true
 card_type: nature
+image:
+    source: commons-001-humpback-whale-breaching-in-ballena-marine-national-park.jpg
+    caption: A humpback whale breaching in Ballena Marine National Park, Costa Rica
+    citation: Giles Laurent, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:001_Humpback_whale_breaching_in_Ballena_Marine_National_Park_Photo_by_Giles_Laurent.jpg
 body:
     paragraphs:
         - 'Commercial whaling pushed several species to the edge of extinction. Since the ban

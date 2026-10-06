@@ -1,0 +1,31 @@
+title: Online shopping and physical retail
+live: true
+card_type: social
+image:
+    source: commons-ainoa-shopping-centre-interior.jpg
+    caption: A quiet floor of the Ainoa shopping centre in Espoo, Finland
+    citation: kallerna, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Ainoa_shopping_centre_interior.jpg
+body:
+    paragraphs:
+        - About 16% of US retail sales, and between 13% and 15% in Australia, now happen online[^ecom].
+            The share jumped in the pandemic and did not go back.
+        - Physical shops are being redefined rather than replaced. They are becoming showrooms,
+            pick-up points, experiences, and places to be seen. Malls built around department
+            stores have struggled, while groceries and hardware have held up better.
+        - Cheap direct-from-factory platforms such as Temu and Shein have pushed prices down,
+            and returns and packaging up.
+consider:
+    - What is a shop for if you can buy anything at home?
+    - What would happen to a high street if only shops that offer an experience survived?
+    - 'Who gets the jobs: the shop assistant, or the warehouse picker and the delivery driver?'
+    - Does everything arriving at your door in a day have a cost that you can't see?
+footnotes:
+    ecom: '[US Census Bureau: Quarterly retail e-commerce sales](https://www.census.gov/retail/ecommerce.html).
+        Australian estimates range from 12.7% (ABS) to 14.9% (NAB), depending on how online
+        retail is defined.'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

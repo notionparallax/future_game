@@ -1,6 +1,11 @@
 title: China power shift
 live: true
 card_type: social
+image:
+    source: commons-shanghai-skyline-waterfront-pudong-5166168-69-70.jpg
+    caption: The Pudong skyline and waterfront in Shanghai, with the Shanghai Tower
+    citation: Ermell, CC0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Shanghai_skyline_waterfront_pudong_5166168_69_70.jpg
 body:
     paragraphs:
         - China’s status as an economic, political and cultural center will continue its meteoric

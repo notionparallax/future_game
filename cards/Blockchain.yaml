@@ -1,20 +1,35 @@
 title: Blockchain
-live: false
+live: true
 card_type: technology
+image:
+    source: commons-cryptocurrency-mining-farm.jpg
+    caption: Cryptocurrency mining machines in a data hall in Iceland
+    citation: Marco Krohn, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Cryptocurrency_Mining_Farm.jpg
 body:
     paragraphs:
-        - More widespread adoption of blockchain technologies will affect the way people portray
-            identities online. Protest movements will demand transparency[^blockchainTransparency]
-            from power, which will drive adoption of blockchain technologies with their public
-            accounting systems. Historically speculative products like NFTs[^NFTs] (non-fungible
-            tokens) which create unique digital identities for items like digital artworks or
-            gaming items, will go mainstream.
-consider: []
-footnotes:
-    blockchainTransparency: https://intelligence.wundermanthompson.com/trend-reports/the-future-100-2021/
-    NFTs: https://news.bitcoin.com/could-nfts-become-2021s-biggest-crypto-trend/
+        - A blockchain is a shared ledger that many computers keep copies of. New entries are
+            chained to old ones, so history is very hard to change. It means that strangers
+            can agree on who owns what without a bank or a registry in the middle.
+        - Cryptocurrencies were the first use, and the one that took off (see Non-sovereign
+            currencies). Others have been tried for land titles, supply-chain tracking, voting
+            and digital artworks (NFTs). The NFT boom of 2021 collapsed, and most of the other
+            uses remain small and technical.
+        - The open question is whether trust that is built into software is better than trust
+            that is built into institutions, especially when a mistake can't be undone.
+consider:
+    - What would you want to be impossible to change once it's written down? What would you
+        want to be able to fix?
+    - 'Who do you trust more to keep the record of who owns land: a government, or a network
+        of strangers'' computers?'
+    - A ledger that is public and permanent protects against corruption, but is it also a surveillance
+        risk?
+    - Some blockchains use a lot of electricity. When, if ever, is that worth it?
 meta:
     sources:
         -   source_comment: This article has a list of trends, and the first pass is to just
                 import them without modification
             source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

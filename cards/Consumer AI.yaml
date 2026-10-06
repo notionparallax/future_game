@@ -1,0 +1,29 @@
+title: Consumer AI
+live: true
+card_type: technology
+image:
+    source: commons-piqsels-com-id-zbxec.jpg
+    caption: Illustration of a hand holding a phone chatting with a robot assistant
+    citation: piqsels, CC0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Piqsels.com-id-zbxec.jpg
+body:
+    paragraphs:
+        - Chatbots and AI assistants went from curiosity to something used by hundreds of millions
+            of people within a couple of years of ChatGPT's launch in late 2022. People use
+            them to write, code, study, search and plan, and increasingly to talk to.
+        - 'They are fluent, but not reliable: they can invent facts, flatter the user, and repeat
+            the biases in what they were trained on. Companion apps are designed to be friends,
+            tutors or partners, and more of the web is machine-written filler.'
+        - 'The questions are about everyday life more than superintelligence: what we stop learning,
+            who we turn to, and what happens when a few companies sit between people and almost
+            everything they read.'
+consider:
+    - What would you ask a chatbot that you wouldn't ask a person? What wouldn't you ask it?
+    - If students can get an essay in seconds, what is education for?
+    - Would you be happy for your child's best friend to be an AI?
+    - How would you know whether something you read was written by a person?
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

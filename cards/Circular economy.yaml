@@ -1,8 +1,32 @@
-title: The Circular Economy
-live: false
+title: The circular economy
+live: true
 card_type: technology
+image:
+    source: commons-bales-of-pet-bottles-closeup.jpg
+    caption: Bales of crushed PET bottles at a recycling facility in San Jose, California
+    citation: Grendelkhan, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Bales_of_PET_bottles_closeup.jpg
 body:
     paragraphs:
-        - What is it?
+        - 'Most of the economy is linear: take, make, use, throw away. A circular economy keeps
+            materials in use for as long as possible, with design for repair and reuse, rental
+            and sharing, remanufacturing and recycling, so that waste is designed out from the
+            start.'
+        - The Circularity Gap Report estimates that only about 7% of the materials that go into
+            the world economy come from recycled sources, and that the figure has been falling[^cgr].
+            The EU has passed a right to repair law, and a few companies sell on a rental or
+            take-back model.
+        - Buildings use more materials than anything else, so design for disassembly (see DfMA)
+            is where this will be won or lost.
 consider:
-    - What should we think about?
+    - What would you rent rather than own, if the rental was cheap, easy and well made?
+    - Who does the repairing, and how do they make a living?
+    - If a product is designed to last 50 years, what happens to the company that makes it?
+    - Can a growing economy ever be fully circular?
+footnotes:
+    cgr: '[Circle Economy: the Circularity Gap Report](https://www.circle-economy.com/)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

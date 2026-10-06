@@ -1,6 +1,11 @@
 title: Megafires and cultural burning
 live: true
 card_type: nature
+image:
+    source: commons-colour-of-australia-bushfire-48922109547.jpg
+    caption: Burnt forest the day after a bushfire south of Yamba, New South Wales, 2019
+    citation: Tatters ✾ from Brisbane, Australia, CC BY-SA 2.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Colour_of_Australia_(Bushfire)_(48922109547).jpg
 body:
     paragraphs:
         - Australia's 2019-20 Black Summer burned about 24 million hectares[^blacksummer]. Hotter,

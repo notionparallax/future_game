@@ -1,6 +1,11 @@
 title: Coworking and Cohousing
 live: true
 card_type: social
+image:
+    source: commons-vandkunsten-architects-jystrup-savv-rk-cohousing-community-j.jpg
+    caption: Jystrup Savvaerk cohousing community, Denmark (1982-84)
+    citation: seier+seier, CC BY 2.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Vandkunsten,_architects-_jystrup_savv%C3%A6rk_cohousing_community,_jystrup,_denmark_1982-1984_(6352477805).jpg
 body:
     paragraphs:
         - A significant proportion of effort in an office or a house is directed towards non-core

@@ -1,6 +1,11 @@
 title: Zoom fashion
 live: true
 card_type: trend
+image:
+    source: commons-video-conference-using-laptop.jpg
+    caption: A video call on a laptop screen; only the upper body of each person is visible
+    citation: Project Kei, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Video_Conference_Using_Laptop.jpg
 body:
     paragraphs:
         - Fashion designers and retailers will create markedly different strategies[^zoomFashion]

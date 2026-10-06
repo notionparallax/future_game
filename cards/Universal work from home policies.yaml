@@ -1,6 +1,11 @@
 title: Universal work from home policies
 live: true
 card_type: social
+image:
+    source: commons-workspace-nottingham-flat.jpg
+    caption: A home desk workspace with monitor and laptop in a flat
+    citation: David Wellbeloved, CC BY 2.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Workspace_@_Nottingham_Flat.jpg
 body:
     paragraphs:
         - Remote work due to Covid-19 has exposed the inadequacies of compulsory office attendance;

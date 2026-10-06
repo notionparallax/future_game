@@ -1,6 +1,11 @@
 title: 30 by 30
 live: true
 card_type: nature
+image:
+    source: commons-heatwave-impacts-great-barrier-reef-modis-2022-04-04.jpg
+    caption: Satellite view of the Great Barrier Reef, a large marine protected area off Queensland
+    citation: MODIS Land Rapid Response Team, NASA GSFC, Public domain, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Heatwave_Impacts_Great_Barrier_Reef_(MODIS_2022-04-04).jpg
 body:
     paragraphs:
         - In 2022 the world's governments agreed to protect 30% of the planet's land and sea

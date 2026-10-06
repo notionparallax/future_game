@@ -1,6 +1,11 @@
 title: Concentration of functions into smart phones
 live: true
 card_type: trend
+image:
+    source: commons-iphone-models.jpg
+    caption: A lineup of iPhone models
+    citation: Ka Kit Pang, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:IPhone_models.jpg
 body:
     paragraphs:
         - Since smart phones emerged by merging personal digital assistants (PDAs) and telephones,

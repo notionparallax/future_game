@@ -1,6 +1,11 @@
 title: Escape into fantasy worlds
 live: true
 card_type: trend
+image:
+    source: commons-willem-troost-fantasy-rhine-landscape-with-castle-town.jpg
+    caption: Gouache of an imagined Rhine landscape with a castle town, by Willem Troost
+    citation: Willem Troost, Public domain, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Willem_Troost-_fantasy_Rhine_landscape_with_castle_town.jpg
 body:
     paragraphs:
         - Perhaps unsurprisingly, global uncertainty has led to a boom in escapism[^escapismBoom],

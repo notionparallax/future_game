@@ -1,12 +1,26 @@
 title: No-melody music
-live: false
+live: true
 card_type: social
+image:
+    source: commons-roland-juno-6-doomsday-studio-2015-04-03-21-36-31-by-klara-k.jpg
+    caption: Synthesizers and drum machines in a small music production studio
+    citation: Klara Kopf from Essen, Germany, CC BY 2.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Roland_Juno-6_-_Doomsday_Studio_(2015-04-03_21.36.31_by_Klara_Kopf)_(cropped).jpg
 body:
     paragraphs:
-        - Stripped-down rap with no melody[^rap] is perfect for soundtracking viral TikTok videos;
-            the trend of stripping out elements may expand widely into various categories of
-            music and media.
-consider: []
+        - Stripped-down rap with no melody is perfect for soundtracking viral TikTok videos[^rap].
+            The trend of stripping out elements may spread into other kinds of music and media.
+        - 'Streaming and short video reward songs that hook in the first seconds: on Spotify
+            a stream only counts for payment after 30 seconds. Intros have shrunk, and some
+            tracks are built around the clip.'
+        - AI can now make passable music on demand. In 2025 a band called the Velvet Sundown
+            drew more than a million monthly listeners on Spotify before it was reported to
+            be largely AI-generated.
+consider:
+    - Does music need a melody? What does it need?
+    - If a song exists only to be the soundtrack to a video, who is the artist?
+    - Would you care if your favourite song was written by an AI? What if you didn't know?
+    - What would a three-second song sound like?
 footnotes:
     rap: https://www.highsnobiety.com/p/tik-tok-renegade-no-melody-rap/
 meta:
@@ -14,3 +28,6 @@ meta:
         -   source_comment: This article has a list of trends, and the first pass is to just
                 import them without modification
             source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

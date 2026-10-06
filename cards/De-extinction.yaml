@@ -1,6 +1,11 @@
 title: De-extinction
 live: true
 card_type: technology
+image:
+    source: commons-mammoth-skeleton-01.jpg
+    caption: Woolly mammoth skeleton at the Anthropos museum in Brno
+    citation: HTO, Public domain, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Mammoth_skeleton_01.JPG
 body:
     paragraphs:
         - In April 2025 the company Colossal Biosciences announced that it had produced three

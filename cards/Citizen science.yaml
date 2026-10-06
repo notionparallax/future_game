@@ -1,7 +1,31 @@
 title: Citizen science
-live: false
+live: true
 card_type: social
+image:
+    source: commons-citizen-science-volunteers-44094809031.jpg
+    caption: Citizen science volunteers surveying a pond for frogs at Mount Rainier
+    citation: Mount Rainier NPS, CC BY 2.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Citizen_Science_Volunteers_-_44094809031.jpg
 body:
     paragraphs:
-        - .
-consider: []
+        - 'Anyone can contribute to real science: counting birds, classifying galaxies, recording
+            rainfall, folding proteins in a game. Projects like eBird, iNaturalist, Galaxy Zoo
+            and Foldit gather far more data, or far more pairs of eyes, than a research team
+            could pay for.'
+        - In 2011 players of the game Foldit worked out the structure of an enzyme from a virus
+            related to HIV that had stumped researchers for years, in a matter of weeks[^foldit].
+        - 'Smartphones, cheap sensors and AI identification make it easier, and make amateur
+            data more valuable. But volunteers are not spread evenly: data clusters where people
+            live and like to look, and its quality has to be checked.'
+consider:
+    - What would you measure in your own street if you could?
+    - Who owns the data, and who gets the credit for a discovery?
+    - If an app can identify any plant or bird, what is left for a human expert to do?
+    - Could a community use its own measurements as evidence against a polluter?
+footnotes:
+    foldit: '[Wikipedia: Foldit](https://en.wikipedia.org/wiki/Foldit)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

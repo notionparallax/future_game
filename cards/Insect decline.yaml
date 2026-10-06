@@ -1,6 +1,11 @@
 title: Insect decline
 live: true
 card_type: nature
+image:
+    source: commons-061-wild-bumblebee-in-flight-pollinating-with-crocus-parc-na.jpg
+    caption: A wild bumblebee in flight pollinating a crocus, Jura vaudois, Switzerland
+    citation: Giles Laurent, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:061_Wild_Bumblebee_in_flight_pollinating_with_Crocus_Parc_naturel_r%C3%A9gional_Jura_vaudois_Photo_by_Giles_Laurent.jpg
 body:
     paragraphs:
         - A study that counted flying insects at more than 60 sites in German nature reserves

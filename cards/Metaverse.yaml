@@ -1,13 +1,34 @@
-title: The Metaverse
-live: false
+title: The metaverse
+live: true
 card_type: technology
+image:
+    source: commons-zero-latency-virtual-reality-experience.jpg
+    caption: Players in headsets and backpacks in a free-roam virtual reality arena
+    citation: Almostnow, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Zero_Latency_Virtual_Reality_Experience.jpg
 body:
     paragraphs:
-        - What is the metaverse?[^meta]
-consider: []
+        - In 2021 Facebook renamed itself Meta, betting that people would soon live, work and
+            play in shared virtual worlds. Billions of dollars went into the idea.
+        - It hasn't happened yet. Meta's Reality Labs division has lost more than $75 billion
+            since the end of 2020[^rl], and the company has cut back, shifting its attention
+            to AI and smart glasses. The virtual worlds that did take off, like Roblox, Minecraft
+            and Fortnite, are games.
+        - The idea isn't dead. Headsets such as Apple's Vision Pro, and glasses that overlay
+            information on the world, keep improving. Whether people want to spend their day
+            in a headset is another question.
+consider:
+    - What would it take for you to spend a working day in a headset?
+    - If you own a virtual house or a virtual shop, who really owns it?
+    - Is the metaverse a place or a medium? Which one is the internet?
+    - What did the hype of 2021 teach us about how to judge predictions about technology?
 footnotes:
-    meta: todo
+    rl: '[Storyboard18: Reality Labs bleeds $19.1 billion in 2025 as Meta reins in metaverse
+        ambitions](https://www.storyboard18.com/digital/reality-labs-bleeds-19-1-billion-in-2025-as-meta-reins-in-metaverse-ambitions-88413.htm)'
 meta:
     sources:
         -   source_comment: commentCommentCommentComment
             source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

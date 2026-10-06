@@ -1,6 +1,11 @@
 title: Coral reef collapse
 live: true
 card_type: nature
+image:
+    source: commons-bleached-staghorn-coral.jpg
+    caption: Bleached staghorn coral on the Great Barrier Reef
+    citation: Matt Kieffer, CC BY-SA 2.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Bleached_Staghorn_Coral.jpg
 body:
     paragraphs:
         - 'Corals bleach when the water gets too hot: they expel the algae that feed them and,

@@ -1,6 +1,11 @@
 title: End of the open-plan office
 live: true
 card_type: social
+image:
+    source: commons-openplanredballoon1.jpg
+    caption: Workers at desks in an open-plan office
+    citation: VeronicaTherese, CC BY-SA 3.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:OpenPlanRedBalloon1.jpg
 body:
     paragraphs:
         - Besides being notoriously difficult for concentration and privacy, an airborne pandemic

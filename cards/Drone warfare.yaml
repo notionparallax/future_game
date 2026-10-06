@@ -1,0 +1,36 @@
+title: Drone warfare
+live: true
+card_type: technology
+image:
+    source: commons-fpv-drones-support-of-the-dnepr-grouping-of-forces-1.png
+    caption: An FPV drone fitted with an explosive charge, ready for launch
+    citation: Unknown authorUnknown author, CC BY 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:FPV_drones_support_of_the_Dnepr_Grouping_of_Forces_(1).png
+body:
+    paragraphs:
+        - In Ukraine, cheap drones have changed how wars are fought. Small first-person-view
+            (FPV) drones cost a few hundred dollars and are flown to their targets by a pilot
+            wearing goggles. Ukrainian officials say that drones now cause most hits on Russian
+            forces, between 70% and 80% or more, although the figures can't be checked[^ua].
+        - 'Production has exploded: Ukraine made around 4 million drones in 2025 and plans to
+            make 7 million in 2026[^prod]. In June 2025 it hid drones in trucks to hit Russian
+            bombers at air bases thousands of kilometres from the front (Operation Spiderweb)[^web].'
+        - Jamming is pushing drones towards autonomy, where software chooses the target. A drone
+            that costs a few hundred dollars can destroy a tank or a missile launcher worth
+            thousands of times more. The same tools are available to militias, criminals and
+            anyone else.
+consider:
+    - Just as dogs become well loved members of military teams, robots do too. As robots become
+        more capable, will humans value their 'lives' more?
+    - Can we imagine an end game where robot armies fight on an island, to settle disputes?
+    - If software chooses the target, who is responsible for what happens?
+    - How would you defend a city against ten thousand cheap drones?
+footnotes:
+    ua: '[Army Technology: Drones now account for 80% of casualties in Ukraine-Russia war](https://www.army-technology.com/news/drones-now-account-for-80-of-casualties-in-ukraine-russia-war/)'
+    prod: '[Euromaidan Press: Ukraine will build 7 million drones in 2026](https://euromaidanpress.com/2026/01/26/ukraine-aims-to-build-7-million-drones-in-2026/)'
+    web: '[Wikipedia: Operation Spiderweb](https://en.wikipedia.org/wiki/Operation_Spiderweb)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

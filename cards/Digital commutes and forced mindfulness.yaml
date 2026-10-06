@@ -1,6 +1,11 @@
 title: Digital commutes and forced mindfulness
 live: true
 card_type: social
+image:
+    source: commons-shibuya-toyoko-line.jpg
+    caption: Morning commuters on a station platform in Shibuya, Tokyo
+    citation: Joi Ito, CC BY 2.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Shibuya_Toyoko_Line.jpg
 body:
     paragraphs:
         - In 2021 Microsoft introduced a “virtual commute” feature[^virtualCommute] intended

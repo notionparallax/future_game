@@ -1,6 +1,11 @@
 title: Cottagecore and Waldenponding
 live: true
 card_type: social
+image:
+    source: commons-lilian-stannard-a-cottage-garden-undated-watercolour.jpg
+    caption: Watercolour of a thatched cottage and its garden by Lilian Stannard
+    citation: Lilian Stannard, Public domain, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Lilian_Stannard,_A_Cottage_Garden_,_undated_watercolour.jpg
 body:
     paragraphs:
         - As our daily activities become more screen based and virtual, there is a movement

@@ -1,6 +1,11 @@
 title: Climate migration
 live: true
 card_type: social
+image:
+    source: commons-flooded-village-after-1991-cyclone.jpg
+    caption: A village surrounded by flooded fields after the 1991 Bangladesh cyclone
+    citation: Airman 1st Class Cheryl Sanzi (USAF), Public domain, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Flooded_village_after_1991_cyclone.jpg
 body:
     paragraphs:
         - Climate crises will increasingly force huge populations[^populationMigration] to relocate,

@@ -1,0 +1,27 @@
+title: Gaming as socialising
+live: true
+card_type: social
+image:
+    source: esport.jpg
+body:
+    paragraphs:
+        - 'More than three billion people play video games. For many, especially younger people,
+            a game is where they hang out: Fortnite, Roblox, Minecraft, and a Discord voice
+            channel. It is the new ''third place'', between home and work.'
+        - Esports fill arenas, and watching other people play on a stream is as big a draw as
+            playing. In 2020 more than 12 million players attended a Travis Scott concert held
+            inside Fortnite.
+        - 'Games also raise worries about time, money and safety: loot boxes, harassment, and
+            strangers talking to children. They are also where some of the loneliest people
+            find company.'
+consider:
+    - Is a friendship that only exists inside a game less real? Why?
+    - What would a city look like if most of its public spaces were virtual?
+    - 'Who should be responsible for the safety of children in a game world: the company, the
+        parents or the state?'
+    - Will esports ever be accepted as a sport?
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

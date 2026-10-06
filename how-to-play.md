@@ -25,11 +25,11 @@ I'd recommend playing 3 rounds, the first with 1 card, the second with 2, and th
 
 For these first rounds, keep them quick, 10 minutes or so. You should keep these following prompts in mind, but not be too diligent about doing them all. Save the diligence for the last round.
 
-1.  Each team picks N card[s], at random. The job then is to bat ideas around between the team members. Most of the cards don't explicitly give an outcome, more like an idea or a trend, so it's the team's job to think about the bounds of that trend. E.g. will _all_ the bees die, or will we do something magical and get bee populations to their highest ever level?
+1. Each team picks N card[s], at random. The job then is to bat ideas around between the team members. Most of the cards don't explicitly give an outcome, more like an idea or a trend, so it's the team's job to think about the bounds of that trend. E.g. will _all_ the bees die, or will we do something magical and get bee populations to their highest ever level?
 
-1.  If you've got more than one card, think about each one individually, and then think about their interactions. Do they amplify each other (IoT trackers glued to bees?) or cancel out (a fashion for owning bee eating lizards?).
+1. If you've got more than one card, think about each one individually, and then think about their interactions. Do they amplify each other (IoT trackers glued to bees?) or cancel out (a fashion for owning bee eating lizards?).
 
-1.  If you've heard of the _five whys_, this is the five _and then whats_. Think of an effect:
+1. If you've heard of the _five whys_, this is the five _and then whats_. Think of an effect:
 
     1. get started
 
@@ -57,25 +57,25 @@ For these first rounds, keep them quick, 10 minutes or so. You should keep these
 
     This might not be scientifically supportable, but you can get to some pretty interesting and unintuitive results from it.
 
-1.  Once you've got a pretty good grasp on how the ideas interact, take some time to think about them from different perspectives.
+1. Once you've got a pretty good grasp on how the ideas interact, take some time to think about them from different perspectives.
 
-    -   How does it affect the economy? What about under different forms of government? How would they deal with it in the USA, in France, in China, in North Korea?
-    -   How will it change what we eat?
-    -   How will it change what we buy?
-    -   How will it change family structures?
-    -   How will it change our free time?
-    -   How will it change what we think about as we live our lives?
-    -   How will it change what society values?
+    - How does it affect the economy? What about under different forms of government? How would they deal with it in the USA, in France, in China, in North Korea?
+    - How will it change what we eat?
+    - How will it change what we buy?
+    - How will it change family structures?
+    - How will it change our free time?
+    - How will it change what we think about as we live our lives?
+    - How will it change what society values?
 
-1.  Invent a protagonist.
+1. Invent a protagonist.
 
-    -   What do they do?
-    -   How is their life different to yours?
-    -   How is it the same?
+    - What do they do?
+    - How is their life different to yours?
+    - How is it the same?
 
-1.  Capture it! Write notes, do sketches, take photos of your team acting out scenarios. The idea is to have a record of your thoughts so that _if you wanted_, you could go back and write a speculative fiction short story about your world.
+1. Capture it! Write notes, do sketches, take photos of your team acting out scenarios. The idea is to have a record of your thoughts so that _if you wanted_, you could go back and write a speculative fiction short story about your world.
 
-1.  Put all your cards to one side, and take N+1 new cards. Start again, but with more insight and enthusiasm now that you're getting more warmed up.
+1. Put all your cards to one side, and take N+1 new cards. Start again, but with more insight and enthusiasm now that you're getting more warmed up.
 
 ## Final round
 
@@ -91,13 +91,13 @@ Take a bit more time to weave all these ideas into a story, and then tell everyo
 
 ### Tips
 
--   It's very tempting to think of blissful utopias or of hellish dystopian worlds, but there is good, even joy, in all worlds, and bad in them too.
+- It's very tempting to think of blissful utopias or of hellish dystopian worlds, but there is good, even joy, in all worlds, and bad in them too.
 
     Try to avoid extremes in your worlds, it'll feel much more real if it's nuanced. Balance is a much better place to make a jump from.
 
--   Make way more notes than you think you need. At the time everything seems impossibly vibrant, but as the blinding light of the next idea comes along, it'll bulldoze the preceding ideas out of its path.
+- Make way more notes than you think you need. At the time everything seems impossibly vibrant, but as the blinding light of the next idea comes along, it'll bulldoze the preceding ideas out of its path.
 
--   Grab quotes from others in your team, they're really usable in future bits of work you'll do.
+- Grab quotes from others in your team, they're really usable in future bits of work you'll do.
 
 ## Worldview cards
 
@@ -123,20 +123,20 @@ If you've got a big printer, print this as A3 or even better A2
 
 Or just work through these prompts on whatever paper you've got:
 
--   Imagine an object used in this world
--   What would a convenience store be like (or the nearest thing to one)?
--   What's child rearing like?
--   What are the last 10 years of a person's life like in this world
--   draw up a timeline of your protagonist's day, who do they interact with, what technology do they interact with?
--   How will this scenario
-    -   affect the economy?
-    -   change what we eat?
-    -   change what we buy?
-    -   change family structures?
-    -   change our free time?
-    -   change what we think about as we live our lives?
-    -   change what society values?
--   How would it play out under different forms of government? How would they deal with it in the USA, in France, in China, in North Korea?
+- Imagine an object used in this world
+- What would a convenience store be like (or the nearest thing to one)?
+- What's child rearing like?
+- What are the last 10 years of a person's life like in this world
+- draw up a timeline of your protagonist's day, who do they interact with, what technology do they interact with?
+- How will this scenario
+  - affect the economy?
+  - change what we eat?
+  - change what we buy?
+  - change family structures?
+  - change our free time?
+  - change what we think about as we live our lives?
+  - change what society values?
+- How would it play out under different forms of government? How would they deal with it in the USA, in France, in China, in North Korea?
 
 ## Contributing
 
@@ -151,7 +151,8 @@ You can improve them by going to [GitHub](https://github.com/notionparallax/futu
 If you'd like to do an easy one, the following cards have been stubbed out but not finished:
 
 {% for card in stub_cards %}
--   {{ card.title }}
+
+- {{ card.title }}
 {% endfor %}
 
 ### Making new cards
@@ -204,7 +205,8 @@ The current cards are:
 <div class="toc" markdown="1">
 
 {% for card in live_cards %}
--   {{ card.title }}
+
+- {{ card.title }}
 {% endfor %}
 
 </div>
@@ -214,7 +216,8 @@ The worldviews are:
 <div class="toc" markdown="1">
 
 {% for card in worldview_cards %}
--   {{ card.title }}
+
+- {{ card.title }}
 {% endfor %}
 
 </div>

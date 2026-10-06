@@ -1,6 +1,11 @@
 title: Death of music genres
 live: true
 card_type: social
+image:
+    source: commons-vinyl-collection-at-a-record-store-unsplash.jpg
+    caption: Second-hand vinyl records sorted in bins at a record shop in Lyon
+    citation: Mr Cup / Fabien Barral iammrcup, CC0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Vinyl_collection_at_a_record_store_(Unsplash).jpg
 body:
     paragraphs:
         - Spotify’s move toward mood-driven instead of genre-driven playlists has been successful

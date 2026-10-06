@@ -1,6 +1,11 @@
 title: Tech platform exit
 live: true
 card_type: social
+image:
+    source: commons-social-media-app-icons-on-the-screen-of-a-smartphone.jpg
+    caption: Social media app icons on a smartphone screen
+    citation: mikemacmarketing, CC BY 2.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg
 body:
     paragraphs:
         - Consumer backlash against big tech has been heralded for years, but its widespread

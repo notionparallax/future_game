@@ -1,18 +1,33 @@
 title: Mushroom mania
-live: false
+live: true
 card_type: trend
+image:
+    source: commons-prototype-d-emballage-en-mycomat-riau.jpg
+    caption: Prototype packaging and dishes grown from mushroom mycelium and hemp fibre
+    citation: Adrien BENOIT à la GUILLAUME, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Prototype_d%27emballage_en_mycomat%C3%A9riau.jpg
 body:
     paragraphs:
-        - Rising vegetarianism and the advancement of home cooking in the pandemic are two drivers
-            for the rising excitement[^mushroomMania] around these versatile fungi. (My firm
-            Nemesis wrote a trend report last year called The Umami Theory of Value[^utov],
-            so I am not surprised about this trend!)
-consider: []
+        - Mushrooms are having a moment. Rising vegetarianism and more home cooking in the pandemic
+            have pushed up demand for these versatile fungi[^mushroomMania].
+        - Fungi are being used for more than food. Mycoprotein (the fungus in Quorn) is a meat
+            substitute that is already on shelves. Mycelium, the root-like network of a fungus,
+            can be grown into packaging, insulation, leather-like sheets and even bricks.
+        - Some fungi can break down oil and some plastics in the lab, and there is research
+            into using them to clean up polluted land. (Psychedelic mushrooms have their own
+            card.)
+consider:
+    - What would a meal look like if mushrooms were the main protein?
+    - Would you live in a house that was grown rather than built?
+    - If something can be grown in a week, how does that change what we make, and how we throw
+        it away?
 footnotes:
     mushroomMania: https://thepaper24-7.com/Content/Home/Home/Article/Kroger-s-Top-10-for-2020-and-2021/-2/-2/75062
-    utov: https://nemesis.global/memos/umami
 meta:
     sources:
         -   source_comment: This article has a list of trends, and the first pass is to just
                 import them without modification
             source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

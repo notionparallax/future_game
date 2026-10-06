@@ -1,6 +1,11 @@
 title: Day Zero cities
 live: true
 card_type: nature
+image:
+    source: commons-theewaterskloof-sandscape-2018-03-11.jpg
+    caption: Theewaterskloof dam near Cape Town, almost empty in March 2018
+    citation: Zaian, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Theewaterskloof_sandscape_2018-03-11.jpg
 body:
     paragraphs:
         - In 2018 Cape Town came within weeks of "Day Zero", the day when the dams would run

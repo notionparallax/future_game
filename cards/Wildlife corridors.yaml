@@ -1,6 +1,11 @@
 title: Wildlife corridors
 live: true
 card_type: nature
+image:
+    source: commons-wildlife-overpass-trans-canada-hwy-between-banff-and-lakelou.jpg
+    caption: A wildlife overpass on the Trans-Canada Highway near Banff, Alberta
+    citation: WikiPedant, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Wildlife_overpass_Trans-Canada_Hwy_between_Banff_and_LakeLouise_Alberta.jpg
 body:
     paragraphs:
         - 'Roads, fences and cities cut habitat into islands, and small populations in small

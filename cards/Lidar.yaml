@@ -1,7 +1,31 @@
 title: Lidar
-live: false
+live: true
 card_type: technology
+image:
+    source: commons-ouster-os1-64-lidar-point-cloud-of-intersection-of-folsom-an.png
+    caption: Lidar point cloud of a San Francisco street intersection
+    citation: Daniel L. Lu, CC BY 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Ouster_OS1-64_lidar_point_cloud_of_intersection_of_Folsom_and_Dore_St,_San_Francisco.png
 body:
     paragraphs:
-        - .
-consider: []
+        - 'Lidar fires pulses of laser light and times how long they take to bounce back, building
+            a 3D map of everything around it: in the dark, or through the leaves of a forest.
+            It is the sensor behind many self-driving cars, and since 2020 a high-end iPhone
+            has had one.'
+        - The cost has fallen from tens of thousands of dollars to a few hundred for some units,
+            driven largely by Chinese manufacturers. Some carmakers, including Tesla, have chosen
+            cameras instead.
+        - Flown over forests, lidar has revealed tens of thousands of buried Maya buildings
+            in Guatemala[^lidar], and it is used to map flood risk, forests and city growth.
+consider:
+    - What changes if every phone, car and doorbell can build a 3D map of the world around it?
+    - Who owns a 3D scan of your home or your street?
+    - Is a camera good enough? Does it matter which carmakers are right?
+    - What else could we find under forests, cities or ice?
+footnotes:
+    lidar: '[Wikipedia: Lidar](https://en.wikipedia.org/wiki/Lidar)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

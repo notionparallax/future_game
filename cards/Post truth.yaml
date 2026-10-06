@@ -1,7 +1,33 @@
-title: Post truth
-live: false
+title: Post-truth and echo chambers
+live: true
 card_type: social
+image:
+    source: commons-disinformation-and-echo-chambers.jpg
+    caption: Diagram of how disinformation is seeded and echoed on social media
+    citation: Diaz Ruiz, C. and Nilsson, T.; MexFin, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Disinformation_and_echo_chambers.jpg
 body:
     paragraphs:
-        - .
-consider: []
+        - Oxford Dictionaries chose _post-truth_ as its word of the year in 2016, for a time
+            when appeals to emotion and belief count for more than facts[^pt].
+        - 'Fake news, conspiracy theories and doctored media spread fast on social networks.
+            Generative AI has made convincing fake images, voices and video cheap, and one effect
+            is the ''liar''s dividend'': real evidence can be waved away as fake.'
+        - 'People are often said to live in echo chambers, where algorithms show us only what
+            we already believe. The evidence is more mixed than that: many people see a wide
+            mix, and a small group of heavy users account for much of the extreme material.
+            The harder problem may be that people no longer agree on who to trust.'
+consider:
+    - How do you decide whether something you've seen is true? Would that still work against
+        a perfect fake?
+    - 'Who should decide what counts as misinformation: platforms, governments, or no one?'
+    - If trust in news falls far enough, what takes its place?
+    - Could technology (watermarks, verification, trusted networks) fix this, or is it a social
+        problem?
+footnotes:
+    pt: '[Wikipedia: Post-truth politics](https://en.wikipedia.org/wiki/Post-truth_politics)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

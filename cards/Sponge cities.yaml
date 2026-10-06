@@ -1,6 +1,11 @@
 title: Sponge cities
 live: true
 card_type: technology
+image:
+    source: commons-chicago-city-hall-green-roof-01.jpg
+    caption: The green roof of Chicago City Hall, planted to soak up rain
+    citation: Conservation Design Forum, CC BY-SA 4.0, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:Chicago-City-Hall-Green-Roof_01.jpg
 body:
     paragraphs:
         - 'Cities are mostly hard surfaces that shed rain into pipes. That floods streets in

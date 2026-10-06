@@ -1,7 +1,34 @@
 title: Religious extremism
-live: false
+live: true
 card_type: social
+image:
+    source: commons-1893parliament.jpg
+    caption: Delegates at the 1893 World's Parliament of Religions in Chicago
+    citation: UnknownUnknown, Public domain, via Wikimedia Commons
+    link: https://commons.wikimedia.org/wiki/File:1893parliament.jpg
 body:
     paragraphs:
-        - .
-consider: []
+        - 'Some of the most violent movements of recent decades have justified themselves with
+            religion: jihadist groups, Hindu and Buddhist nationalist violence, Christian nationalist
+            militias, Jewish settler extremists. Each has its own history and grievances, and
+            most believers in each tradition reject them.'
+        - Religion as a whole is not fading. Between 2010 and 2020 the Muslim share of the world
+            rose from 23.8% to 25.6%, the share with no religion rose to 24.2%, and the Christian
+            share fell to 28.8%[^pew]. Some societies are becoming more religious and others
+            less, and the friction may be where the two meet.
+        - Extremism thrives where there are grievances, humiliation, weak states, and a sense
+            of purpose on offer. Online networks let small movements reach recruits anywhere.
+consider:
+    - What makes someone willing to die or kill for a belief? What could offer them something
+        better?
+    - Where do you draw the line between a strong faith and an extreme one?
+    - How would a society with fewer religious people treat the ones who are left? What about
+        the reverse?
+    - Is a secular ideology (nationalism, a political cause) any different?
+footnotes:
+    pew: '[Pew Research Center: How the global religious landscape changed from 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'
