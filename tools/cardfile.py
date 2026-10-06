@@ -5,7 +5,7 @@ from pathlib import Path
 import yaml
 
 CARDS = Path(__file__).resolve().parent.parent / "cards"
-ORDER = ["title", "live", "card_type", "image", "body", "lens", "consider", "footnotes", "meta"]
+ORDER = ["title", "live", "card_type", "image", "body", "lens", "consider", "facilitator", "footnotes", "meta"]
 
 
 class _Dumper(yaml.SafeDumper):

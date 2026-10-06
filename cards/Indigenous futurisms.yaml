@@ -22,6 +22,21 @@ consider:
     - Who are the Traditional Owners of the place where your story happens, and what would they
         say about it?
     - What would planning for seven generations change about your cards?
+facilitator:
+    prompts:
+        - Whose Country is your story set on? What would the people who belong to it say about
+            your world?
+        - What would change if a decision had to be good for seven generations?
+        - Find a card that treats land as a resource. Rewrite it as a card that treats land
+            as kin.
+    pairs_with:
+        - Rights of nature
+        - 30 by 30
+        - Megafires and cultural burning
+        - Deep ecology
+    watch_for: There is no single Indigenous worldview, and no one at the table should speak
+        for any nation. If you can, invite a Traditional Owner or an Indigenous participant
+        to run this card rather than read it.
 footnotes:
     src: '[Wikipedia: Indigenous futurism](https://en.wikipedia.org/wiki/Indigenous_futurism)'
 meta:
@@ -30,3 +45,4 @@ meta:
                 as its supporters would recognise it; needs checking before printing. Please
                 have someone from this community read it first.
             update_date: '2026-10-06'
+    status: draft

@@ -23,6 +23,20 @@ lens:
 consider:
     - Take a card on climate or technology. What would this programme do to it?
     - 'Who should be able to tell an expert agency what to do: elected leaders or the experts?'
+facilitator:
+    prompts:
+        - Ask the team to explain the programme in terms its supporters would accept, before
+            anyone criticises it.
+        - If your team isn't American, which of its ideas have local equivalents?
+        - Which card would this programme change most, and which would it leave alone?
+    pairs_with:
+        - '"Conservative" policy dominance'
+        - Burkean conservatism
+        - Religious traditionalism
+        - Climate migration
+    watch_for: Expect strong feelings in both directions. The aim is for players to be able
+        to describe the worldview fairly, not to endorse it. Keep it to the document and what
+        it proposes.
 footnotes:
     src: '[Wikipedia: Project 2025](https://en.wikipedia.org/wiki/Project_2025)'
 meta:
@@ -30,3 +44,4 @@ meta:
         -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
                 as its supporters would recognise it; needs checking before printing.
             update_date: '2026-10-06'
+    status: draft

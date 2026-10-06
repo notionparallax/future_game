@@ -20,6 +20,20 @@ lens:
 consider:
     - What conditions would make people trade their freedom for safety?
     - A real crisis gave Gilead its chance. Which of your cards could do the same?
+facilitator:
+    prompts:
+        - Ask the team what Gilead's rulers would say to a critic, rather than what a critic
+            would say to them.
+        - Which of Gilead's 'solutions' do real governments flirt with, and under what pressures?
+        - Who in your protagonist's world is invisible in a society organised like this?
+    pairs_with:
+        - Religious traditionalism
+        - Project 2025
+        - Feminism and care ethics
+        - Climate migration
+    watch_for: This card is uncomfortable on purpose. Say that it is there to be understood,
+        not admired, and let anyone opt out of wearing it. If a team treats it as a joke, slow
+        down.
 footnotes:
     src: '[Wikipedia: The Handmaid''s Tale](https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale)'
 meta:
@@ -27,3 +41,4 @@ meta:
         -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
                 as its supporters would recognise it; needs checking before printing.
             update_date: '2026-10-06'
+    status: draft

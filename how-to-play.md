@@ -200,6 +200,23 @@ lens:
     blind_spot: Where it breaks, or what it misses.
 ```
 
+Cards can also carry notes for whoever is running the session. None of it is printed on the card, and all of it is optional:
+
+```yml
+facilitator:
+    prompts:
+        - An extra prompt, for a team that is stuck.
+    pairs_with:
+        - The exact title of another card that works well with this one
+    watch_for: Anything that tends to go wrong, or needs care.
+    going_further:
+        - "[A good place to read more](https://example.com)"
+meta:
+    status: draft # or: reviewed
+```
+
+These notes appear in the facilitator guide, and image credits and sources appear in the credits section at the end of the cards.
+
 The current cards are:
 
 <div class="toc" markdown="1">

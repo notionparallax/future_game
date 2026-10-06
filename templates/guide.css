@@ -1,0 +1,12 @@
+body.guide main { max-width: 44rem; margin: 0 auto; padding: 1rem; }
+body.guide .contents { column-width: 14em; font-size: 80%; }
+body.guide section.note { border-top: 1px solid var(--rule); margin-top: 1.2rem; padding-top: 0.4rem; break-inside: avoid; }
+body.guide h2 { margin: 0.3em 0; }
+body.guide h3 { margin: 0.7em 0 0.2em; font-size: 100%; }
+body.guide .type { font: 60% "Noto Sans", sans-serif; text-transform: uppercase; color: #666; margin-left: 0.4em; }
+body.guide ul { margin: 0.2em 0; }
+@media print {
+    @page { size: A4; margin: 15mm; }
+    .to-hide-in-print { display: none; }
+    body.guide { font-size: 10pt; }
+}

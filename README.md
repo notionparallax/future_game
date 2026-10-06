@@ -25,6 +25,21 @@ printed card. Pushes to `main` build and deploy to GitHub Pages
 | `assets/` | The canvas used in the final round |
 | `templates/` | Page templates and the print stylesheet |
 | `build.py` | Validation and build |
+| `tools/` | Helpers, such as `commons_image.py` for finding images |
+
+## What gets built
+
+| Output | What it is |
+|---|---|
+| `index.html` | How to play |
+| `cards.html`, `the_cards.pdf` | The cards, then a credits and sources section |
+| `facilitator.html`, `facilitator_guide.pdf` | Extra prompts and notes for the facilitator, from each card's `facilitator` block |
+
+The card face only carries the picture, a short caption and the numbered footnote
+markers (the numbers restart on every card). Image credits, sources and each card's
+history are printed in the credits section instead, so a card's metadata can be as
+long as it needs to be. `python build.py --drafts` lists cards whose `meta.status`
+is still `draft`.
 
 ## Images
 

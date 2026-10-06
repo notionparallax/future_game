@@ -24,6 +24,20 @@ consider:
     - If trust in news falls far enough, what takes its place?
     - Could technology (watermarks, verification, trusted networks) fix this, or is it a social
         problem?
+facilitator:
+    prompts:
+        - Pick one thing your team believes and ask how they would prove it to a stranger who
+            doesn't trust any of their sources.
+        - Ask what a trusted source would look like in the world your team is building. Who
+            runs it, and who pays?
+        - If a perfect fake of anything were free, what would people start to value instead?
+    pairs_with:
+        - Consumer AI
+        - Tech platform exit
+        - Influencers
+        - Full-filter reality
+    watch_for: Teams drift into naming villains, such as a party or a platform. Ask instead
+        what would still be true of the world if nobody lied on purpose.
 footnotes:
     pt: '[Wikipedia: Post-truth politics](https://en.wikipedia.org/wiki/Post-truth_politics)'
 meta:
@@ -31,3 +45,4 @@ meta:
         -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
                 before printing.
             update_date: '2026-10-06'
+    status: draft

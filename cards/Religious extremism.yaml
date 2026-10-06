@@ -25,6 +25,19 @@ consider:
     - How would a society with fewer religious people treat the ones who are left? What about
         the reverse?
     - Is a secular ideology (nationalism, a political cause) any different?
+facilitator:
+    prompts:
+        - Ask what a movement like this offers a young person that nothing else does.
+        - What changes in your world if religion grows in some places and shrinks in others?
+        - Which secular movements in your world have the same features?
+    pairs_with:
+        - Religious traditionalism
+        - Post-truth and echo chambers
+        - Gilead
+        - Tech platform exit
+    watch_for: Keep the discussion about movements and conditions, not about a faith or its
+        believers. If a team starts to generalise about one religion, return to the card's other
+        examples.
 footnotes:
     pew: '[Pew Research Center: How the global religious landscape changed from 2010 to 2020](https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/)'
 meta:
@@ -32,3 +45,4 @@ meta:
         -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
                 before printing.
             update_date: '2026-10-06'
+    status: draft

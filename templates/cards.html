@@ -6,16 +6,17 @@
 <title>A Game About Possible Futures: the cards</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Monoton&family=Noto+Sans&family=Noto+Serif&display=swap">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="cards.css">
 </head>
 <body class="cards">
-<p class="nav to-hide-in-print"><a href="index.html">How to play</a> · <a href="the_cards.pdf">PDF</a></p>
+<p class="nav to-hide-in-print"><a href="index.html">How to play</a> · <a href="facilitator.html">Facilitator guide</a> · <a href="the_cards.pdf">PDF</a></p>
 {% for c in cards %}
 <section class="card {{ c.card_type }}" id="{{ c.slug }}">
 <h2>{{ c.title }}</h2>
 {% if c.image %}
 <figure>
 <img src="images/{{ c.image }}" alt="">
-{% if c.caption or c.citation %}<figcaption>{{ c.caption }}{% if c.citation %} {% if c.link %}<a href="{{ c.link }}"><cite>{{ c.citation }}</cite></a>{% else %}<cite>{{ c.citation }}</cite>{% endif %}{% endif %}</figcaption>{% endif %}
+{% if c.caption %}<figcaption>{{ c.caption }}</figcaption>{% endif %}
 </figure>
 {% endif %}
 {% for p in c.paragraphs %}{{ p }}
@@ -31,13 +32,18 @@
 </section>
 {% endfor %}
 
-<section class="sources">
-<h2>Sources</h2>
-{% for c in cards if c.sources %}
-<h3>{{ c.title }}</h3>
-<ol>
+<section class="credits">
+<h1>Credits and sources</h1>
+<p>The numbers on the cards refer to the sources listed here, card by card. Images are credited as their licences require; the address is given in full so that it can be found from a printed page.</p>
+{% for c in cards if c.sources or c.citation or c.provenance %}
+<div class="entry" id="credit-{{ c.slug }}">
+<h3><a href="#{{ c.slug }}">{{ c.title }}</a>{% if c.status == "draft" %} <span class="draft">draft</span>{% endif %}</h3>
+{% if c.image %}<p class="image-credit"><b>Image:</b> {% if c.citation %}{{ c.citation }}{% else %}<i>no credit recorded</i>{% endif %}{% if c.link %} <span class="url">{{ c.link }}</span>{% endif %}</p>{% endif %}
+{% if c.sources %}<ol>
 {% for s in c.sources %}<li id="{{ s.id }}" value="{{ s.n }}">{{ s.html }}</li>
-{% endfor %}</ol>
+{% endfor %}</ol>{% endif %}
+{% if c.provenance %}<p class="provenance"><b>History:</b> {% for line in c.provenance %}{{ line }}{% if not loop.last %} {% endif %}{% endfor %}</p>{% endif %}
+</div>
 {% endfor %}
 </section>
 </body>

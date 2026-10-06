@@ -25,6 +25,23 @@ consider:
     - Whale watching is now worth more than whaling in many places. What other industries could
         be replaced by watching?
     - Some countries still hunt whales. Is that a matter for the whole world, or only for them?
+facilitator:
+    prompts:
+        - Run the 'and then what?' chain from a recovered whale population to a harbour town.
+            Who gains in the first five years, and who loses?
+        - The recovery followed a ban that few thought would work. Ask the team to find three
+            other bans or treaties that worked, and what they had in common.
+        - 'Give the team a protagonist: a whale-watching operator, a container-ship captain,
+            or an offshore wind engineer. Whose day gets worse?'
+    pairs_with:
+        - 30 by 30
+        - Coral reef collapse
+        - Deep-sea mining
+        - Wildlife corridors
+    watch_for: Teams tend to treat this as simple good news. Push them to find the losers, and
+        the species that haven't recovered (North Atlantic right whales, Antarctic blue whales).
+    going_further:
+        - '[CSIRO: Watching whales return](https://www.csiro.au/en/news/all/articles/2017/august/watching-whales-return)'
 footnotes:
     csiro: '[CSIRO: Watching whales return](https://www.csiro.au/en/news/all/articles/2017/august/watching-whales-return)'
     blue: '[Antarctic whales'' remarkable comeback](https://humanprogress.org/antarctic-whales-remarkable-comeback/)'
@@ -34,3 +51,4 @@ meta:
         -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
                 before printing.
             update_date: '2026-10-06'
+    status: draft

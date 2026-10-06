@@ -25,6 +25,21 @@ consider:
     - Can we imagine an end game where robot armies fight on an island, to settle disputes?
     - If software chooses the target, who is responsible for what happens?
     - How would you defend a city against ten thousand cheap drones?
+facilitator:
+    prompts:
+        - Ask a team to design the cheapest possible defence against a swarm of drones, then
+            ask what the attacker would do next.
+        - 'Who benefits when a war becomes cheap: the strong, the weak, or the people who sell
+            drones?'
+        - What would a peace agreement look like if both sides had millions of drones?
+    pairs_with:
+        - Drones
+        - Walking robots
+        - China power shift
+        - AI Bias
+    watch_for: This is a current war, and some players may have personal connections to it.
+        Keep the discussion on how the technology changes conflict, and check in with anyone
+        who seems affected.
 footnotes:
     ua: '[Army Technology: Drones now account for 80% of casualties in Ukraine-Russia war](https://www.army-technology.com/news/drones-now-account-for-80-of-casualties-in-ukraine-russia-war/)'
     prod: '[Euromaidan Press: Ukraine will build 7 million drones in 2026](https://euromaidanpress.com/2026/01/26/ukraine-aims-to-build-7-million-drones-in-2026/)'
@@ -34,3 +49,4 @@ meta:
         -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
                 before printing.
             update_date: '2026-10-06'
+    status: draft

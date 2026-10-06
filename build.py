@@ -3,7 +3,8 @@
 
     python build.py --check      validate only
     python build.py              validate, then build site/
-    python build.py --pdf        also print site/the_cards.pdf (needs playwright)
+    python build.py --pdf        also print the_cards.pdf and facilitator_guide.pdf (needs playwright)
+    python build.py --drafts     list the cards still marked as drafts
 """
 import argparse
 import re
@@ -27,7 +28,9 @@ LENS_FIELDS = {
     "would_do": "Would do",
     "blind_spot": "Blind spot",
 }
-SHORTENERS = re.compile(r"https?://(goo\.gl|bit\.ly|t\.co)/")
+FACILITATOR_FIELDS = {"prompts", "pairs_with", "watch_for", "going_further"}
+STATUSES = {"draft", "reviewed"}
+SHORTENERS =re.compile(r"https?://(goo\.gl|bit\.ly|t\.co)/")
 SUSPICIOUS = [
     (re.compile(r'\\"'), "literal backslash-quote"),
     (re.compile(r"&amp;"), "double-escaped &amp;"),
@@ -39,7 +42,7 @@ PLACEHOLDER = re.compile(r"^[\s.]*$")
 
 def md_inline(text):
     """Markdown for a fragment, without the wrapping <p>."""
-    text = re.sub(r"^(https?://\S+)$", r"<>", str(text or "").strip())
+    text = re.sub(r"^(https?://\S+)$", r"<\1>", str(text or "").strip())
     html = markdown.markdown(text, extensions=["sane_lists"])
     return re.sub(r"^<p>(.*)</p>$", r"\1", html, flags=re.S)
 
@@ -66,6 +69,7 @@ def texts(card):
 def validate(cards):
     errors, warnings = [], []
     seen = {}
+    titles = {(c.get("title") or "").strip() for c in cards}
     for c in cards:
         name = c["path"].name
         live = bool(c.get("live"))
@@ -125,6 +129,22 @@ def validate(cards):
             if str(text)[:1].islower() and not str(text).startswith("co-"):
                 err(f"starts with a lowercase letter: {str(text)[:40]!r}", warnings)
 
+        fac = c.get("facilitator") or {}
+        for k in set(fac) - FACILITATOR_FIELDS:
+            err(f"unknown facilitator field {k!r} (expected one of {sorted(FACILITATOR_FIELDS)})", errors)
+        for k in ("prompts", "pairs_with", "going_further"):
+            if k in fac and not isinstance(fac[k], list):
+                err(f"facilitator.{k} must be a list", errors)
+        for other in fac.get("pairs_with") or []:
+            if other not in titles:
+                err(f"facilitator.pairs_with: no card is titled {other!r}", errors)
+        status = (c.get("meta") or {}).get("status")
+        if status is not None and status not in STATUSES:
+            err(f"meta.status {status!r} is not one of {sorted(STATUSES)}", errors)
+        image = c.get("image") or {}
+        if live and image.get("source") and not image.get("citation"):
+            err("image has no credit (image.citation)", warnings)
+
         notes = c.get("footnotes") or {}
         refs = {k for t in texts(c) for k in REF.findall(t)}
         for k in sorted(refs - {str(k) for k in notes}):
@@ -170,6 +190,35 @@ def render_card(c):
             {"id": f"fn-{c['slug']}-{k}", "n": i + 1, "html": md_inline(notes[k])}
             for i, k in enumerate(order)
         ],
+        "status": (c.get("meta") or {}).get("status"),
+        "provenance": [provenance(s) for s in (c.get("meta") or {}).get("sources") or []],
+    }
+
+
+def provenance(source):
+    """One line of a card's history, from a meta.sources entry."""
+    parts = [str(source.get("source_comment") or "").strip()]
+    if source.get("source_link"):
+        parts.append(f"<{source['source_link']}>")
+    if source.get("update_date"):
+        parts.append(f"({source['update_date']})")
+    return md_inline(" ".join(p for p in parts if p))
+
+
+def render_facilitator(c, slugs):
+    """The facilitator notes for a card, or None if it has none."""
+    fac = c.get("facilitator") or {}
+    if not fac:
+        return None
+    return {
+        "slug": c["slug"],
+        "title": c["title"],
+        "card_type": c["card_type"],
+        "status": (c.get("meta") or {}).get("status"),
+        "prompts": [md_inline(p) for p in fac.get("prompts") or []],
+        "pairs_with": [(t, slugs.get(t)) for t in fac.get("pairs_with") or []],
+        "watch_for": md_inline(fac.get("watch_for")) if fac.get("watch_for") else "",
+        "going_further": [md_inline(p) for p in fac.get("going_further") or []],
     }
 
 
@@ -185,7 +234,8 @@ def build(cards):
     OUT.mkdir()
     shutil.copytree(IMAGES, OUT / "images")
     shutil.copytree(ROOT / "assets", OUT / "assets")
-    shutil.copy(ROOT / "templates" / "style.css", OUT / "style.css")
+    for css in (ROOT / "templates").glob("*.css"):
+        shutil.copy(css, OUT / css.name)
 
     howto = (ROOT / "how-to-play.md").read_text(encoding="utf8")
     howto = env.from_string(howto).render(live_cards=live, worldview_cards=worldviews, stub_cards=stubs)
@@ -196,8 +246,15 @@ def build(cards):
         env.get_template("page.html").render(content=howto_html, title="A Game About Possible Futures"),
         encoding="utf8",
     )
+    deck = [*live, *worldviews]
     (OUT / "cards.html").write_text(
-        env.get_template("cards.html").render(cards=[render_card(c) for c in [*live, *worldviews]]),
+        env.get_template("cards.html").render(cards=[render_card(c) for c in deck]),
+        encoding="utf8",
+    )
+    slugs = {c["title"]: c["slug"] for c in deck}
+    notes = [n for n in (render_facilitator(c, slugs) for c in sorted(deck, key=lambda c: c["title"].lower())) if n]
+    (OUT / "facilitator.html").write_text(
+        env.get_template("facilitator.html").render(notes=notes, total=len(deck)),
         encoding="utf8",
     )
     print(f"built site/ with {len(live)} cards and {len(worldviews)} worldviews ({len(stubs)} stubs left out)")
@@ -219,22 +276,35 @@ def print_pdf():
         ):
             print(f"warning: card text overflows the card: {title}")
         page.pdf(path=str(OUT / "the_cards.pdf"), prefer_css_page_size=True, print_background=True)
+        page.goto((OUT / "facilitator.html").resolve().as_uri())
+        page.wait_for_load_state("networkidle")
+        page.pdf(path=str(OUT / "facilitator_guide.pdf"), prefer_css_page_size=True, print_background=True)
         browser.close()
-    print("wrote site/the_cards.pdf")
+    print("wrote site/the_cards.pdf and site/facilitator_guide.pdf")
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--check", action="store_true", help="validate only")
-    ap.add_argument("--pdf", action="store_true", help="also write the PDF")
+    ap.add_argument("--pdf", action="store_true", help="also write the PDFs")
+    ap.add_argument("--drafts", action="store_true", help="list cards still marked as drafts")
     args = ap.parse_args()
 
     cards = load_cards()
+    if args.drafts:
+        drafts = [c["title"] for c in cards if c.get("live") and (c.get("meta") or {}).get("status") == "draft"]
+        print(f"{len(drafts)} draft cards:")
+        for title in drafts:
+            print(" ", title)
+        return
     errors, warnings = validate(cards)
     for w in warnings:
         print("warning:", w)
     for e in errors:
         print("ERROR:", e)
+    n_drafts = sum(1 for c in cards if c.get("live") and (c.get("meta") or {}).get("status") == "draft")
+    if n_drafts:
+        print(f"{n_drafts} live cards are still marked as drafts (python build.py --drafts lists them)")
     if errors:
         sys.exit(f"{len(errors)} error(s)")
     if args.check:

@@ -21,6 +21,20 @@ consider:
     - 'Where, in your own country, can you see the soft version: donations, revolving doors,
         contracts to friends? Is it kleptocracy or just lobbying?'
     - What would a card on infrastructure look like if the money was going missing?
+facilitator:
+    prompts:
+        - Pick any card and ask who would take a cut, and how the money would move.
+        - What does a citizen do when the rules are real but only some people can use them?
+        - What is the smallest safeguard (a register, a free press, an audit) that would make
+            the biggest difference?
+    pairs_with:
+        - Personal trillionaires
+        - Non-sovereign currencies
+        - Amazon Nations
+        - Betting markets
+    watch_for: Players will want to name a country. That's fine, but ask them to name the mechanism
+        (who gets access, who can't be held to account) so that it stays about structures, and
+        about the soft versions closer to home.
 footnotes:
     src: '[Wikipedia: Kleptocracy](https://en.wikipedia.org/wiki/Kleptocracy)'
 meta:
@@ -28,3 +42,4 @@ meta:
         -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
                 as its supporters would recognise it; needs checking before printing.
             update_date: '2026-10-06'
+    status: draft
