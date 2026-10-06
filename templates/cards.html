@@ -20,7 +20,11 @@
 {% endif %}
 {% for p in c.paragraphs %}{{ p }}
 {% endfor %}
-<h3>Consider</h3>
+{% if c.lens %}<dl class="lens">
+{% for label, text in c.lens %}<dt>{{ label }}</dt><dd>{{ text }}</dd>
+{% endfor %}</dl>
+{% endif %}
+<h3>{% if c.card_type == "worldview" %}Try wearing it{% else %}Consider{% endif %}</h3>
 <ul>
 {% for p in c.consider %}<li>{{ p }}</li>
 {% endfor %}</ul>

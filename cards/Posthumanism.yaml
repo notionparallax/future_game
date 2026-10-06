@@ -1,0 +1,26 @@
+title: Posthumanism
+live: true
+card_type: worldview
+body:
+    paragraphs:
+        - Questions the idea that the human is the centre of the story. Humans are entangled
+            with animals, microbes, machines and ecosystems, and intelligence or moral worth
+            may not stop at our species.
+        - 'Not the same as transhumanism: it is less about upgrading people than about shrinking
+            our sense of importance.'
+lens:
+    celebrates: Interdependence. More-than-human life. Hybrids of human, animal and machine.
+    fears: Human exceptionalism that treats everything else as a resource.
+    would_do: Give non-human beings (animals, rivers, perhaps AIs) a place in decisions.
+    blind_spot: Abstract and hard to turn into policy. Critics say it can dilute the human rights
+        that were hard won.
+consider:
+    - Who or what else should have a say in your future?
+    - 'Where do you draw the line of moral worth: animals, rivers, AIs?'
+footnotes:
+    src: '[Wikipedia: Posthumanism](https://en.wikipedia.org/wiki/Posthumanism)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
+                as its supporters would recognise it; needs checking before printing.
+            update_date: '2026-10-06'

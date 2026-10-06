@@ -11,7 +11,7 @@ Have fun with this, and let your imagination loose. If there's anything we've le
 
 Get into teams; teams of 3 seem to work pretty well. If the team is too small it's hard to get enough ideas bouncing around, if it's too big, not everyone's option gets heard.
 
-Print out the cards. In total you need about 10 per team, there are {{ live_cards | length }} cards now, so you can work that out. If you want to just get the cards as a PDF then [they're here](the_cards.pdf), or you can [open them in a browser](cards.html) and print them yourself.
+Print out the cards. In total you need about 10 per team, there are {{ live_cards | length }} cards now (plus {{ worldview_cards | length }} worldviews, see below), so you can work that out. If you want to just get the cards as a PDF then [they're here](the_cards.pdf), or you can [open them in a browser](cards.html) and print them yourself.
 
 If you've got a particular focus or reason for running this workshop, then it's probably ok to make a fixed card that is always in each team's hand. E.g. if you really care about smart cities, make a card (or cards) about that, and make sure that each team always has one of them.
 
@@ -99,6 +99,16 @@ Take a bit more time to weave all these ideas into a story, and then tell everyo
 
 -   Grab quotes from others in your team, they're really usable in future bits of work you'll do.
 
+## Worldview cards
+
+The other cards are things that might happen. A worldview card is a way of interpreting them. It has four short prompts: what the worldview _celebrates_, what it _fears_, what it would _do_ about almost anything, and its _blind spot_. The blind spot is there so that no worldview ends up the "right answer".
+
+Don't worry about the worldview cards in the first round, this will let the players' implicit world view come through.
+
+In later rounds, deal each team one worldview along with their first cards, and ask them to read their world through it. In the final round, swap worldviews between the teams that are stress-testing each other, so that a team has to question a future through a lens that wasn't theirs. It's much easier to ask a hard question while holding a stance that isn't your own.
+
+The worldviews are deliberately mixed: some progressive, some conservative, some neither, and a few that are uncomfortable (Gilead and Kleptocracy are there to be understood, not copied). The aim is to describe each one as its supporters would recognise it, and then to be honest about where it breaks. If you think that one of them is unfair, please say so and help make it better.
+
 ## The canvas
 
 Fill in the canvas. Its job is to make all the ideas visible, so that you can start to probe them for inconsistencies. Start using post it notes, so that you can change things, _a lot_.
@@ -166,7 +176,7 @@ footnotes:
 consider:
     - add a prompt for the players
     - And maybe another one too
-card_type: technology # one of: technology, trend, social, nature
+card_type: technology # one of: technology, trend, social, nature, worldview
 meta:
     sources:
         - source_comment: Who wrote this card? Who are you?
@@ -179,11 +189,31 @@ meta:
 
 Save the file in the `cards` folder as `The name of the card.yaml` and either [💌email](mailto:ben@notionparallax.co.uk) it to me, or make a pull request against the repo. A check runs on every pull request and will tell you if anything in the card is missing or broken.
 
+Worldview cards use the same format, with `card_type: worldview` and an extra block (they don't need an image):
+
+```yml
+lens:
+    celebrates: What it values.
+    fears: What it is afraid of.
+    would_do: What it would do about almost anything.
+    blind_spot: Where it breaks, or what it misses.
+```
+
 The current cards are:
 
 <div class="toc" markdown="1">
 
 {% for card in live_cards %}
+-   {{ card.title }}
+{% endfor %}
+
+</div>
+
+The worldviews are:
+
+<div class="toc" markdown="1">
+
+{% for card in worldview_cards %}
 -   {{ card.title }}
 {% endfor %}
 

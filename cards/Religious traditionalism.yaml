@@ -1,0 +1,29 @@
+title: Religious traditionalism
+live: true
+card_type: worldview
+body:
+    paragraphs:
+        - Faith is the foundation. People have a purpose and a moral order that don't come from
+            us. Family, ritual and community give life meaning, and markets and technology should
+            serve human dignity rather than the other way round. Many faiths hold their own
+            versions, among them Catholic social teaching, evangelical Christianity, Orthodox
+            Judaism and Islam.
+lens:
+    celebrates: Family, worship and ritual. Rest and the sacred. The dignity of every person.
+        Duties to the poor and the community.
+    fears: Moral drift. Loneliness and meaninglessness. Technologies that treat human life as
+        a product.
+    would_do: Protect time for rest and worship. Strengthen families and congregations. Set
+        moral limits on biotechnology and AI.
+    blind_spot: The limits are imposed on people who don't share the faith. Religious authority
+        has been used to exclude and control. The faiths disagree with each other.
+consider:
+    - Which of the cards would a faith community welcome, and which would it resist?
+    - What would your protagonist's week look like if one day in it were set apart?
+footnotes:
+    src: '[Wikipedia: Social conservatism](https://en.wikipedia.org/wiki/Social_conservatism)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
+                as its supporters would recognise it; needs checking before printing.
+            update_date: '2026-10-06'

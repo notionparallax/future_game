@@ -1,0 +1,30 @@
+title: Kleptocracy
+live: true
+card_type: worldview
+body:
+    paragraphs:
+        - 'Rule by thieves: officials use public office to enrich themselves and their allies.
+            The classics are Mobutu''s Zaire, Marcos''s Philippines and the post-Soviet oligarchs.
+            The modern version is global, with shell companies and luxury property in London,
+            New York and Sydney.'
+        - A softer version can exist in democracies, where the rules are intact but access to
+            power is for sale. Whether a given country is one is a matter of argument.
+lens:
+    celebrates: Loyalty. Deals. Personal connections over rules. Getting a share.
+    fears: Transparency. Independent courts and a free press. Registers of who owns what. Honest
+        officials.
+    would_do: Ask who profits. Route the contract through a friend. Let the rules apply to everyone
+        else.
+    blind_spot: It hollows out the state and trust in it. Roads, hospitals and schools get worse,
+        and the people who gain are hard to hold to account when the system changes.
+consider:
+    - 'Where, in your own country, can you see the soft version: donations, revolving doors,
+        contracts to friends? Is it kleptocracy or just lobbying?'
+    - What would a card on infrastructure look like if the money was going missing?
+footnotes:
+    src: '[Wikipedia: Kleptocracy](https://en.wikipedia.org/wiki/Kleptocracy)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
+                as its supporters would recognise it; needs checking before printing.
+            update_date: '2026-10-06'

@@ -1,0 +1,28 @@
+title: Techno-libertarianism
+live: true
+card_type: worldview
+body:
+    paragraphs:
+        - 'Technology is the main engine of human progress, and the faster it moves the better.
+            Governments and incumbents slow it down, so build alternatives: crypto, charter
+            cities, new platforms. Prefer _exit_ to _voice_. A recent strand calls itself effective
+            accelerationism, or e/acc.'
+lens:
+    celebrates: Building. Speed. Abundance. Individual autonomy. The option to leave.
+    fears: Regulation and the precautionary principle. People who want to slow technology down.
+        Stagnation.
+    would_do: Cut permitting and licensing. Let the experiment run. Build parallel institutions.
+        Move fast.
+    blind_spot: The people harmed by a new technology didn't choose it. Exit isn't open to everyone,
+        and democracy and the commons depend on voice. The gains don't always get shared.
+consider:
+    - If you could leave your country's rules by moving to a start-up city, would you? Who would
+        be left behind?
+    - What would you want to be slowed down?
+footnotes:
+    src: '[Wikipedia: Effective accelerationism](https://en.wikipedia.org/wiki/Effective_accelerationism)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
+                as its supporters would recognise it; needs checking before printing.
+            update_date: '2026-10-06'

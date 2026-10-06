@@ -1,0 +1,27 @@
+title: Anarcho-communitarianism
+live: true
+card_type: worldview
+body:
+    paragraphs:
+        - 'Society is organised from the bottom up: neighbourhood assemblies, cooperatives and
+            commons, federated into larger groups. No state, or a very small one. Its roots
+            include Kropotkin''s mutual aid, Bookchin''s libertarian municipalism, and experiments
+            like Rojava.'
+lens:
+    celebrates: Mutual aid. Direct democracy. Shared land and tools. Local control.
+    fears: Concentrated power, whether state or corporate. Large, impersonal institutions. Markets
+        that make neighbours compete.
+    would_do: Move decisions to local assemblies. Share, repair, and sort things out with neighbours
+        before authorities.
+    blind_spot: Scale. Who coordinates a railway, a vaccine programme or a refugee crisis? Informal
+        cliques can replace formal power, and a community can be as intolerant as a state.
+consider:
+    - What can your street decide for itself, and what needs someone bigger?
+    - How would your community handle someone who refuses to follow its rules?
+footnotes:
+    src: '[Wikipedia: Communalism (Bookchin)](https://en.wikipedia.org/wiki/Libertarian_municipalism)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
+                as its supporters would recognise it; needs checking before printing.
+            update_date: '2026-10-06'

@@ -1,0 +1,32 @@
+title: Feminism and care ethics
+live: true
+card_type: worldview
+body:
+    paragraphs:
+        - Everyone is cared for at the start of life and, usually, at the end. Dependence is
+            the human condition, not an exception to it. Feminist economists and philosophers
+            (Carol Gilligan, Joan Tronto, Marilyn Waring) point out that the work of caring
+            for children, the old and the sick is mostly unpaid, mostly done by women, and invisible
+            in GDP.
+        - There are many feminisms, and they disagree. This card takes the care-centred strand.
+lens:
+    celebrates: Care work that is valued, paid and shared. Interdependence. Public childcare
+        and aged care. Relationships over transactions.
+    fears: Economies and technologies designed for an imagined independent, healthy adult. Care
+        that is unpaid, undervalued or pushed onto poorer women, often migrants.
+    would_do: Count care in the economy. Design cities, jobs and technology around the people
+        who need looking after, and the people who do it. Ask who does the care work behind
+        anything.
+    blind_spot: It can slide into treating women as natural carers, or romanticise care that
+        is actually coercive or controlling. It has less to say about large institutions, trade-offs
+        and justice between strangers.
+consider:
+    - Who does the care work in your protagonist's world, and who pays for it?
+    - Could a robot care for someone? What would be lost if it did?
+footnotes:
+    src: '[Wikipedia: Ethics of care](https://en.wikipedia.org/wiki/Ethics_of_care)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
+                as its supporters would recognise it; needs checking before printing.
+            update_date: '2026-10-06'

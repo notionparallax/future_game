@@ -1,0 +1,25 @@
+title: Transhumanism
+live: true
+card_type: worldview
+body:
+    paragraphs:
+        - 'Humans should use technology to overcome ageing, disease and the limits of body and
+            mind. Supporters talk about _morphological freedom_: the right to change your own
+            body, and to enhance it.'
+lens:
+    celebrates: Longer, healthier lives. Enhancement. Cognitive upgrades. Moving beyond Earth.
+    fears: Death. Stagnation. Bans on enhancement.
+    would_do: Fund longevity research. Allow enhancement. Research mind uploading.
+    blind_spot: 'Access and inequality: a two-tier species. Consent: enhancement could become
+        compulsory in order to compete. It has little to say about what death gives meaning
+        to.'
+consider:
+    - Would you take an upgrade if everyone around you had one?
+    - Who pays for the first 100-year life?
+footnotes:
+    src: '[Wikipedia: Transhumanism](https://en.wikipedia.org/wiki/Transhumanism)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
+                as its supporters would recognise it; needs checking before printing.
+            update_date: '2026-10-06'

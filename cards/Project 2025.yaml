@@ -1,0 +1,32 @@
+title: Project 2025
+live: true
+card_type: worldview
+body:
+    paragraphs:
+        - 'The nickname of _Mandate for Leadership: The Conservative Promise_, a policy blueprint
+            of about 900 pages published in 2023 by the Heritage Foundation and more than 100
+            allied groups for the next conservative US president. It is one of the clearest
+            statements of national conservatism.'
+        - Several of its authors have since held senior government roles. How closely it is
+            being followed is disputed.
+lens:
+    celebrates: An executive branch answerable to the elected president. Marriage and family.
+        National sovereignty and secure borders. Domestic energy and industry. Faith in public
+        life.
+    fears: An unelected 'administrative state'. Institutions it sees as captured by the cultural
+        left. Open borders. China.
+    would_do: Fill the agencies with loyal appointees. Make career civil servants easier to
+        dismiss. Cut or abolish agencies. Expand fossil fuel production. Promote marriage.
+    blind_spot: Critics say it concentrates power in whoever holds the presidency, and weakens
+        the independence of courts, science and the civil service. Supporters reply that the
+        civil service was always political, only unaccountable.
+consider:
+    - Take a card on climate or technology. What would this programme do to it?
+    - 'Who should be able to tell an expert agency what to do: elected leaders or the experts?'
+footnotes:
+    src: '[Wikipedia: Project 2025](https://en.wikipedia.org/wiki/Project_2025)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
+                as its supporters would recognise it; needs checking before printing.
+            update_date: '2026-10-06'

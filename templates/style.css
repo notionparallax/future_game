@@ -29,6 +29,9 @@ section.card p { margin: 0 0 0.5em; }
 section.card blockquote { margin: 0 0 0.5em; padding-left: 0.5em; border-left: 2px solid var(--rule); font-size: 90%; }
 section.card ul { margin: 0; padding-left: 1.2em; }
 section.card li { margin-bottom: 0.2em; }
+section.card dl.lens { margin: 0.4em 0; }
+section.card dl.lens dt { font-family: "Noto Sans", sans-serif; font-weight: bold; font-size: 85%; margin-top: 0.3em; break-after: avoid; }
+section.card dl.lens dd { margin: 0; }
 sup.fn a { text-decoration: none; }
 section.sources { max-width: 9in; font-size: 80%; }
 section.sources ol { column-count: 2; }
@@ -40,6 +43,7 @@ section.card::before {
     writing-mode: vertical-rl;
     font-size: 16pt; font-family: "Monoton", cursive; white-space: nowrap;
 }
+section.worldview::before { content: "Worldview 🔭"; }
 section.technology::before { content: "Technology 🤖"; }
 section.trend::before { content: "Trend 📈"; }
 section.social::before { content: "Social 🫂"; }

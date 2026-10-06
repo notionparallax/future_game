@@ -1,0 +1,27 @@
+title: Free-market liberalism
+live: true
+card_type: worldview
+body:
+    paragraphs:
+        - Individual freedom, property rights and open trade, with markets as the best way to
+            coordinate what no planner can know. Prices carry information, and competition rewards
+            people who find better ways to meet needs. Government's job is the rule of law,
+            contracts and a few basics.
+lens:
+    celebrates: Voluntary exchange. Entrepreneurs. Prices. Trade. Innovation.
+    fears: Central planning. Regulation that protects incumbents. Subsidies that pick winners.
+        Taxes that dull the incentive to build.
+    would_do: Let markets price it, with a carbon price or tradable permits. Remove barriers
+        to entry. Cut red tape.
+    blind_spot: Markets don't price what nobody owns, like the climate, biodiversity and care
+        work. They can concentrate wealth and power, and they start from unequal positions.
+consider:
+    - Which of the cards could a market solve by itself, and which couldn't it?
+    - What should never be for sale?
+footnotes:
+    src: '[Wikipedia: Economic liberalism](https://en.wikipedia.org/wiki/Economic_liberalism)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
+                as its supporters would recognise it; needs checking before printing.
+            update_date: '2026-10-06'

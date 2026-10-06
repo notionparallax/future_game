@@ -20,7 +20,13 @@ CARDS = ROOT / "cards"
 IMAGES = ROOT / "images"
 OUT = ROOT / "site"
 
-CARD_TYPES = ["technology", "trend", "social", "nature"]
+CARD_TYPES = ["technology", "trend", "social", "nature", "worldview"]
+LENS_FIELDS = {
+    "celebrates": "Celebrates",
+    "fears": "Fears",
+    "would_do": "Would do",
+    "blind_spot": "Blind spot",
+}
 SHORTENERS = re.compile(r"https?://(goo\.gl|bit\.ly|t\.co)/")
 SUSPICIOUS = [
     (re.compile(r'\\"'), "literal backslash-quote"),
@@ -53,7 +59,8 @@ def texts(card):
     body = (card.get("body") or {}).get("paragraphs") or []
     consider = card.get("consider") or []
     caption = (card.get("image") or {}).get("caption") or ""
-    return [str(t) for t in [*body, *consider, caption]]
+    lens = (card.get("lens") or {}).values()
+    return [str(t) for t in [*body, *consider, caption, *lens]]
 
 
 def validate(cards):
@@ -88,6 +95,13 @@ def validate(cards):
             err("no body paragraphs")
         if any(PLACEHOLDER.match(str(p)) for p in paras):
             err("placeholder '.' paragraph")
+        lens = c.get("lens") or {}
+        if c.get("card_type") == "worldview":
+            for key in LENS_FIELDS:
+                if not str(lens.get(key) or "").strip():
+                    err(f"worldview card needs a 'lens' entry for {key!r}")
+        elif lens:
+            err("only worldview cards have a 'lens'", errors)
         consider = c.get("consider") or []
         if live and not consider:
             err("no 'consider' prompts")
@@ -150,6 +164,7 @@ def render_card(c):
         "citation": image.get("citation") or "",
         "link": image.get("link") or "",
         "paragraphs": [markdown.markdown(REF.sub(number, str(p))) for p in c["body"]["paragraphs"]],
+        "lens": [(label, fmt(c["lens"][k])) for k, label in LENS_FIELDS.items() if (c.get("lens") or {}).get(k)],
         "consider": [fmt(p) for p in c.get("consider") or []],
         "sources": [
             {"id": f"fn-{c['slug']}-{k}", "n": i + 1, "html": md_inline(notes[k])}
@@ -160,6 +175,8 @@ def render_card(c):
 
 def build(cards):
     live = [c for c in cards if c.get("live")]
+    worldviews = [c for c in live if c["card_type"] == "worldview"]
+    live = [c for c in live if c["card_type"] != "worldview"]
     stubs = [c for c in cards if not c.get("live")]
     env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=False)
 
@@ -171,7 +188,7 @@ def build(cards):
     shutil.copy(ROOT / "templates" / "style.css", OUT / "style.css")
 
     howto = (ROOT / "how-to-play.md").read_text(encoding="utf8")
-    howto = env.from_string(howto).render(live_cards=live, stub_cards=stubs)
+    howto = env.from_string(howto).render(live_cards=live, worldview_cards=worldviews, stub_cards=stubs)
     howto_html = markdown.markdown(
         howto, extensions=["footnotes", "md_in_html", "sane_lists"]
     )
@@ -180,10 +197,10 @@ def build(cards):
         encoding="utf8",
     )
     (OUT / "cards.html").write_text(
-        env.get_template("cards.html").render(cards=[render_card(c) for c in live]),
+        env.get_template("cards.html").render(cards=[render_card(c) for c in [*live, *worldviews]]),
         encoding="utf8",
     )
-    print(f"built site/ with {len(live)} cards ({len(stubs)} stubs left out)")
+    print(f"built site/ with {len(live)} cards and {len(worldviews)} worldviews ({len(stubs)} stubs left out)")
 
 
 def print_pdf():

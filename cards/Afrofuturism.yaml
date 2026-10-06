@@ -1,0 +1,30 @@
+title: Afrofuturism
+live: true
+card_type: worldview
+body:
+    paragraphs:
+        - 'A cultural movement that imagines Black futures, and rereads the past, through science
+            fiction, music and art: Sun Ra, Octavia Butler, Janelle Monáe, the Wakanda of _Black
+            Panther_.'
+        - It refuses futures in which Black people are missing, or are only victims.
+lens:
+    celebrates: African and diasporic culture as a source of invention; community and ancestors
+        alongside science.
+    fears: Futures designed by and for a narrow group. Technology that repeats old hierarchies,
+        like biased AI and surveillance.
+    would_do: Ask who was in the room when the future was designed. Build technology around
+        community needs.
+    blind_spot: A cultural lens more than a policy programme. It can lean on a romantic picture
+        of the past.
+consider:
+    - Which of the cards would look different if the engineers were from a place the future
+        usually forgets?
+    - Who is missing from your protagonist's world?
+footnotes:
+    src: '[Wikipedia: Afrofuturism](https://en.wikipedia.org/wiki/Afrofuturism)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
+                as its supporters would recognise it; needs checking before printing. Please
+                have someone from this community read it first.
+            update_date: '2026-10-06'

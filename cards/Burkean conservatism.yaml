@@ -1,0 +1,28 @@
+title: Burkean conservatism
+live: true
+card_type: worldview
+body:
+    paragraphs:
+        - From Edmund Burke (1790). Society is a partnership between the dead, the living and
+            the unborn. Traditions and institutions hold wisdom that no one person could work
+            out, so change should be gradual and tested.
+lens:
+    celebrates: Institutions that have survived. Family, community and local loyalty. The rule
+        of law. Humility about what we know.
+    fears: Grand plans and revolutions. Utopias that start from year zero. Losing something
+        that can't be rebuilt.
+    would_do: Pilot first. Change slowly. Find out why the fence was built before taking it
+        down.
+    blind_spot: '''What works'' has often been unjust to someone, and tradition can protect
+        old wrongs. Slow change may be too slow for a climate emergency.'
+consider:
+    - Which of your cards would a conservative want to slow down, and which would they want
+        to protect?
+    - What would you not change, even if you could?
+footnotes:
+    src: '[Wikipedia: Conservatism](https://en.wikipedia.org/wiki/Conservatism)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
+                as its supporters would recognise it; needs checking before printing.
+            update_date: '2026-10-06'

@@ -1,0 +1,29 @@
+title: Gilead
+live: true
+card_type: worldview
+body:
+    paragraphs:
+        - The fictional regime in Margaret Atwood's _The Handmaid's Tale_. A collapse in fertility,
+            pollution and social breakdown lets a movement seize power and rebuild society as
+            a patriarchal theocracy. Fertile women become Handmaids, assigned to the households
+            of the ruling class.
+        - Atwood has said that she put nothing in the book that hasn't happened somewhere. Played
+            here as its rulers see it, not as a model.
+lens:
+    celebrates: Order. Obedience to scripture. Fertility and the birth rate. A cleaned-up world.
+        Safety, as they define it.
+    fears: Sexual freedom. Pollution. Falling births. Dissent. Books.
+    would_do: Watch everyone. Assign roles by sex and class. Ban what undermines the order.
+        Treat a crisis as a licence to take control.
+    blind_spot: It rests on force, and the people at the top don't follow their own rules. Its
+        rulers are always afraid of those they rule, and the cost falls on women first.
+consider:
+    - What conditions would make people trade their freedom for safety?
+    - A real crisis gave Gilead its chance. Which of your cards could do the same?
+footnotes:
+    src: '[Wikipedia: The Handmaid''s Tale](https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
+                as its supporters would recognise it; needs checking before printing.
+            update_date: '2026-10-06'

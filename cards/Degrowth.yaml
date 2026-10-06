@@ -1,0 +1,28 @@
+title: Degrowth
+live: true
+card_type: worldview
+body:
+    paragraphs:
+        - Argues that rich countries should deliberately use less energy and material, because
+            endless growth cannot continue on a finite planet, and because wellbeing doesn't
+            depend on a rising GDP.
+        - Typical proposals are a shorter working week, strong public services, limits on advertising
+            and planned obsolescence, and a focus on sharing and repair.
+lens:
+    celebrates: Enough. Time rather than stuff. Public services and shared resources.
+    fears: GDP growth as the goal. Planned obsolescence. Ecological overshoot. Inequality.
+    would_do: Shorten the working week. Redistribute. Limit advertising. Fund repair and public
+        goods.
+    blind_spot: Poorer countries still need to grow. A shrinking economy threatens jobs and
+        pensions, and it's hard to win votes for. Sceptics think growth can be decoupled from
+        damage.
+consider:
+    - How would your protagonist's day change in an economy that planned not to grow?
+    - Who decides what is _enough_?
+footnotes:
+    src: '[Wikipedia: Degrowth](https://en.wikipedia.org/wiki/Degrowth)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
+                as its supporters would recognise it; needs checking before printing.
+            update_date: '2026-10-06'

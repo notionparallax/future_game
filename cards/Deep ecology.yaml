@@ -1,0 +1,26 @@
+title: Deep ecology
+live: true
+card_type: worldview
+body:
+    paragraphs:
+        - Coined by the philosopher Arne Naess in 1973. Every living being has value in itself,
+            whether or not it's useful to humans. Deep ecologists argue for protecting wilderness,
+            a much smaller human footprint, and a simpler way of living.
+lens:
+    celebrates: Wild places. Every species having value for its own sake. Simple living.
+    fears: Consumerism and growth. Technology as a way to avoid limits. Extinction.
+    would_do: Set aside large areas as wilderness. Shrink the human footprint. Accept lower
+        consumption.
+    blind_spot: It can sound anti-human, and some versions have backed coercive ideas about
+        population. It often overlooks the people who already live in 'wilderness', and the
+        poorest would pay first.
+consider:
+    - What would you give up for a forest that nobody will ever visit?
+    - Is a world with less of us a better world, or only a quieter one?
+footnotes:
+    src: '[Wikipedia: Deep ecology](https://en.wikipedia.org/wiki/Deep_ecology)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Written to describe the worldview
+                as its supporters would recognise it; needs checking before printing.
+            update_date: '2026-10-06'
