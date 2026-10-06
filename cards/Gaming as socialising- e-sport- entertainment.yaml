@@ -1,14 +1,10 @@
+title: Gaming as socialising/<wbr>e-sport/<wbr>entertainment
 live: false
+card_type: social
+image:
+    source: esport.jpg
 body:
     paragraphs:
         - .
-card_type: social
 consider:
     - .
-footnotes: {}
-image:
-    caption: ""
-    citation: ""
-    link: ""
-    source: esport.jpg
-title: Gaming as socialising/<wbr>e-sport/<wbr>entertainment

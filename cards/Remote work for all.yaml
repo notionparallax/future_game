@@ -1,4 +1,8 @@
+title: Remote work for all
 live: false
+card_type: social
+image:
+    source: image54.png
 body:
     paragraphs:
         - .
@@ -6,14 +10,6 @@ body:
         - .
         - .
         - .
-card_type: social
 consider:
     - .
     - .
-footnotes: {}
-image:
-    caption: ""
-    citation: ""
-    link: ""
-    source: image54.png
-title: Remote work for all

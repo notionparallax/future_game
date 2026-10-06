@@ -1,15 +1,11 @@
+title: '"Progressive" social policy dominance'
 live: false
+card_type: social
+image:
+    source: democrat.gif
 body:
     paragraphs:
         - .
-card_type: social
 consider:
     - .
     - .
-footnotes: {}
-image:
-    caption: ""
-    citation: ""
-    link: ""
-    source: democrat.gif
-title: '"Progressive" social policy dominance'

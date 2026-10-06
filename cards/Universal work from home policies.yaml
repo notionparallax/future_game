@@ -1,20 +1,17 @@
+title: Universal work from home policies
 live: true
+card_type: social
 body:
     paragraphs:
-        - Remote work due to Covid-19 has exposed the inadequacies of compulsory office attendance; now that people are working from home, it will never go back to the way it used to be[^wfh]; geographical requirements around talent acquisitions will loosen or expand beyond urban centers.
-card_type: social
+        - Remote work due to Covid-19 has exposed the inadequacies of compulsory office attendance;
+            now that people are working from home, it will never go back to the way it used
+            to be[^wfh]; geographical requirements around talent acquisitions will loosen or
+            expand beyond urban centers.
 consider: []
 footnotes:
-    "wfh": "https://www.mintel.com/global-consumer-trends"
-image:
-    caption: ""
-    citation: ""
-    link: ""
-    source: ""
+    wfh: https://www.mintel.com/global-consumer-trends
 meta:
     sources:
-        - source_comment:
-              This article has a list of trends, and the first pass is to just
-              import them without modification
-          source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
-title: Universal work from home policies
+        -   source_comment: This article has a list of trends, and the first pass is to just
+                import them without modification
+            source_link: https://www.theguardian.com/commentisfree/2021/feb/15/2020s-trend-predictions-forecasters-working-from-home-ai-climate
