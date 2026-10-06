@@ -1,0 +1,57 @@
+:root { --ink: #1c1c1c; --rule: #bbb; }
+body { margin: 0; color: var(--ink); font-family: "Noto Serif", serif; line-height: 1.5; }
+a { overflow-wrap: anywhere; }
+h1, h2, h3 { font-family: "Noto Sans", sans-serif; line-height: 1.15; }
+img { max-width: 100%; }
+.nav { font-family: "Noto Sans", sans-serif; font-size: 0.85em; }
+
+/* how to play */
+body.page main { max-width: 42rem; margin: 0 auto; padding: 1rem; }
+.toc, .page main > ul { column-width: 12em; font-size: 80%; }
+.page li ul { column-width: auto; }
+.page li img { height: 4em; }
+.footnote { font-size: 80%; }
+
+/* cards, on screen */
+body.cards { padding: 1rem; }
+section.card {
+    width: 9in; height: 6in; box-sizing: border-box;
+    border: 1px solid var(--ink); border-radius: 1em;
+    padding: 10mm; margin-bottom: 1em;
+    font-size: 10pt; column-count: 2; column-fill: auto; overflow: hidden;
+}
+section.card h2 { margin: 0; font-size: 18pt; }
+section.card h3 { margin: 0.5em 0 0; font-size: 12pt; break-after: avoid; }
+section.card figure { margin: 0; }
+section.card figure img { max-height: 55mm; }
+section.card figcaption { font-size: 80%; text-align: right; }
+section.card p { margin: 0 0 0.5em; }
+section.card blockquote { margin: 0 0 0.5em; padding-left: 0.5em; border-left: 2px solid var(--rule); font-size: 90%; }
+section.card ul { margin: 0; padding-left: 1.2em; }
+section.card li { margin-bottom: 0.2em; }
+sup.fn a { text-decoration: none; }
+section.sources { max-width: 9in; font-size: 80%; }
+section.sources ol { column-count: 2; }
+
+/* the type label printed down the right-hand edge of each card */
+section.card { position: relative; }
+section.card::before {
+    position: absolute; right: 4mm; top: 50%; transform-origin: center;
+    transform: translateY(-50%) rotate(90deg);
+    font-size: 16pt; font-family: "Monoton", cursive; white-space: nowrap;
+}
+section.technology::before { content: "Technology 🤖"; }
+section.trend::before { content: "Trend 📈"; }
+section.social::before { content: "Social 🫂"; }
+section.nature::before { content: "Nature 🌳"; }
+
+@media print {
+    @page { size: A5 landscape; margin: 0; }
+    body.cards { padding: 0; }
+    .to-hide-in-print { display: none; }
+    section.card {
+        width: 210mm; height: 148mm; margin: 0; border-radius: 0; outline: 1px solid;
+        padding: 1cm 1.5cm 1cm 1cm; break-after: page; break-inside: avoid;
+    }
+    section.sources { max-width: none; padding: 1cm; }
+}

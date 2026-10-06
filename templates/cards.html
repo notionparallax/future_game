@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A Game About Possible Futures: the cards</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Monoton&family=Noto+Sans&family=Noto+Serif&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="cards">
+<p class="nav to-hide-in-print"><a href="index.html">How to play</a> · <a href="the_cards.pdf">PDF</a></p>
+{% for c in cards %}
+<section class="card {{ c.card_type }}" id="{{ c.slug }}">
+<h2>{{ c.title }}</h2>
+{% if c.image %}
+<figure>
+<img src="images/{{ c.image }}" alt="">
+{% if c.caption or c.citation %}<figcaption>{{ c.caption }}{% if c.citation %} {% if c.link %}<a href="{{ c.link }}"><cite>{{ c.citation }}</cite></a>{% else %}<cite>{{ c.citation }}</cite>{% endif %}{% endif %}</figcaption>{% endif %}
+</figure>
+{% endif %}
+{% for p in c.paragraphs %}{{ p }}
+{% endfor %}
+<h3>Consider</h3>
+<ul>
+{% for p in c.consider %}<li>{{ p }}</li>
+{% endfor %}</ul>
+</section>
+{% endfor %}
+
+<section class="sources">
+<h2>Sources</h2>
+{% for c in cards if c.sources %}
+<h3>{{ c.title }}</h3>
+<ol>
+{% for s in c.sources %}<li id="{{ s.id }}" value="{{ s.n }}">{{ s.html }}</li>
+{% endfor %}</ol>
+{% endfor %}
+</section>
+</body>
+</html>
