@@ -1,0 +1,26 @@
+title: Day Zero cities
+live: true
+card_type: nature
+body:
+    paragraphs:
+        - In 2018 Cape Town came within weeks of "Day Zero", the day when the dams would run
+            so low that taps would be turned off and residents would queue for a ration of 25
+            litres of water each a day. A drastic cut in use got it through[^dayzero].
+        - Mexico City's reservoirs have been below 27% of capacity, and in more than 550 neighbourhoods
+            the taps have been turned off or the pressure reduced. Tehran, Chennai and other
+            big cities have also come close to the edge.
+        - Cities grow where water is easy to get, then outgrow it. Climate change shifts the
+            rain, and most of the world's fresh water is used to grow food.
+consider:
+    - What would you do with 25 litres of water a day?
+    - 'Who gets water first when there isn''t enough: homes, farms, factories or data centres?'
+    - Could desalination, recycling or sponge-city design make a city drought-proof, and what
+        would it cost?
+    - Would a city that ran out of water have to be abandoned, or would it find another way?
+footnotes:
+    dayzero: '[National Geographic: Mexico City is running out of water, are these cities next?](https://www.nationalgeographic.com/environment/article/major-cities-mexico-water-day-zero)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

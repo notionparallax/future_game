@@ -1,0 +1,26 @@
+title: Insect decline
+live: true
+card_type: nature
+body:
+    paragraphs:
+        - A study that counted flying insects at more than 60 sites in German nature reserves
+            over 27 years found that the total weight caught had fallen by more than 75%[^krefeld].
+            A 2019 review concluded that more than 40% of insect species are threatened with
+            extinction.
+        - The scale is debated, because long-term insect counts are rare and decline is hard
+            to measure. The main suspects are habitat loss, intensive farming, pesticides, light
+            pollution and climate change.
+        - Insects pollinate crops, recycle dead matter and feed birds, fish and bats. The Bee
+            population crash card is the best-known part of a much bigger story.
+consider:
+    - What would a garden, a farm or a city look like if it were designed to be good for insects?
+    - If you could stop only one cause (pesticides, habitat loss or light), which one, and why?
+    - Robots could pollinate crops, but could they replace everything else insects do?
+    - Would you notice if insects disappeared? Why or why not?
+footnotes:
+    krefeld: '[Heinrich Boell Foundation: Insect numbers in Germany, on the way down](https://www.boell.de/en/insect-numbers-in-germany-on-the-way-down)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

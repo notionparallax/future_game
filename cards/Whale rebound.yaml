@@ -1,0 +1,31 @@
+title: Whale rebound
+live: true
+card_type: nature
+body:
+    paragraphs:
+        - 'Commercial whaling pushed several species to the edge of extinction. Since the ban
+            in 1986 some populations have bounced back: humpbacks off eastern Australia and
+            in the south-west Atlantic are now close to their pre-whaling numbers[^csiro].'
+        - The recovery is uneven. Antarctic blue whales are still at only about 1% of their
+            original numbers[^blue], and there are only around 380 North Atlantic right whales,
+            killed mostly by ship strikes and fishing gear[^right].
+        - 'Whales are a rare case where a global ban worked, slowly. They are also a test of
+            how we share the sea: a recovered whale population meets a much busier ocean than
+            the one it left.'
+consider:
+    - What changes for shipping lanes, fishing and offshore wind farms if whale numbers keep
+        growing?
+    - Whales took decades to recover from a ban. What does that say about how long to wait for
+        other recoveries?
+    - Whale watching is now worth more than whaling in many places. What other industries could
+        be replaced by watching?
+    - Some countries still hunt whales. Is that a matter for the whole world, or only for them?
+footnotes:
+    csiro: '[CSIRO: Watching whales return](https://www.csiro.au/en/news/all/articles/2017/august/watching-whales-return)'
+    blue: '[Antarctic whales'' remarkable comeback](https://humanprogress.org/antarctic-whales-remarkable-comeback/)'
+    right: '[PBS NewsHour: Rare North Atlantic right whale grows population to 384](https://www.pbs.org/newshour/science/rare-north-atlantic-right-whale-grows-population-to-384)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

@@ -1,0 +1,31 @@
+title: Coral reef collapse
+live: true
+card_type: nature
+body:
+    paragraphs:
+        - 'Corals bleach when the water gets too hot: they expel the algae that feed them and,
+            if the heat lasts, they starve. Between early 2023 and mid-2025 heat stress hit
+            84% of the world''s coral reef area, the largest bleaching event on record[^bleach].'
+        - In 2024 the Great Barrier Reef had the most widespread bleaching in 39 years of monitoring,
+            with hard coral cover falling by more than 70% in some areas[^gbr]. The Global Tipping
+            Points Report 2025 concluded that warm-water coral reefs have already passed their
+            tipping point[^tp].
+        - Reefs shelter about a quarter of marine species and protect coastlines from waves.
+            They also support the fishing and tourism that many island economies depend on.
+consider:
+    - What happens to the people and the towns that live off a reef if it dies?
+    - Could we breed or engineer heat-tolerant corals fast enough? What are the risks of releasing
+        them?
+    - Is it still worth protecting reefs from local threats, like pollution, if the heat will
+        kill them anyway?
+    - Is there any version of a future with reefs that doesn't also involve rapid cuts to emissions?
+footnotes:
+    bleach: '[Wikipedia: 2023-2025 global coral bleaching event](https://en.wikipedia.org/wiki/2023%E2%80%932025_global_coral_bleaching_event)'
+    gbr: '[GCRMN: Great Barrier Reef monitoring 2024](https://gcrmn.net/2025/08/06/gbr-monitoring-2024/)'
+    tp: '[Stockholm Resilience Centre: World reaches first climate tipping point, widespread
+        mortality of coral reefs](https://www.stockholmresilience.org/research/research-stories/2025-10-13-world-reaches-first-climate-tipping-point---widespread-mortality-of-coral-reefs.html)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

@@ -1,0 +1,28 @@
+title: Deep-sea mining
+live: true
+card_type: technology
+body:
+    paragraphs:
+        - 'Fist-sized nodules lying on the sea floor in the Clarion-Clipperton Zone of the Pacific
+            are rich in nickel, cobalt, copper and manganese: metals that go into batteries[^ccz].
+            Mining them would avoid some of the harm of land mines, and could cut the world''s
+            dependence on a few countries.'
+        - But the deep sea is one of the least known habitats on Earth, and scientists fear
+            that mining would destroy life that can't recover on any human timescale. The International
+            Seabed Authority has not finished its mining code, and over 30 countries now back
+            a pause. In 2026 the US moved to licence mining through its own agency[^isa].
+consider:
+    - Is mining nodules from the seabed better or worse than mining the same metals on land,
+        where people live?
+    - Better batteries and recycling might make the metals unnecessary. Should we wait to find
+        out?
+    - Who owns the seabed? Should the proceeds be shared with countries with no coast?
+    - How much do we need to know about a place before it is acceptable to mine it?
+footnotes:
+    ccz: '[Global Mining Review: Why 2026 will decide who governs the seabed](https://www.globalminingreview.com/special-reports/22042026/why-2026-will-decide-who-governs-the-seabed/)'
+    isa: '[Mongabay: Deep-sea mining rules face delays despite urgent push](https://news.mongabay.com/short-article/2026/03/deep-sea-mining-rules-face-delays-despite-urgent-push/)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

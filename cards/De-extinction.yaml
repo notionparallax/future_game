@@ -1,0 +1,26 @@
+title: De-extinction
+live: true
+card_type: technology
+body:
+    paragraphs:
+        - In April 2025 the company Colossal Biosciences announced that it had produced three
+            "dire wolf" pups. Many scientists said that they were grey wolves with a handful
+            of edited genes, not a resurrected species[^colossal]. The company is also working
+            on the woolly mammoth, the thylacine and the dodo.
+        - 'The same tools could help living species: adding genetic diversity to tiny populations,
+            or adding disease resistance. But it is expensive, and it raises the question of
+            whether a lab animal released into a changed world has any role to play there.'
+consider:
+    - 'What counts as bringing a species back: the genes, the look, or the way it lives?'
+    - If there was money to bring back a mammoth or to protect a thousand living species, which
+        would you choose?
+    - If we can "undo" extinction, does that make us less careful about causing it?
+    - Would you want a thylacine, a mammoth or a dodo in your region? Who should decide?
+footnotes:
+    colossal: '[MIT Technology Review: Game of clones, Colossal''s new wolves are cute, but
+        are they dire?](https://www.technologyreview.com/2025/04/08/1114371/game-of-clones-colossals-new-wolves-are-cute-but-are-they-dire/)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

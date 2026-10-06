@@ -1,0 +1,27 @@
+title: Tipping points
+live: true
+card_type: nature
+body:
+    paragraphs:
+        - 'Some parts of the Earth''s climate system may change abruptly and irreversibly once
+            pushed past a threshold. The Global Tipping Points Report 2025 says warm-water coral
+            reefs have already passed theirs, and warns that others are close: the ice sheets,
+            the Amazon rainforest and the ocean currents that carry heat around the Atlantic[^gtp].'
+        - The Amazon makes much of its own rain. If enough forest is cleared or burned, scientists
+            fear that the rest could shift into a drier savanna. Estimates of how much clearing
+            it would take vary, but the Amazon has already lost a significant share of its forest.
+        - Frozen ground in the Arctic holds more carbon than the whole atmosphere. As it thaws,
+            it releases carbon dioxide and methane, which warms the planet further.
+consider:
+    - If a tipping point is crossed, will anyone know straight away? Who gets to say?
+    - How do you make a decision about something that can't be undone?
+    - Could any of these changes be reversed with technology (reforestation, geoengineering)?
+        Who decides whether to try?
+    - What would the world look like if the Amazon became a savanna?
+footnotes:
+    gtp: '[Global Tipping Points Report 2025](https://global-tipping-points.org/)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

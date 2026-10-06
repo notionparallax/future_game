@@ -1,0 +1,29 @@
+title: 30 by 30
+live: true
+card_type: nature
+body:
+    paragraphs:
+        - In 2022 the world's governments agreed to protect 30% of the planet's land and sea
+            by 2030. By the end of 2025 about 10% of the ocean was designated as protected,
+            but only 2.8% was fully or highly protected, meaning that fishing and mining are
+            actually restricted[^ocean30].
+        - Most of the unprotected ocean is the high seas, which belong to nobody. The High Seas
+            Treaty, which came into force in January 2026, is the first framework for creating
+            protected areas there[^treaty].
+        - Protection on paper is not protection in practice. Lines on a map need patrols, satellites
+            and the cooperation of the people who live and work nearby.
+consider:
+    - 'Who should have the right to fish in a protected area: nobody, local communities, or
+        Indigenous peoples who have always done so?'
+    - How would you enforce a protected area the size of a country in the middle of an ocean?
+    - Protected areas on land have sometimes pushed people off their land. How do you protect
+        nature without doing that?
+    - If a third of the ocean is closed to fishing, where does the fishing go?
+footnotes:
+    ocean30: '[30x30 in the ocean: reflecting on ocean protection progress in 2025](https://for-the-ocean.org/30x30-in-the-ocean-reflecting-on-ocean-protection-progress-in-2025/)'
+    treaty: '[IFAW: High Seas Treaty enters into force](https://www.ifaw.org/press-releases/high-seas-treaty-enters-into-force-historic-leap-ocean-protection)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

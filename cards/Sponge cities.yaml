@@ -1,0 +1,27 @@
+title: Sponge cities
+live: true
+card_type: technology
+body:
+    paragraphs:
+        - 'Cities are mostly hard surfaces that shed rain into pipes. That floods streets in
+            storms and leaves nothing for the dry months. A sponge city does the opposite: it
+            soaks water up where it falls, with swales (shallow, planted channels), rain gardens,
+            green roofs, permeable paving, ponds and restored wetlands.'
+        - In 2015 China chose 30 pilot cities for a sponge city programme, with a target that
+            by 2030 80% of urban areas will absorb and reuse 70% of their rainwater[^sponge].
+        - 'The same idea works at the scale of a single street or a single house: a swale on
+            a farm or a front garden does for a small catchment what a wetland does for a city.'
+consider:
+    - What would it do to the look and feel of your street if every road had a swale next to
+        it?
+    - A flood of water in one hour is a drought-buster if it's stored. What would you need in
+        order to store it?
+    - Who is responsible when a rain garden on private land floods a neighbour?
+    - Could a sponge city also be a cooler city, and a more biodiverse one?
+footnotes:
+    sponge: '[Wikipedia: Sponge city](https://en.wikipedia.org/wiki/Sponge_city)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

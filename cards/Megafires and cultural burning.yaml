@@ -1,0 +1,31 @@
+title: Megafires and cultural burning
+live: true
+card_type: nature
+body:
+    paragraphs:
+        - Australia's 2019-20 Black Summer burned about 24 million hectares[^blacksummer]. Hotter,
+            drier summers, and a century of suppressing small fires that used to clear fuel,
+            have made fires bigger and harder to stop.
+        - Aboriginal peoples have managed the landscape with fire for tens of thousands of years,
+            lighting small, cool fires at the right time of year that reduce fuel without killing
+            the trees. Cultural burning drew global attention after Black Summer, but Indigenous
+            communities say they are still held back by regulation, insurance, resourcing and
+            lack of access to Country[^culture].
+        - Fire is not just a hazard. Many Australian plants and animals depend on it, and a
+            landscape without fire changes too.
+consider:
+    - 'Who should decide when and where to burn: fire authorities, landowners, or Traditional
+        Owners?'
+    - Cool burns are slow and local, and megafires are fast and huge. Can the first really prevent
+        the second?
+    - If insurers won't cover homes in fire zones, who lives there in 2050?
+    - What other knowledge held by Indigenous peoples could help manage a changing climate?
+footnotes:
+    blacksummer: '[Wikipedia: 2019-20 Australian bushfire season](https://en.wikipedia.org/wiki/2019%E2%80%9320_Australian_bushfire_season)'
+    culture: '[Oxford Blavatnik School: Building bushfire resilience, Indigenous cultural burning
+        policy in Australia](https://www.bsg.ox.ac.uk/blog/building-bushfire-resilience-indigenous-cultural-burning-policy-australia)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'

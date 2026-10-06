@@ -1,0 +1,27 @@
+title: Wildlife corridors
+live: true
+card_type: nature
+body:
+    paragraphs:
+        - 'Roads, fences and cities cut habitat into islands, and small populations in small
+            islands tend to die out. A wildlife corridor reconnects them: overpasses and underpasses
+            on highways, strips of native vegetation, restored river banks.'
+        - In Banff National Park, Canada, 44 crossing structures (and the fences that guide
+            animals to them) cut collisions with wildlife on the highway by more than 80%, and
+            grizzly bears now use them[^banff]. A large overpass across a highway near Los Angeles
+            is being built for mountain lions[^la].
+        - Corridors also matter for climate. As the climate shifts, species need to be able
+            to move to where they can live, and that is only possible if the way is open.
+consider:
+    - Who pays for a bridge for animals, and who owns the land at either end of it?
+    - What would a corridor across a whole city, or a whole continent, need to look like?
+    - Corridors help pests and diseases too. Is that a good enough reason not to build them?
+    - Could a road be designed from the start so that animals don't need a bridge at all?
+footnotes:
+    banff: '[Wildlife crossings reconnect a natural world divided by highways](https://atmos.earth/climate-solutions/wildlife-crossings-reconnect-a-natural-world-divided-by-highways/)'
+    la: '[Los Angeles County: Wallis Annenberg Wildlife Crossing](https://trails.lacounty.gov/NewsAndEvents/1202/wildlife-crossing-will-stretch-across-hwy-101)'
+meta:
+    sources:
+        -   source_comment: First draft by Claude (October 2026). Facts and figures need checking
+                before printing.
+            update_date: '2026-10-06'
