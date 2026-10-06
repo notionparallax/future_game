@@ -7,6 +7,8 @@ body:
     paragraphs:
         - From a long shot dream in 2004[^37] driverless cars are now more of a _when_ than
             an if.
+        - 'Driverless taxis are now a commercial product: by early 2026 Waymo was giving around
+            500,000 paid rides a week across ten US cities[^waymo].'
         - Humans need a lot of tolerance to account for their imperfect driving skills. That
             means that the lanes need to be wider, cars need more impact protection, cars need
             to drive further apart.
@@ -28,3 +30,4 @@ consider:
 footnotes:
     '37': https://en.wikipedia.org/wiki/DARPA_Grand_Challenge
     '38': http://breakingsmart.com/a-new-soft-technology
+    waymo: '[Waymo Has Doubled Its Weekly Ridership In Under A Year](https://insideevs.com/news/791245/waymo-rides-per-week-2026-doubled/)'

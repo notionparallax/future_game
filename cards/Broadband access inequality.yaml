@@ -27,7 +27,7 @@ footnotes:
     '12': 'As far as I can tell this counts the number of connections, but doesn''t take into
         account how many people share that connection. The number is 40 for France, but there
         might be more than 2 people sharing each line. Which would mean more than 1 connection
-        per person! Data via [Google: World Development Indicators](https://goo.gl/7jVzHM)'
+        per person! Data via [World Bank: World Development Indicators](https://data.worldbank.org/indicator/IT.NET.BBND.P2)'
     '13': Illustrated by how many totalitarian nations restrict access to the whole internet.
-    broadbandNumbers: <iframe width="400" height="325" frameborder="0" scrolling="no" marginwidth="0"
-        marginheight="0" src="https://www.google.com.au/publicdata/embed?ds=d5bncppjof8f9_&amp;ctype=l&amp;strail=false&amp;bcs=d&amp;nselm=h&amp;met_y=it_net_bbnd_p2&amp;scale_y=lin&amp;ind_y=false&amp;rdim=region&amp;idim=country:AUS:USA:CAN:BRN:KHM:PRK:CHN:FJI:GUM:PYF:HKG:IDN:JPN:KIR:KOR:LAO:MAC:NZL:DZA:BHR:EGY:IRN:IRQ:QAT:MAR:LBY:ARE:YEM:AGO:BEN:BFA:CMR:COG:GNQ:CIV:KEN:LSO:RWA:SOM:AZE:BGR:CHI:FRA:DEU&amp;ifdim=region&amp;hl=en_US&amp;dl=en&amp;ind=false&amp;xMax=180&amp;xMin=-180&amp;yMax=-69.19015623869112&amp;yMin=71.94133737234107&amp;mapType=t&amp;icfg&amp;iconSize=0.5"></iframe>
+    broadbandNumbers: 'Fixed broadband subscriptions per 100 people, from the [World Bank: World
+        Development Indicators](https://data.worldbank.org/indicator/IT.NET.BBND.P2).'

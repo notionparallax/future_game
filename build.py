@@ -21,13 +21,20 @@ IMAGES = ROOT / "images"
 OUT = ROOT / "site"
 
 CARD_TYPES = ["technology", "trend", "social", "nature"]
+SHORTENERS = re.compile(r"https?://(goo\.gl|bit\.ly|t\.co)/")
+SUSPICIOUS = [
+    (re.compile(r'\\"'), "literal backslash-quote"),
+    (re.compile(r"&amp;"), "double-escaped &amp;"),
+    (re.compile(r"[ 	]{2,}"), "repeated spaces"),
+]
 REF = re.compile(r"\[\^([^\]]+)\]")
 PLACEHOLDER = re.compile(r"^[\s.]*$")
 
 
 def md_inline(text):
     """Markdown for a fragment, without the wrapping <p>."""
-    html = markdown.markdown(str(text or ""), extensions=["sane_lists"])
+    text = re.sub(r"^(https?://\S+)$", r"<>", str(text or "").strip())
+    html = markdown.markdown(text, extensions=["sane_lists"])
     return re.sub(r"^<p>(.*)</p>$", r"\1", html, flags=re.S)
 
 
@@ -74,6 +81,9 @@ def validate(cards):
             err(f"card_type {c.get('card_type')!r} is not one of {CARD_TYPES}", errors)
 
         paras = (c.get("body") or {}).get("paragraphs") or []
+        if not isinstance(paras, list):
+            err("body.paragraphs must be a list", errors)
+            continue
         if live and not paras:
             err("no body paragraphs")
         if any(PLACEHOLDER.match(str(p)) for p in paras):
@@ -89,6 +99,17 @@ def validate(cards):
             err(f"image {src!r} not found in images/")
         if live and not src:
             err("no image", warnings)
+
+        everything = [*texts(c), *map(str, (c.get("footnotes") or {}).values()), title]
+        for text in everything:
+            if SHORTENERS.search(text):
+                err("link shortener (may be dead, and hides the source)", warnings)
+            for rx, what in SUSPICIOUS:
+                if rx.search(text):
+                    err(f"{what}: {text[:50]!r}", warnings)
+        for text in [*paras, *consider]:
+            if str(text)[:1].islower() and not str(text).startswith("co-"):
+                err(f"starts with a lowercase letter: {str(text)[:40]!r}", warnings)
 
         notes = c.get("footnotes") or {}
         refs = {k for t in texts(c) for k in REF.findall(t)}

@@ -9,20 +9,23 @@ body:
             email and VPN instead of having companies use their data. Increasing attention to
             the power imbalances of this model will lead to the adoption of more niche services
             and platforms.
-        - Twitter is investigating making itself somewhat obsolete by moving their platform
-            across to a distributed protocol (like email is). This might become the future,
-            but it's uncertain how it could be monetised with platforms running as businesses,
-            rather than as utilities.
+        - In 2019 Twitter announced that it would fund an open, distributed protocol (like email
+            is) that it could one day use itself. That became Bluesky, which was spun out as
+            an independent company and has since cut its ties with Twitter, now X. It has passed
+            40 million registered users, though far fewer of them are active[^bluesky]. This
+            might become the future, but it's uncertain how it could be monetised with platforms
+            running as businesses, rather than as utilities.
 consider:
     - Could you live without Facebook? Even Events and Messenger? What about Google?
     - Could the fragmentation caused by exiting the platforms be overcome? Would it be a modern
         day Babel experience?
-    - what would fill the vacuum, how would it be different?
+    - What would fill the vacuum, how would it be different?
     - Google and Facebook have threatened to pull out of countries with policies that are opposed
         to their operational policies, e.g. Australia and China. Do we see an unevenly connected
         world?
 footnotes:
     techOut: https://www.fastcompany.com/90588717/top-tech-trends-2021-post-pandemic-predictions-ai-fintech-health
+    bluesky: '[Wikipedia: Bluesky](https://en.wikipedia.org/wiki/Bluesky)'
 meta:
     sources:
         -   source_comment: This article has a list of trends, and the first pass is to just

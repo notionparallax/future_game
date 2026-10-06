@@ -10,14 +10,16 @@ body:
             consistent legislation.
         - Proposals to ban alcohol are quickly put down by the drinks industry, and so to provide
             consistent legislation, all drugs from position 5 and below are legalised.
-        - 1. Heroin, 2. Cocaine, 3. Barbituates, 4. Street methadone, **5. Alcohol**, 6. Ketamine,
+        - 1. Heroin, 2. Cocaine, 3. Barbiturates, 4. Street methadone, **5. Alcohol**, 6. Ketamine,
             7. Benzodiazepines, 8. Amphetamine, 9. Tobacco, 10. Buprenorphine, 11. Cannabis,
             12. Solvents, 13. 4-MTA, 14. LSD, 15. Methylphenidate, 16. Anabolic steroids, 17.
-            GHB, 18. Ecstasy, 19. Alykl nitrites, 20. Khat
+            GHB, 18. Ecstasy, 19. Alkyl nitrites, 20. Khat
 consider:
     - What else should be legal/illegal? What are you basing that decision on?
     - What else could be legal or illegal in future?
     - Why aren't these already legal?
 footnotes:
-    '54': '[Drug harms in the UK: a multicriteria decision analysis](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61462-6/abstract)
-        by Prof David J Nutt, FMedSci; Leslie A King, PhD; Lawrence D Phillips, PhD'
+    '54': '[Development of a rational scale to assess the harm of drugs of potential misuse](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)60464-4/abstract),
+        by David J Nutt, Leslie A King, William Saulsbury and Colin Blakemore, The Lancet, 2007.
+        Its 2010 follow-up, [Drug harms in the UK: a multicriteria decision analysis](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61462-6/abstract),
+        ranked alcohol as the most harmful drug overall.'

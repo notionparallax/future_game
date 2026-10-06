@@ -6,10 +6,11 @@ image:
     source: image35.png
 body:
     paragraphs:
-        - The world population is growing by 200,000 daily. Population increases are expected
-            to level out globally between 2030 and 2100[^2], but that's an aggregate value.
-            Some countries will still be growing fast whilst others will be shrinking (looking
-            at you Japan).
+        - The world population is growing by ≈200,000 people every day, and passed 8 billion
+            in November 2022. The UN expects growth to level out and peak at around 10.3 billion
+            in the mid-2080s[^2], but that's an aggregate value. Some countries will still be
+            growing fast whilst others, including Japan, China, Russia and Germany, have already
+            peaked and are shrinking.
         - There are a lot of factors to population growth. Better sanitation means fewer children
             die. Better access to education for women means that fewer children are born. People
             living longer means that people hang about for longer. Wars push people out of countries,
@@ -23,4 +24,5 @@ consider:
         those limitations?
 footnotes:
     '1': ABS data, high scenario.
-    '2': 'Wikipedia: [World population](https://en.wikipedia.org/wiki/World_population)'
+    '2': '[UN World Population Prospects 2024](https://population.un.org/wpp/) and Wikipedia:
+        [World population](https://en.wikipedia.org/wiki/World_population)'

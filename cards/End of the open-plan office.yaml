@@ -6,7 +6,10 @@ body:
         - Besides being notoriously difficult for concentration and privacy, an airborne pandemic
             has lessened the appeal[^officeAppeal] of cramming big groups of people shoulder
             to shoulder in a single room.
-consider: []
+consider:
+    - If not open-plan, then what? Private offices, home, or something new?
+    - Open-plan was sold as a way to increase collaboration. Did it ever?
+    - 'Who loses if offices shrink: cleaners, cafes, city centres?'
 footnotes:
     officeAppeal: https://www.fastcompany.com/90588717/top-tech-trends-2021-post-pandemic-predictions-ai-fintech-health
 meta:

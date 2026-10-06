@@ -6,9 +6,12 @@ body:
         - Live shopping[^liveShopping], already extremely popular in China, is like Instagram
             Live meets the Home Shopping Network – influencers show-and-tell products live on
             social media, which have particular discounts and promotions only while the feed
-            is rolling. Forecasters predict this will become globally popular[^liveShoppingForecast]
-            in the near term.
-consider: []
+            is rolling. Forecasters predicted this would become globally popular[^liveShoppingForecast],
+            and TikTok Shop opened in the US in 2023.
+consider:
+    - What happens to trust in a product when the person selling it is an entertainer?
+    - Is live shopping a new way to sell, or the market stall with a phone?
+    - What would it do to physical shops if buying were also entertainment?
 footnotes:
     liveShopping: https://www.singlegrain.com/web-trends/what-is-live-stream-shopping/
     liveShoppingForecast: https://www.foresightfactory.co/trends-report

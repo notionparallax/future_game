@@ -15,11 +15,10 @@ body:
             from an apple device. They would go on to create a walled garden of content that
             only apple users could see.
         - This would impede the flow of information that the internet allows, but it may create
-            a better experience for a subset of the population[^46].
+            a better experience for a subset of the population.
 consider:
     - Who would gain from a private internet?
     - What would be bad about companies developing private protocols?
     - Would it be safer and more secure?
 footnotes:
     '45': '[This talk is a really good source to understand the threats to the open internet](https://www.wired.com/2015/08/the-end-of-the-internet-dream/)'
-    '46': 'TODO: find what this footnote pointed to'

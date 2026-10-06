@@ -7,9 +7,13 @@ body:
             become widespread beyond just phones when applied via increasingly mature augmented
             reality systems[^filters], forcing people to question the relationship between the
             visual and the real, and potentially fragmenting consensus reality even further.
-consider: []
+consider:
+    - If everyone sees a different version of the street, which one is 'the real one'?
+    - Who owns the filter layer on public space? Could a business filter out its competitor's
+        sign?
+    - Would you choose to see the world unfiltered, and how would you know that you were?
 footnotes:
-    filters: https://www.frogdesign.com/designmind/trends-2021?utm_campaign=USA_Trends%202021&amp;utm_source=email&amp;utm_medium=trends%202021%20email&amp;utm_term=trends%202021%20email&amp;utm_content=trends%202021%20email
+    filters: https://www.frogdesign.com/designmind/trends-2021
 meta:
     sources:
         -   source_comment: This article has a list of trends, and the first pass is to just

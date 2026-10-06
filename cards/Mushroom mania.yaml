@@ -2,10 +2,11 @@ title: Mushroom mania
 live: false
 card_type: trend
 body:
-    paragraphs: Rising vegetarianism and the advancement of home cooking in the pandemic are
-        two drivers for the rising excitement[^mushroomMania] around these versatile fungi.
-        (My firm Nemesis wrote a trend report last year called The Umami Theory of Value[^utov],
-        so I am not surprised about this trend!)
+    paragraphs:
+        - Rising vegetarianism and the advancement of home cooking in the pandemic are two drivers
+            for the rising excitement[^mushroomMania] around these versatile fungi. (My firm
+            Nemesis wrote a trend report last year called The Umami Theory of Value[^utov],
+            so I am not surprised about this trend!)
 consider: []
 footnotes:
     mushroomMania: https://thepaper24-7.com/Content/Home/Home/Article/Kroger-s-Top-10-for-2020-and-2021/-2/-2/75062

@@ -1,17 +1,8 @@
 title: The Circular Economy
 live: false
 card_type: technology
-image:
-    caption: An example of DfMA design refinement to improve assembly ease.
-    citation: 'Boothroyd, Geoffrey, Peter Dewhurst, and Winston A. Knight. Product Design for
-        Manufacture and Assembly. 3rd ed. Manufacturing Engineering and Materials Processing
-        74. Boca Raton, FL: CRC Press, 2011. p.83.'
-    link: https://www.routledge.com/Product-Design-for-Manufacture-and-Assembly/Boothroyd-Dewhurst-Knight/p/book/9781420089271
-    source: dmfa.jpg
 body:
     paragraphs:
         - What is it?
 consider:
-    - what shoudl we think about?
-footnotes:
-    IDENTIFIER: the footnote, with a [link](http://rickroll.com)
+    - What should we think about?

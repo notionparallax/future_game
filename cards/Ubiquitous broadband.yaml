@@ -8,9 +8,9 @@ body:
         - Broadband internet unlocks so much of our urban economy in the developed world but
             that is a small part of the earth's surface.
         - What would access to broadband do for rural African farmers, or for Antarctic explorers?
-        - Google had project Loon, Facebook tried giant autonomous planes that act as repeater
-            stations to the ground. SpaceX _is_ putting a network of toaster-sized internet-satellites
-            into orbit and .
+        - Google had Project Loon (closed in 2021) and Facebook tried giant autonomous planes
+            that act as repeater stations to the ground. SpaceX's Starlink has put more than
+            10,000 internet satellites into orbit and passed 10 million customers in early 2026[^starlink].
         - If everyone in the world has access to the same markets it would have a huge levelling
             effect. It might raise the incomes of the poorest, but it might well lower the incomes
             of the most well-off.
@@ -23,3 +23,5 @@ consider:
     - What are the exponential potentials with this card?
     - If broadband is ubiquitous (e.g. available in national parks), will it be possible to
         get away from it? Is this a good thing? Is it a technology problem or a social problem?
+footnotes:
+    starlink: '[Wikipedia: Starlink](https://en.wikipedia.org/wiki/Starlink)'

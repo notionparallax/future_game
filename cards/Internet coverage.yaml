@@ -11,8 +11,12 @@ body:
         - In the last quarter of a century the internet has changed the way the world operates.
             Access to the internet isn't ubiquitous. A large part of the world can't access
             what we take for granted. Projects like Facebook's internet.org[^ic31] and Google's
-            Project Loon[^ic32] were trying to change that but their parent company's deemed
+            Project Loon[^ic32] were trying to change that but their parent companies deemed
             them unprofitable.
+        - 'In 2025 the ITU estimated that 6 billion people (about three-quarters of the world)
+            use the internet and 2.2 billion don''t, 96% of them in low- and middle-income countries[^itu].
+            Satellite internet is changing the picture: Starlink reported more than 10 million
+            customers in early 2026[^starlink].'
         - Those unconnected people stand to gain from internet access and are also a giant market.
             The countries at the bottom of this graph have little in the way of fixed infrastructure,
             so may leapfrog the countries at the top of the graph if satellite internet becomes
@@ -27,3 +31,5 @@ footnotes:
         through solar powered planes.'
     ic32: '[Loon](http://www.google.com/loon/) was planning to make internet access available
         through weather balloons.'
+    itu: '[ITU Facts and Figures 2025](https://www.itu.int/en/mediacentre/Pages/PR-2025-11-17-Facts-and-Figures.aspx)'
+    starlink: '[Wikipedia: Starlink](https://en.wikipedia.org/wiki/Starlink)'

@@ -3,10 +3,14 @@ live: true
 card_type: social
 body:
     paragraphs:
-        - Microsoft is introducing a “virtual commute” feature[^virtualCommute] intended “to
-            create mental bookends for the remote workday”. It is also partnering with the meditation
-            app Headspace to add a new “emotional check-in feature”.
-consider: []
+        - In 2021 Microsoft introduced a “virtual commute” feature[^virtualCommute] intended
+            “to create mental bookends for the remote workday”. It is also partnering with the
+            meditation app Headspace to add a new “emotional check-in feature”.
+consider:
+    - Would you miss your commute? What did it do for you that nothing else has replaced?
+    - Is it healthy to need software to help you stop working?
+    - What other transitions (the end of the school day, arriving home) have we lost, and could
+        technology bring them back?
 footnotes:
     virtualCommute: https://info.trendwatching.com/21-trends-for-2021
 meta:

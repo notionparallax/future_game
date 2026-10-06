@@ -6,7 +6,11 @@ body:
         - Spotify’s move toward mood-driven instead of genre-driven playlists has been successful
             to the point of suggesting that musical genres themselves will be increasingly outmoded[^outmodedGenres]
             in the coming years – or at least completely illegible.
-consider: []
+consider:
+    - If you can't name your genre, what do you use to find your tribe?
+    - Genres were partly a way to sort records in shops. What takes their place when there are
+        no shops?
+    - Who decides what a 'mood' is, and what happens to artists who don't fit one?
 footnotes:
     outmodedGenres: https://victrola.com/blogs/articles/music-industry-trends-to-look-for-in-2021
 meta:

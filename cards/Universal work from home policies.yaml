@@ -6,8 +6,13 @@ body:
         - Remote work due to Covid-19 has exposed the inadequacies of compulsory office attendance;
             now that people are working from home, it will never go back to the way it used
             to be[^wfh]; geographical requirements around talent acquisitions will loosen or
-            expand beyond urban centers.
-consider: []
+            expand beyond urban centers. Several large employers have since ordered staff back
+            to the office, so the balance is still being negotiated.
+consider:
+    - If you can work from anywhere, why live where you do?
+    - 'Who does remote work leave behind: junior staff, people without space at home, the businesses
+        that fed the office district?'
+    - Is working from home a right, a perk or a trap (always on)?
 footnotes:
     wfh: https://www.mintel.com/global-consumer-trends
 meta:

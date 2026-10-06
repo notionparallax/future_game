@@ -6,7 +6,9 @@ image:
 body:
     paragraphs:
         - Bee populations are declining.
-        - In recent winters, in Europe alone, bee losses up to 53% became a reality.
+        - US beekeepers lost 55.6% of their managed honey bee colonies between April 2024 and
+            April 2025, the highest annual loss since the survey began in 2010[^beeloss].
+        - In recent winters in Europe, losses of up to 53% have been reported.
         - Plants rely on insects like bees to reproduce. Plant reproduction is vital for our
             food supply. If the bees die, then we die too!
         - This dramatic decline in bee populations is the result of multiple factors such as
@@ -14,3 +16,6 @@ body:
 consider:
     - What would we need to do to support bee populations?
     - Could we come up with a technology solution to replace bees? What would the risks be?
+footnotes:
+    beeloss: '[Auburn University and the Apiary Inspectors of America, U.S. Beekeeping Survey
+        2024-2025](https://wire.auburn.edu/content/agriculture/2025/06/2506-beekeepers-survey.php)'

@@ -166,7 +166,7 @@ footnotes:
 consider:
     - add a prompt for the players
     - And maybe another one too
-card_type: future_tech
+card_type: technology # one of: technology, trend, social, nature
 meta:
     sources:
         - source_comment: Who wrote this card? Who are you?
@@ -177,7 +177,7 @@ meta:
           update_date: 2021-02-20 #an iso date
 ```
 
-Save the file as `The name of the card.yaml` and either [💌email](mailto:ben@notionparallax.co.uk) it to me, or make PR against the repo.
+Save the file in the `cards` folder as `The name of the card.yaml` and either [💌email](mailto:ben@notionparallax.co.uk) it to me, or make a pull request against the repo. A check runs on every pull request and will tell you if anything in the card is missing or broken.
 
 The current cards are:
 

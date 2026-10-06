@@ -1,6 +1,6 @@
 title: Asteroid mining
 live: true
-card_type: social
+card_type: technology
 image:
     source: image53.jpg
 body:
@@ -14,7 +14,7 @@ body:
             in space it's much cheaper.
         - The availability of precious metals in asteroids could upset the world economy in
             the same way that the influx of silver from South America caused massive inflation
-            in the 15<sup>th</sup>&ndash;17<sup>th</sup> century[^52].
+            in the 15<sup>th</sup>&ndash;17<sup>th</sup> century[^silver].
 consider:
     - If you hollow out an asteroid what could you do with it?
     - Platinum is used as a catalyst in chemical reactions. Making it a lot cheaper would make
@@ -24,4 +24,4 @@ consider:
     - Getting raw materials into space is expensive. What could you use the iron in an asteroid
         for?
 footnotes:
-    '52': https://en.wikipedia.org/wiki/Price_revolution
+    silver: '[Wikipedia: Price revolution](https://en.wikipedia.org/wiki/Price_revolution)'

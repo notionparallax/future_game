@@ -6,9 +6,14 @@ body:
         - Shrooms are the new weed, commercially speaking, as new firms and funds scramble to
             monetize[^psilocybin] psilocybin in advance of its extended clinical applications.
             Psychedelics as a class of drugs continue to be destigmatized, relative to other
-            drugs. Forecasts see this reaching a new level of mainstream saturation in coming
-            years.
-consider: []
+            drugs. In July 2023 Australia became the first country to allow psychiatrists to
+            prescribe psilocybin and MDMA. Forecasts see this reaching a new level of mainstream
+            saturation in coming years.
+consider:
+    - If psilocybin becomes a mainstream therapy, who gets access, and who pays?
+    - What happens when a drug that dissolves the sense of self is sold by a company?
+    - How would workplaces, churches and governments respond to a population with more mystical
+        experiences?
 footnotes:
     psilocybin: https://www.benzinga.com/markets/cannabis/21/01/19329903/7-psychedelic-trend-predictions-for-2021
 meta:

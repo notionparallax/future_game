@@ -1,16 +1,16 @@
-title: life expectancy
+title: Life expectancy
 live: true
 card_type: trend
 image:
     source: image43.png
 body:
     paragraphs:
-        - Life expectancy continues to increase[^4] in contrast to Hobbes' idea of life, which
-            was "Nasty brutish and short". We are comfortably on track to hit an average life
-            expectancy of 100. There is a lot of variation in global life expectancy. That average
-            of 100 means that there will be a global reduction in lifespan inequality, or that
-            some nations will see huge lifespan increases. It's not uncommon to see claims that
-            some children alive today will live to be 150[^5] or 200[^6]!
+        - 'Life expectancy continues to increase[^4] in contrast to Hobbes'' idea of life, which
+            was "Nasty brutish and short". The UN estimates that global life expectancy at birth
+            was 73.3 years in 2024, and projects 77.4 years by 2054[^unwpp]. There is a lot
+            of variation: some nations will see huge increases, and the gap between the longest
+            and shortest lived countries is expected to narrow. It''s not uncommon to see claims
+            that some children alive today will live to be 150[^5] or 200[^6]!'
         - Life expectancy is measured at different ages. These days, in 'developed' countries
             the difference between life expectancy at birth and at five years isn't substantially
             different. Some believe that prehistoric humans could expect to live into their
@@ -29,3 +29,4 @@ footnotes:
     '7': 'Hillard Kaplan, Kim Hill, Jane Lancaster, and A. Magdalena Hurtado (2000). [_A Theory
         of Human Life History Evolution: Diet, Intelligence and Longevity_ (PDF). Evolutionary
         Anthropology 9 (4): 156&ndash;185.](http://www.unm.edu/~hkaplan/KaplanHillLancasterHurtado_2000_LHEvolution.pdf)'
+    unwpp: '[UN World Population Prospects 2024](https://population.un.org/wpp/)'

@@ -6,12 +6,16 @@ image:
 body:
     paragraphs:
         - Plants are green because they reflect the green part of the visual light spectrum;
-            it turns out that plants need mainly pink light to photosynthesise. 1m of solar
-            panels can generate more than 1m of pink light, so it's very resource efficient.
+            it turns out that plants need mainly pink light to photosynthesise. 1 m&sup2; of
+            solar panels can generate more than 1 m&sup2; of pink light, so it's very resource
+            efficient.
         - The plants are grown in racks, in a sealed warehouse. Each rack has lighting and a
             water supply with nutrients in it. Because the building is sealed, there's no need
             for pesticides because there are no pests. Because the plants are in racks, each
             square metre on the floor can produce tens of square metres of plants.
+        - The economics have turned out to be harder than the physics. Lighting and cooling
+            use a lot of electricity, and well-funded vertical farming companies, including
+            AeroFarms (2023) and Bowery (2024), have gone bankrupt or shut down.
 consider:
     - If we do this, what will happen to the farming industry?
     - What would happen to all the land that is currently used to grow plants?

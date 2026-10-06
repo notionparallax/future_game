@@ -5,12 +5,14 @@ image:
     source: image16.png
 body:
     paragraphs:
-        - This graph from NASA[^gt33] shows global temperature variation
+        - This graph from NASA[^gt33] shows global temperature variation.
+        - 2024 was the first calendar year in which the global average was more than 1.5 &deg;C
+            above the pre-industrial level[^wmo2024].
         - '> "The paleoclimate record combined with global models shows past ice ages as well
             as periods even warmer than today. But the paleoclimate record also reveals that
             the current climatic warming is occurring much more rapidly than past warming events."'
-        - Future temperature rises differ by the model used to predict them[^34] and by the
-            way we act in the future[^35]. These will lead to sea level rise. Partially from
+        - Future temperature rises differ by the model used to predict them[^gt34] and by the
+            way we act in the future[^gt35]. These will lead to sea level rise. Partially from
             melting ice, but also from the water in the oceans getting bigger from thermal expansion.
 consider:
     - Who will warming be bad for?
@@ -19,5 +21,8 @@ consider:
         what will those things trigger? And so on.
 footnotes:
     gt33: '[How is Today''s Warming Different from the Past?](http://earthobservatory.nasa.gov/Features/GlobalWarming/page3.php)'
-    gt34: 'TODO: Not sure what this footnote was supposed to point to'
-    gt35: 'TODO: Not sure what this footnote was supposed to point to'
+    gt34: '[IPCC Sixth Assessment Report, Working Group I: projected warming under different
+        emissions scenarios](https://www.ipcc.ch/report/ar6/wg1/)'
+    gt35: '[Climate Action Tracker: the warming that current policies and pledges would produce](https://climateactiontracker.org/global/temperatures/)'
+    wmo2024: '[Copernicus: 2024 is the first year to exceed 1.5 &deg;C above pre-industrial
+        level](https://climate.copernicus.eu/copernicus-2024-first-year-exceed-15degc-above-pre-industrial-level)'

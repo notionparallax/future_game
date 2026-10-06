@@ -8,6 +8,8 @@ body:
     paragraphs:
         - Managers and professionals showed strong reductions in hours worked between 1996 and
             2010 according to the ABS _Trends in Hours Worked_ report[^wh27].
+        - Since then the pandemic, and four-day-week trials like the UK's 2022 pilot with 61
+            companies[^4dw], have reopened the question.
         - Although it might not feel like it to us, the trends seem pretty clear, assuming that
             some other force doesn't come into play in the future.
         - This doesn't cover people who work multiple jobs and/or work for themselves (which
@@ -25,3 +27,4 @@ footnotes:
     wh27: https://www.abs.gov.au/articles/insights-hours-worked
     wh28: '[When John Maynard Keynes Predicted a 15-Hour Workweek “in a Hundred Year’s Time”
         (1930)](https://www.openculture.com/2020/06/when-john-maynard-keynes-predicted-a-15-hour-workweek-in-a-hundred-years-time-1930.html)'
+    4dw: '[Wikipedia: Four-day week](https://en.wikipedia.org/wiki/Four-day_week)'
