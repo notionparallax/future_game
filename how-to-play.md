@@ -57,6 +57,8 @@ For these first rounds, keep them quick, 10 minutes or so. You should keep these
 
     This might not be scientifically supportable, but you can get to some pretty interesting and unintuitive results from it.
 
+    Obviously this is only *one* of many possible ways these five questions could be answered. *"Not many bees"* might lead to all kinds of different outcomes; maybe even contradictory ones.
+
 1. Once you've got a pretty good grasp on how the ideas interact, take some time to think about them from different perspectives.
 
     - How does it affect the economy? What about under different forms of government? How would they deal with it in the USA, in France, in China, in North Korea?
