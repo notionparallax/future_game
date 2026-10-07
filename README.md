@@ -18,21 +18,21 @@ printed card. Pushes to `main` build and deploy to GitHub Pages
 
 ## Layout
 
-| Path | What it is |
-|---|---|
-| `cards/` | One YAML file per card. `live: true` cards are printed |
-| `images/` | Card images, referenced by `image.source` |
-| `assets/` | The canvas used in the final round |
-| `templates/` | Page templates and the print stylesheet |
-| `build.py` | Validation and build |
-| `tools/` | Helpers, such as `commons_image.py` for finding images |
+| Path         | What it is                                             |
+|--------------|--------------------------------------------------------|
+| `cards/`     | One YAML file per card. `live: true` cards are printed |
+| `images/`    | Card images, referenced by `image.source`              |
+| `assets/`    | The canvas used in the final round                     |
+| `templates/` | Page templates and the print stylesheet                |
+| `build.py`   | Validation and build                                   |
+| `tools/`     | Helpers, such as `commons_image.py` for finding images |
 
 ## What gets built
 
-| Output | What it is |
-|---|---|
-| `index.html` | How to play |
-| `cards.html`, `the_cards.pdf` | The cards, then a credits and sources section |
+| Output                                      | What it |
+|---------------------------------------------|---------|
+| `index.html`                                | How to play                                                                       |
+| `cards.html`, `the_cards.pdf`               | The cards, then a credits and sources section                                     |
 | `facilitator.html`, `facilitator_guide.pdf` | Extra prompts and notes for the facilitator, from each card's `facilitator` block |
 
 The card face only carries the picture, a short caption and the numbered footnote
